@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  pelican:
+    command: content -s pelican-conf.py
+    image: williamjackson/pelican:4.1.1
