@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title|striptags }} / {{ SITENAME }}{% endblock %}
+
+{% block main_content %}
+    <h2>{{ article.title }}</h2>
+    <p>by {{ article.author.name }} on {{ article.locale_date }}</p>
+    {{ article.content }}
+{% endblock %}
