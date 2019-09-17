@@ -20,7 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 EXTRA_PATH_METADATA = {
-    'extra/googleb417364cc8d4ecab.html_': {'path': 'googleb417364cc8d4ecab.html'},
+    'extra/googleb417364cc8d4ecab.txt': {'path': 'googleb417364cc8d4ecab.html'},
     'extra/headers.txt': {'path': '_headers'},
     'extra/robots.txt': {'path': 'robots.txt'}
 }
@@ -34,7 +34,7 @@ SITENAME = 'Accio Jacksons!'
 SITESUBTITLE = 'An 11-inch holly blog with a phoenix feather core'
 SITEURL = FEED_DOMAIN
 STATIC_CHECK_IF_MODIFIED = True
-STATIC_PATHS = ['images', 'extra/googleb417364cc8d4ecab.html_', 'extra/robots.txt']
+STATIC_PATHS = ['extra']
 TAG_SAVE_AS = ''
 TAGS_SAVE_AS = ''
 THEME = 'themes/accio'
