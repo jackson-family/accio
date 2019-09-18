@@ -49,14 +49,16 @@ TRANSLATION_FEED_ATOM = None
 context = os.getenv('CONTEXT')
 url = os.getenv('URL')
 deploy_url = os.getenv('DEPLOY_URL')
+deploy_prime_url = os.getenv('DEPLOY_PRIME_URL')
 
 log.info(f'CONTEXT: {context}')
 log.info(f'URL: {url}')
 log.info(f'DEPLOY_URL: {deploy_url}')
+log.info(f'DEPLOY_PRIME_URL {deploy_prime_url}')
 
 if context == 'production':
     FEED_DOMAIN = url
     SITEURL = url
 else:
-    FEED_DOMAIN = deploy_url
-    SITEURL = deploy_url
+    FEED_DOMAIN = deploy_prime_url
+    SITEURL = deploy_prime_url
