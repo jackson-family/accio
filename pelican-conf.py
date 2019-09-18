@@ -1,3 +1,8 @@
+import logging
+import os
+
+log = logging.getLogger(__name__)
+
 ARCHIVES_SAVE_AS = ''
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{urlname}.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{urlname}'
@@ -26,14 +31,12 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'}
 }
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_DOMAIN = 'https://accio.subtlecoolness.com'
 GZIP_CACHE = True
 LOAD_CONTENT_CACHE = True
 PATH = 'content'
 RELATIVE_URLS = False
 SITENAME = 'Accio Jacksons!'
 SITESUBTITLE = 'An 11-inch holly blog with a phoenix feather core'
-SITEURL = FEED_DOMAIN
 STATIC_CHECK_IF_MODIFIED = True
 STATIC_PATHS = ['extra']
 TAG_SAVE_AS = ''
@@ -41,3 +44,18 @@ TAGS_SAVE_AS = ''
 THEME = 'themes/accio'
 TIMEZONE = 'America/Chicago'
 TRANSLATION_FEED_ATOM = None
+
+context = os.getenv('CONTEXT')
+url = os.getenv('URL')
+deploy_url = os.getenv('DEPLOY_URL')
+
+log.info(f'CONTEXT: {context}')
+log.info(f'URL: {url}')
+log.info(f'DEPLOY_URL: {deploy_url}')
+
+if context == 'production':
+    FEED_DOMAIN = url
+    SITEURL = url
+else:
+    FEED_DOMAIN = deploy_url
+    SITEURL = deploy_url
