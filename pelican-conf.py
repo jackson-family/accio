@@ -2,6 +2,7 @@ import logging
 import os
 
 log = logging.getLogger(__name__)
+log.setLevel(logging.INFO)
 
 ARCHIVES_SAVE_AS = ''
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{urlname}.html'
