@@ -9,15 +9,16 @@ won&#x02bc;t hurt my feelings if you don&#x02bc;t read this.)
 
 Last week, I got the following email from our parking coordinator at work.
 
-> Rebecca - effective **Monday, 01/12/09**, space 1042 will be your assigned
-> parking space, and your assignment at the Capitol Visitor&#x02bc;s (CV) garage
-> will terminate. Please remove the CV garage decal from your vehicle(s).
->
-> The CV access card #10290 issued to you in May of 2006, must be returned to
-> Parking Administration in Rm. 153, before close of business on Tuesday,
-> 01/13/09.
->
-> You will receive a separate email regarding decal placement.
+<blockquote class="blockquote pl-3 border-left">
+    <p>Rebecca - effective <strong>Monday, 01/12/09</strong>, space 1042 will be
+    your assigned parking space, and your assignment at the Capitol
+    Visitor&#x02bc;s (CV) garage will terminate. Please remove the CV garage
+    decal from your vehicle(s).</p>
+    <p>The CV access card #10290 issued to you in May of 2006, must be returned
+    to Parking Administration in Rm. 153, before close of business on Tuesday,
+    01/13/09.</p>
+    <p>You will receive a separate email regarding decal placement.</p>
+</blockquote>
 
 Right now, I park across the street in a parking garage. I don&#x02bc;t mind
 parking there because the parking is covered, and every little bit of exercise
@@ -26,16 +27,20 @@ years of state service. I have about 3.5 years of service, and I know there are
 other people with more service than I have who are still parking in the same
 parking garage as me. So, I emailed her back:
 
-> Is this an uncovered parking space? If possible, I&#x02bc;d prefer to stay in
-> the CV with covered parking and let someone else from the CV lot move to the
-> spot that you&#x02bc;ve recommended from me. Is that a problem? (Just thought
-> I&#x02bc;d ask before committing &hellip;)
+<blockquote class="blockquote pl-3 border-left">
+    <p>Is this an uncovered parking space? If possible, I&#x02bc;d prefer to
+    stay in the CV with covered parking and let someone else from the CV lot
+    move to the spot that you&#x02bc;ve recommended from me. Is that a problem?
+    (Just thought I&#x02bc;d ask before committing &hellip;)</p>
+</blockquote>
 
 This is her response:
 
-> Unfortunately, Rebecca, that is no longer an option. If you qualify based on
-> longevity and there is a parking space available, you are required to move to
-> TWC property. Sorry
+<blockquote class="blockquote pl-3 border-left">
+    <p>Unfortunately, Rebecca, that is no longer an option. If you qualify based
+    on longevity and there is a parking space available, you are required to
+    move to TWC property. Sorry</p>
+</blockquote>
 
 That was *it*. She signed it with &ldquo;Sorry&rdquo;? I&#x02bc;m pretty sure
 that she was not sorry at all, but rather, was sitting in her little office in
