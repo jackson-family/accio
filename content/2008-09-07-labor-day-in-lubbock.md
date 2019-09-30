@@ -21,7 +21,7 @@ saw *turbines* similar to these. I felt pretty dumb, but honestly, who says
 &ldquo;turban&rdquo; when they mean &ldquo;turbine&rdquo;? Sheesh. But then on
 the way to Lubbock we saw more of them.
 
-<img src="{static>/images/2008-08-30-windmills.jpg" alt="Turbines" class="img-fluid">
+<img src="{static}/images/2008-08-30-windmills.jpg" alt="Turbines" class="img-fluid">
 
 Here are Ellen and Jack with Winnie the Pooh and Eeyore. Ellen wanted me to take
 her picture a whole lot, so I told her to go get ready. And she pulled out the
