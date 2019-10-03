@@ -7,7 +7,7 @@ author: Rebecca
 At General Conference this weekend, President Monson announced that a new temple
 would be built in Rome, Italy. Upon hearing this announcement, I let out an
 audible gasp (just ask William) but was not alone, given the low rumble that we
-could hear from the Conference Center audience. This announcement, though
+could hear from the Conference Center audience. This announce&shy;ment, though
 entirely welcome, was entirely unexpected. The Church has been in Italy for a
 relatively long time, but the missionary work is slow going, due to
 long-standing cultural and religious preferences.
