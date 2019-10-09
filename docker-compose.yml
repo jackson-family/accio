@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  pelican:
+  test:
     image: williamjackson/pelican:4.1.3
 
   clean:
