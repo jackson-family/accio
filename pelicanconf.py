@@ -28,7 +28,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 EXTRA_PATH_METADATA = {
     'extra/googleb417364cc8d4ecab.txt': {'path': 'googleb417364cc8d4ecab.html'},
-    'extra/headers.txt': {'path': '_headers'},
     'extra/robots.txt': {'path': 'robots.txt'}
 }
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
