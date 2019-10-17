@@ -1,1 +1,1 @@
-pelican[Markdown]==4.1.3
+pelican[Markdown]==4.2.0
