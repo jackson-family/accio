@@ -46,7 +46,7 @@ where she had to come up with like 100 things.
     in the house. Maybe it&#x02bc;s a good thing I don&#x02bc;t have a million
     dollars. Clearly I wouldn&#x02bc;t be very responsible with it. What I
     should&#x02bc;ve said: I would (a) buy William a used Toyota Camry; (b) put
-    a 20% down payment on a house; and (c0 save the rest for my retirement and
+    a 20% down payment on a house; and (c) save the rest for my retirement and
     kids&#x02bc; college.
 13. I like finding old friends on Facebook. I&#x02bc;ve located most of my old
     BYU roommates, except for the crazy ones that I never want to talk to again
