@@ -1,7 +1,7 @@
 title: Two good books
 slug: two-good-books
 urlname: two-good-books
-date: 2009-01-26
+date: 2009-01-26 10:00
 author: Rebecca
 
 I&#x02bc;ve been reading up a storm lately. I go through phases. My previous
