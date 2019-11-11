@@ -1,5 +1,5 @@
 title: Two good books
-slug: two-good-books
+slug: two-good-books-01
 urlname: two-good-books
 date: 2008-08-20
 author: Rebecca
