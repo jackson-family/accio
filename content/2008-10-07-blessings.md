@@ -1,9 +1,10 @@
+---
 title: Blessings and Benedizioni
 slug: blessings-and-benedizioni
 urlname: blessings-and-benedizioni
 date: 2008-10-07
 author: Rebecca
-
+---
 At General Conference this weekend, President Monson announced that a new temple
 would be built in Rome, Italy. Upon hearing this announcement, I let out an
 audible gasp (just ask William) but was not alone, given the low rumble that we

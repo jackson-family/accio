@@ -1,9 +1,10 @@
+---
 title: I just called Japan. I think.
 slug: i-just-called-japan-i-think
 urlname: i-just-called-japan-i-think
 date: 2008-11-05
 author: Rebecca
-
+---
 My monthly Toyota bill still has my maiden name on it. That name served me so
 well for so long, so I admittedly have a bit of a hard time changing it still.
 But it must be done, especially in important situations that could involve the

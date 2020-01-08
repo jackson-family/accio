@@ -1,9 +1,10 @@
+---
 title: She&#x02bc;s a girl!
 slug: shes-a-girl
 urlname: shes-a-girl
 date: 2011-01-28
 author: Rebecca
-
+---
 Yesterday, a lady at the park asked me how old my little boy was. Sheesh. If I
 had a smarter phone, I could&#x02bc;ve showed her these pictures, as if
 there&#x02bc;s any question about how girly Emily really is.

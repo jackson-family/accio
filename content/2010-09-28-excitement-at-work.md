@@ -1,9 +1,10 @@
+---
 title: Excitement at Work; I Am Just Fine
 slug: excitement-at-work
 urlname: excitement-at-work
 date: 2010-09-28
 author: William
-
+---
 You may have heard about [a shooting this morning at the university where I
 work][a]. For those that may be concerned, I was nowhere near the action and I
 am quite safe.

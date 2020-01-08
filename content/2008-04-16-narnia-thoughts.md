@@ -1,9 +1,10 @@
+---
 title: Narnia Thoughts
 slug: narnia-thoughts
 urlname: narnia-thoughts
 date: 2008-04-16
 author: Rebecca
-
+---
 When I was roommates with Elizabeth, we would sometimes talk about our list of
 questions to ask God. The idea was that there are just some things about life
 that no one can explain except God, and we sometimes spend a whole lot of time

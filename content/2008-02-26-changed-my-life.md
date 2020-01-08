@@ -1,9 +1,10 @@
+---
 title: One more way Rebecca has changed my life
 slug: changed-my-life
 urlname: changed-my-life
 date: 2008-02-26
 author: William
-
+---
 <div class="mx-5">
 	<div class="alert alert-primary">
 		<p class="text-right mb-0">so.<br>taking the lid off the yogurt cup</p>

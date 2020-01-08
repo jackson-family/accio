@@ -1,9 +1,10 @@
+---
 title: Coincidences
 slug: coincidences-2
 urlname: coincidences
 date: 2008-02-21
 author: Rebecca
-
+---
 I&#x02bc;ve been meaning to write this post for a few weeks now, ever since I
 found out that my good friend [Janae][a] whom I worked with in Washington DC in
 the summer of 2003 was in my Political Science 110 class at BYU in the fall of

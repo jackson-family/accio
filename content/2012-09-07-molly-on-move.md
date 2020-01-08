@@ -1,9 +1,10 @@
+---
 title: Molly on the Move
 slug: molly-on-move
 urlname: molly-on-move
 date: 2012-09-07
 author: Rebecca
-
+---
 I was looking through my blogs, and it appears that the last post I wrote about
 Molly is called &ldquo;Molly&#x02bc;s Newborn Photos.&rdquo; Well. That is kind
 of embarrassing because she will be nine months old next week. She is no longer

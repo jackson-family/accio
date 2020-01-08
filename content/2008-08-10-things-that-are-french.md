@@ -1,9 +1,10 @@
+---
 title: Things That Are French
 slug: things-that-are-french
 urlname: things-that-are-french
 date: 2008-08-10
 author: William
-
+---
 Saturday night Rebecca and I and another couple from our ward went to Zilker
 Park in downtown Austin to see [an outdoor production][a] of *Beauty and the
 Beast*. We went to the last show of the season, so the directors and producers

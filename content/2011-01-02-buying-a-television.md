@@ -1,9 +1,10 @@
+---
 title: William&#x02bc;s Guide to Buying a Television
 slug: buying-a-television
 urlname: buying-a-television
 date: 2011-01-02
 author: William
-
+---
 ### Step 1: Find someone who will give you a television for free.
 
 <img src="{static}/images/2011-01-02-new-television.jpg" alt="New television!" class="img-fluid">

@@ -1,9 +1,10 @@
+---
 title: California Visitors
 slug: california-visitors
 urlname: california-visitors
 date: 2008-09-23
 author: Rebecca
-
+---
 Last weekend, my dad&#x02bc;s brother Jim, his wife Martine, his son John,
 John&#x02bc;s wife Bianca, and their picture-perfect, oh, so cute, daughter
 Marea came to visit New Braunfels from San Diego. These are the California

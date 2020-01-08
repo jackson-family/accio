@@ -1,9 +1,10 @@
+---
 title: Veggie Tales, or the Jacksons Try Organic
 slug: veggie-tales
 urlname: veggie-tales
 date: 2009-03-04
 author: Rebecca
-
+---
 We are now the proud owners of (a very small part of) a farm. A few months ago,
 my friend wrote on her blog about a CSA here in Austin that she had recently
 joined, and from which she received a box of freshly harvested vegetables each

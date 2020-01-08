@@ -1,9 +1,10 @@
+---
 title: Emily Starts Preschool
 slug: emily-starts-preschool
 urlname: emily-starts-preschool
 date: 2012-09-06
 author: Rebecca
-
+---
 Today, Emily started preschool! She will go to preschool twice a week from 9:30
 to 1:30. Emily&#x02bc;s teacher is Miss Rachel, and there are eight kids in her
 class. The first thing that she told me when I picked her up is that they played

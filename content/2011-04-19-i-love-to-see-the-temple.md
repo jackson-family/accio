@@ -1,9 +1,10 @@
+---
 title: I love to see the temple
 slug: i-love-to-see-the-temple
 urlname: i-love-to-see-the-temple
 date: 2011-04-19
 author: Rebecca
-
+---
 As part of William&#x02bc;s birthday celebration in March, we took Emily to see
 the San Antonio Temple.
 

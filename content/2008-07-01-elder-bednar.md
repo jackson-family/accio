@@ -1,9 +1,10 @@
+---
 title: Elder Bednar
 slug: elder-bednar
 urlname: elder-bednar
 date: 2008-07-01
 author: Rebecca
-
+---
 William and I happen to be in the same ward as Elder David A. Bednar&#x02bc;s
 oldest son Michael and his family. The younger Bednars have lived in Austin for
 the last four years while Michael has worked on his graduate degree. Since

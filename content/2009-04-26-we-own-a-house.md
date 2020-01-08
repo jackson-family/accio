@@ -1,9 +1,10 @@
+---
 title: oh and by the way we own a house
 slug: we-own-a-house
 urlname: we-own-a-house
 date: 2009-04-26
 author: William
-
+---
 &ldquo;Rebecca and I signed several dozen documents Thursday morning, and now we
 own a house.&rdquo;
 

@@ -1,9 +1,10 @@
+---
 title: This Is Halloween
 slug: this-is-halloween
 urlname: this-is-halloween
 date: 2008-11-02
 author: William
-
+---
 <img src="{static}/images/2008-10-31-pumpkin-01.jpg" alt="Pumpkin" class="img-fluid">
 
 You start with a humble pumpkin, carefully selected. Pick one you like, but try

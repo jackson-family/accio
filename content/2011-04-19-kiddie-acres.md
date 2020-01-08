@@ -1,9 +1,10 @@
+---
 title: Kiddie Acres
 slug: kiddie-acres
 urlname: kiddie-acres
 date: 2011-04-19
 author: Rebecca
-
+---
 A few weeks ago, my sister-in-law Monica and her youngest, Ryan, showed up at my
 house and basically begged us to go have some fun with them. She had tickets to
 a little amusement park nearby that were expiring, and she wanted some company.

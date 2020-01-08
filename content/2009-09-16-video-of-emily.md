@@ -1,9 +1,10 @@
+---
 title: Video of Emily
 slug: video-of-emily
 urlname: video-of-emily
 date: 2009-09-16
 author: William
-
+---
 If you get this via email, you might have to come to the site to see the video.
 
 <div class="c7ec6da9 position-relative">

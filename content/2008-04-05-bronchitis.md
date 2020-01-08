@@ -1,9 +1,10 @@
+---
 title: Bronchitis
 slug: bronchitis
 urlname: bronchitis
 date: 2008-04-05
 author: Rebecca
-
+---
 The diagnosis is in &mdash; William has bronchitis. He went back to the doctor
 yesterday morning and came home with a diagnosis and a prescription for a nifty
 inhaler and cough syrup laced with codeine. We&#x02bc;ve already picked up both

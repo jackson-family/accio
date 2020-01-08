@@ -1,9 +1,10 @@
+---
 title: Night, night! Don&#x02bc;t let the OUCH!
 slug: night-night-dont-let-the-ouch
 urlname: night-night-dont-let-the-ouch
 date: 2008-09-16
 author: Rebecca
-
+---
 At the end of July, I noticed that I was breaking out in a rash on my arms and
 back, with a few other isolated breakouts on my legs and feet. They were red and
 very, very itchy. At first, I thought they looked like bug bites and wondered if

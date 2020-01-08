@@ -1,9 +1,10 @@
+---
 title: Saturday Fun!
 slug: saturday-fun
 urlname: saturday-fun
 date: 2008-04-27
 author: Rebecca
-
+---
 William and I had an amazing day yesterday. It was one of those days where you
 come home at the end and think, &ldquo;This day really was as good as it sounds
 on paper.&rdquo; It started out with an 8 a.m. session at the San Antonio

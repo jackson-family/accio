@@ -1,9 +1,10 @@
+---
 title: New Year&#x02bc;s Eve
 slug: new-years-eve
 urlname: new-years-eve
 date: 2008-01-01
 author: Rebecca
-
+---
 This was my first New Year&#x02bc;s Eve to have a significant other to celebrate
 with. I&#x02bc;ve always thought that New Year&#x02bc;s Eve was kind of a lame
 holiday, but I would usually find something to do, in the hopes of redeeming it.

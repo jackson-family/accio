@@ -1,9 +1,10 @@
+---
 title: Fire drill; or how I narrowly escaped being burned to a crisp
 slug: fire-drill
 urlname: fire-drill
 date: 2008-04-30
 author: Rebecca
-
+---
 This morning, our department got the following email from our admin Jill.
 
 <blockquote class="blockquote pl-3 border-lest">

@@ -1,9 +1,10 @@
+---
 title: Nursery Scribbles
 slug: nursery-scribbles
 urlname: nursery-scribbles
 date: 2011-05-30
 author: Rebecca
-
+---
 Emily loves going to nursery at church. In fact, she would skip sacrament
 meeting altogether if it meant more nursery time. (Actually, so would I, but
 that&#x02bc;s a different matter altogether.) Anyway, each week she comes home

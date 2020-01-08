@@ -1,9 +1,10 @@
+---
 title: Bulldozer
 slug: bulldozer
 urlname: bulldozer
 date: 2008-03-13
 author: Rebecca
-
+---
 Last Saturday, William and I spent the afternoon in New Braunfels with my
 family. Our nephews John and Jacob also were there visiting Grandma and Pop. We
 took the boys for a walk in the neighborhood because it was such a nice

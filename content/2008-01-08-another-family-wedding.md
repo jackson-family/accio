@@ -1,9 +1,10 @@
+---
 title: Another family wedding
 slug: another-family-wedding
 urlname: another-family-wedding
 date: 2008-01-08
 author: Rebecca
-
+---
 William and I went to Idaho on Friday to attend his brother Eric&#x02bc;s
 wedding. We drove up from Salt Lake City in the morning and spent a collective 8
 hours on I-15 that day. Idaho is a really odd place, I&#x02bc;ve decided.

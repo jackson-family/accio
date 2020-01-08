@@ -1,9 +1,10 @@
+---
 title: Baby Shower
 slug: baby-shower
 urlname: baby-shower
 date: 2008-07-27
 author: Rebecca
-
+---
 Last weekend, I volunteered to do the food for my visiting teacher&#x02bc;s baby
 shower. I figured that would be much safer than doing the games, which are
 usually completely ridiculous at baby showers. (I&#x02bc;ve never understood why

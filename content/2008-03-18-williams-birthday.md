@@ -1,9 +1,10 @@
+---
 title: William&#x02bc;s Birthday
 slug: williams-birthday
 urlname: williams-birthday
 date: 2008-03-18
 author: Rebecca
-
+---
 William turned 26 on March 17. It was a happy day. We went to the grocery store,
 took a run around the neighborhood, ate corndogs for dinner, and opened
 presents. William was really, really happy.

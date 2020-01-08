@@ -1,9 +1,10 @@
+---
 title: My new favorite toy
 slug: my-new-favorite-toy
 urlname: my-new-favorite-toy
 date: 2008-10-19
 author: Rebecca
-
+---
 I like making pies, and I&#x02bc;m always trying new ones. Custard pies, cream
 pies, meringue pies &mdash; they&#x02bc;re all good. The one pie that
 I&#x02bc;ve been afraid to try is an apple pie. Why, you say? Isn&#x02bc;t there

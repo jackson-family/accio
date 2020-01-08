@@ -1,9 +1,10 @@
+---
 title: Dad&#x02bc;s Birthday (or my goofy, lovable family)
 slug: dads-birthday
 urlname: dads-birthday
 date: 2008-08-03
 author: Rebecca
-
+---
 I was just looking at the pictures from Dad&#x02bc;s birthday party a few
 weekends ago and thought that I should post these pictures because they are just
 classic pictures of my family.

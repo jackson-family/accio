@@ -1,9 +1,10 @@
+---
 title: The Force is strong with this one.
 slug: the-force-is-strong-with-this-one
 urlname: the-force-is-strong-with-this-one
 date: 2008-06-28
 author: William
-
+---
 Rebecca&#x02bc;s brother Mark and his family live in Round Rock, a short
 15-minute drive from our home. We enjoy seeing him, his wife Monica, and his two
 sons often. Today we had the privilege of babysitting the boys, John and Jacob,

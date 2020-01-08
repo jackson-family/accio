@@ -1,9 +1,10 @@
+---
 title: Happy Birthday to Rebecca!
 slug: happy-birthday-to-rebecca
 urlname: happy-birthday-to-rebecca
 date: 2011-01-25
 author: William
-
+---
 We celebrated Rebecca&#x02bc;s birthday last week. On Monday, many of her family
 members came to our home for lunch. She made an incredibly delicious baked
 potato soup. Her sister Carrie brought rolls and her mother brought cake.

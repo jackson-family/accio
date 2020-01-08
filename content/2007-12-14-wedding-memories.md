@@ -1,9 +1,10 @@
+---
 title: A List of Wedding Memories
 slug: wedding-memories
 urlname: wedding-memories
 date: 2007-12-14
 author: Rebecca
-
+---
 William and I set up this blog, or rather, staked out this domain name, months
 ago, but didn&#x02bc;t want to activate it until we were married.
 

@@ -1,9 +1,10 @@
+---
 title: Still sick
 slug: still-sick
 urlname: still-sick
 date: 2008-05-16
 author: Rebecca
-
+---
 Today is the second consecutive day that I&#x02bc;ve stayed home sick, and
 it&#x02bc;s starting to get pretty boring. This might be one of those times that
 I wish we had a TV. But it&#x02bc;s really not worth the trouble, so I&#x02bc;ll

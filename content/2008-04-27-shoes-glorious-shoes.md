@@ -1,9 +1,10 @@
+---
 title: Shoes, glorious shoes!
 slug: shoes-glorious-shoes
 urlname: shoes-glorious-shoes
 date: 2008-04-27
 author: Rebecca
-
+---
 For those of you who are wondering how successful our stop at TJ Maxx was, I
 present the following photos.
 

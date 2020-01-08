@@ -1,9 +1,10 @@
+---
 title: The value of a well-directed complaint
 slug: the-value-of-a-well-directed-complaint
 urlname: the-value-of-a-well-directed-complaint
 date: 2008-10-16
 author: Rebecca
-
+---
 In recent weeks, I&#x02bc;ve learned the value of a well-directed complaint. I
 offer up some examples.
 

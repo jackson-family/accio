@@ -1,9 +1,10 @@
+---
 title: One Clear Call
 slug: one-clear-call
 urlname: one-clear-call
 date: 2012-04-26
 author: William
-
+---
 Yesterday morning (25 April) as I was driving to work,
 [listening to Morning Edition on NPR][a], I learned that April is
 [National Poetry Month][b], and today (26 April) is

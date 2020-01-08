@@ -1,9 +1,10 @@
+---
 title: We&#x02bc;re a Pepper
 slug: were-a-pepper
 urlname: were-a-pepper
 date: 2008-03-16
 author: Rebecca
-
+---
 William and I spent this weekend in Waco with the Jacksons. The primary reason
 for the trip was to celebrate William&#x02bc;s birthday with his family. But we
 were long overdue for a visit to Waco anyway, since our last trip fell

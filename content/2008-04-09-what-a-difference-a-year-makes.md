@@ -1,9 +1,10 @@
+---
 title: What a difference a year makes
 slug: what-a-difference-a-year-makes
 urlname: what-a-difference-a-year-makes
 date: 2008-04-09
 author: Rebecca
-
+---
 At the beginning of 2008, I adopted for my annual theme the phrase &ldquo;what a
 difference a year makes.&rdquo; (In 2007, my theme was &ldquo;This year is MY
 year!&rdquo; and it turned out to be an amazing year. So, I thought that

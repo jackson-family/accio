@@ -1,9 +1,10 @@
+---
 title: Mmmm, milkshakes.
 slug: milkshakes
 urlname: milkshakes
 date: 2008-01-24
 author: William
-
+---
 Rebecca and I chat all the time. Today she told me she wanted &ldquo;to pick up
 some whoppers tonight, make milkshakes and watch a movie.&rdquo; I thought
 making milkshakes out of whoppers was a great idea, and I told her so.

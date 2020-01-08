@@ -1,9 +1,10 @@
+---
 title: Lost in Austen
 slug: lost-in-austen
 urlname: lost-in-austen
 date: 2010-01-31
 author: Rebecca
-
+---
 Thanks to my friend Rachel, William and I recently watched a British miniseries
 called [_Lost in Austen_][a]. I&#x02bc;d recommend it to any _Pride and
 Prejudice_ fan with a caveat not to take it too seriously. To summarize,

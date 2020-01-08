@@ -1,9 +1,10 @@
+---
 title: The Texas Hayfield Maze
 slug: the-texas-hayfield-maze
 urlname: the-texas-hayfield-maze
 date: 2008-10-12
 author: William
-
+---
 On Saturday Rebecca and I went to [Sweet Berry Farm][a] in Marble Falls, Texas.
 We got a lift on a hayride to the [Texas Maze][b]. This is a huge
 &ldquo;hayfield maze&rdquo; shaped like Texas.

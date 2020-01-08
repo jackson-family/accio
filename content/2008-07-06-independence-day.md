@@ -1,9 +1,10 @@
+---
 title: In which we spend Independence Day Weekend with our family
 slug: independence-day
 urlname: independence-day
 date: 2008-07-06
 author: William
-
+---
 Friday morning Rebecca and I ate pancakes and bacon and applesauce at the church
 with the rest of our ward. We sang patriotic songs together, including
 [*Columbia, the Gem of the Ocean*][a]. While I do not recall hearing these

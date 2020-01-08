@@ -1,9 +1,10 @@
+---
 title: Token Halloween Post
 slug: token-halloween-post
 urlname: token-halloween-post
 date: 2010-10-31
 author: Rebecca
-
+---
 Last night was our ward&#x02bc;s trunk or treat, which meant that about 70
 families, complete with scary costumed kids, parked in our parking lot and
 handed out candy to unsuspecting passersby. In theory this was safer than going

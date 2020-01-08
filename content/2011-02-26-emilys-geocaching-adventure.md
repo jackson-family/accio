@@ -1,9 +1,10 @@
+---
 title: Emily&#x02bc;s Geocaching Adventure
 slug: emilys-geocaching-adventure
 urlname: emilys-geocaching-adventure
 date: 2011-02-26
 author: William
-
+---
 Today Rebecca went to a Women&#x02bc;s Conference at church, so Emily and I went
 on a father-daughter date to the park. I invited some other fathers in the
 neighborhood, but nobody else could make it. But that&#x02bc;s okay!
