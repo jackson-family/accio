@@ -12,4 +12,5 @@ ending.
 
 Second of all, does anyone else see a slight resemblance here?
 
-<img src="{static}/images/2009-05-17-william.jpg"> <img src="{static}/images/2009-05-17-spock.jpg">
+<img src="{static}/images/2009-05-17-william.jpg" height="500">
+<img src="{static}/images/2009-05-17-spock.jpg" height="500">
