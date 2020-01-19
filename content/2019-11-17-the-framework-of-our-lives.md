@@ -8,7 +8,7 @@ author: William
 *This is the transcript of a talk I gave in church on Sunday, November 17,
 2019.*
 
-<audio controls src="{static>/extra/2019-11-17-the-framework-of-our-lives.mp3">
+<audio controls src="{static}/extra/2019-11-17-the-framework-of-our-lives.mp3">
     <p>
         <a href="{static}/extra/2019-11-17--the-framework-of-our-lives.mp3">An
         audio recording of my remarks</a> is also available.
