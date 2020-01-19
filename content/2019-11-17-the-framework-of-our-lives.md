@@ -8,12 +8,7 @@ author: William
 *This is the transcript of a talk I gave in church on Sunday, November 17,
 2019.*
 
-<audio controls src="{static}/extra/2019-11-17-the-framework-of-our-lives.mp3">
-    <p>
-        <a href="{static}/extra/2019-11-17--the-framework-of-our-lives.mp3">An
-        audio recording of my remarks</a> is also available.
-    </p>
-</audio>
+<audio controls src="{static}/extra/2019-11-17-the-framework-of-our-lives.mp3"></audio>
 
 The phrase &ldquo;concluding speaker&rdquo; can mean a lot of things to a lot of
 people. Sometimes it means I have to be flexible and write a talk that I can
@@ -43,11 +38,15 @@ rebuke][b]:
 
 [b]: https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3.15-16#p15
 
-> I know thy works, that thou art neither cold nor hot: I would thou wert cold
-> or hot. So then because thou art lukewarm, and neither cold nor hot, I will
-> spue thee out of my mouth.
+<blockquote class="blockquote pl-3 border-left">
+    <p>
+        I know thy works, that thou art neither cold nor hot: I would thou wert
+        cold or hot. So then because thou art lukewarm, and neither cold nor
+        hot, I will spue thee out of my mouth.
+    </p>
+</blockquote>
 
-Some modern translations say &ldqou;I will vomit thee out of my mouth&rdquo;,
+Some modern translations say &ldquo;I will vomit thee out of my mouth&rdquo;,
 which is a little bit more colorful.
 
 Laodicea was near two other towns, each of which had a unique water source. To
