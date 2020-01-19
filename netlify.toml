@@ -9,7 +9,7 @@ PIP_DISABLE_PIP_VERSION_CHECK = "yes"
 for = "/*"
 
 [headers.values]
-  Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; frame-src https://player.vimeo.com; img-src 'self'; object-src 'none'; script-src 'self' https://player.vimeo.com; style-src 'self'"
+  Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; frame-src https://player.vimeo.com; img-src 'self'; media-src 'self'; object-src 'none'; script-src 'self' https://player.vimeo.com; style-src 'self'"
           Referrer-Policy = "same-origin"
 Strict-Transport-Security = "max-age=15768000"
    X-Content-Type-Options = "nosniff"
