@@ -5,6 +5,7 @@ log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 
 ARCHIVES_SAVE_AS = ''
+ARTICLE_EXCLUDES = ['extra']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{urlname}.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{urlname}'
 AUTHOR = 'Rebecca and William Jackson'
@@ -27,7 +28,7 @@ DELETE_OUTPUT_DIRECTORY = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 EXTRA_PATH_METADATA = {
-    'extra/googleb417364cc8d4ecab.txt': {'path': 'googleb417364cc8d4ecab.html'},
+    'extra/googleb417364cc8d4ecab.html': {'path': 'googleb417364cc8d4ecab.html'},
     'extra/robots.txt': {'path': 'robots.txt'}
 }
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -53,7 +54,7 @@ deploy_prime_url = os.getenv('DEPLOY_PRIME_URL')
 log.info(f'CONTEXT: {context}')
 log.info(f'URL: {url}')
 log.info(f'DEPLOY_URL: {deploy_url}')
-log.info(f'DEPLOY_PRIME_URL {deploy_prime_url}')
+log.info(f'DEPLOY_PRIME_URL: {deploy_prime_url}')
 
 if context == 'production':
     FEED_DOMAIN = url
