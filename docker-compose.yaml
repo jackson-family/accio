@@ -9,6 +9,7 @@ services:
     entrypoint:
     - /bin/rm
     - -fr
+    - __pycache__
     - cache
     - output
     working_dir: /pelican-site
