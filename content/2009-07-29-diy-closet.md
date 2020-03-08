@@ -8,7 +8,7 @@ author: Rebecca
 What&#x02bc;s the best way to bond with your spouse prior to the arrival of your
 first child?
 
-<ol style="list-style-type: upper-alpha;">
+<ol class="list-style-upper-alpha">
 <li>Take a romantic babymoon, complete with a spa package.</li>
 <li>Treat yourselves to a dinner at a fancy restaurant and order dessert.</li>
 <li>Remodel your master closet.</li>
