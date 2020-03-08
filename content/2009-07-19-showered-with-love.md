@@ -71,7 +71,7 @@ Later, one of them asked me if he was European, because he is so &ldquo;exotic
 looking.&rdquo; And they were kind of sad that he didn&#x02bc;t wear his Trilby
 hat.
 
-<img src="{static}/images/2009-07-02-baby-shower-04.jpg" class="img-fluid">
+<img src="{static}/images/2009-07-02-baby-shower-05.jpg" class="img-fluid">
 
 Here&#x02bc;s one of the cute outfits that we got. Looks a little small on
 William but should be darling on our baby.
