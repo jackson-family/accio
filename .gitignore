@@ -2,3 +2,4 @@
 cache
 docker-compose.override.yaml
 output
+__pycache__
