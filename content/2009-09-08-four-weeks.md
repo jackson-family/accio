@@ -30,4 +30,4 @@ My favorite part about Emily is that her smile is about to burst out.
 Here&#x02bc;s just the slightest hint of a crooked smile. That&#x02bc;s how we
 know she&#x02bc;s mine!
 
-![Emily]({static}/images/2009-09-07-emily-02.jpg)
+![Emily]({static}/images/2009-09-07-emily-03.jpg)
