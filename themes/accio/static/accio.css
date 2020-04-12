@@ -24,3 +24,8 @@
 .list-style-upper-alpha {
 	list-style-type: upper-alpha;
 }
+
+img {
+	max-width: 100%;
+	height: auto;
+}
