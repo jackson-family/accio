@@ -43,8 +43,12 @@ pictures AND no ironing!
 Here are two pictures that I think are really, really funny. John got a bike for
 Christmas, but he wasn&#x02bc;t the only one who had fun with it.
 
-<img src="{static}/images/2007-12-25-carrie-bike.jpg" alt="Carrie with John&#x02bc;s bike" class="img-fluid">
+![Carrie with John&#x02bc;s bike][a]
 
-<img src="{static}/images/2007-12-25-mark-bike.jpg" alt="Mark with John&#x02bc;s bike" class="img-fluid">
+[a]: {static}/images/2007-12-25-carrie-bike.jpg
+
+![Mark with John&#x02bc;s bike][b]
+
+[b]: {static}/images/2007-12-25-mark-bike.jpg
 
 Merry Christmas!
