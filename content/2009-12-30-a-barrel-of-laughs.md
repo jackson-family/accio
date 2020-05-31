@@ -12,7 +12,7 @@ at least a dozen times, and it still makes me smile. As my grandmother says, it
 seems that we have a very jolly baby!
 
 <video controls preload="metadata">
-    <source src="{static}/images/2009-12-29-laughing.mp4">
+    <source src="{static}/images/2009-12-30-laughing.mp4">
 </video>
 
 ![Emily][a]
