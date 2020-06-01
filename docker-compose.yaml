@@ -1,15 +1,21 @@
 version: '3'
 
 services:
-  test:
+  dev:
     image: williamjackson/pelican:4.2.0
+    command:
+      - --autoreload
+      - --listen
+    ports:
+      - 8000:8000
 
   clean:
-    image: busybox:1.31.0
+    image: williamjackson/pelican:4.2.0
     entrypoint:
-    - /bin/rm
-    - -fr
-    - __pycache__
-    - cache
-    - output
-    working_dir: /pelican-site
+      - /bin/rm
+    command:
+      - -f
+      - -r
+      - __pycache__
+      - cache
+      - output
