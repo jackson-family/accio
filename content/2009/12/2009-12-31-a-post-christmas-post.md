@@ -56,7 +56,7 @@ tissue paper.
 
 ![Emily][g]
 
-[g]: {static}/images/2009-12-25-christmas-07.jpg
+[g]: {static}/images/2009-12-25-christmas-08.jpg
 
 And here we have one tired little girl who pulled out a lot of that teddy
 bear&#x02bc;s fur.
