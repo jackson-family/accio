@@ -61,4 +61,4 @@ little.
 Here&#x02bc;s a video. I felt like a little kid again with my kite, and
 I&#x02bc;m sure that we&#x02bc;ll be going out there again.
 
-<video control preload="metadata"><source src="{static}/images/2008-02-23-kite.mp4"></video>
+<video controls preload="metadata"><source src="{static}/images/2008-02-23-kite.mp4"></video>
