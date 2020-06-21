@@ -40,6 +40,6 @@ my wedding day. But here are some of my favorites from Tiffany.
 Also, this picture makes me laugh because Tiffany brought her baby to the shoot,
 and Emily seemed a bit taken back by this other bundle of mobile cuteness.
 
-![Emily][h]
+![Emily][i]
 
 [i]: {static}/images/2010-02-26-emily-10.jpg
