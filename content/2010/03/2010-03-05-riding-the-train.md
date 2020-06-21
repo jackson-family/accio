@@ -20,4 +20,4 @@ dizzying level of fun in playing with the box.
 
 ![Emily][a]
 
-[a]: {static}/images/2010-02-26-emily.jpg
+[a]: {static}/images/2010-02-26-emily-01.jpg
