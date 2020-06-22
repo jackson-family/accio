@@ -1,10 +1,8 @@
----
 title: 25 things about me
-slug: 25-things-about-me
 urlname: 25-things-about-me
 date: 2009-01-28
 author: Rebecca
----
+
 I got tagged on Facebook by my friend Melissa. I didn&#x02bc;t know you could do
 that. But hello, just because I am your Facebook friend does not mean that I
 want you to know 25 things about me. So, I&#x02bc;ll respond to the tag here

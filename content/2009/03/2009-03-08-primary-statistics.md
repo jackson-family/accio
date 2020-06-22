@@ -1,10 +1,8 @@
----
 title: Primary Statistics
-slug: primary-statistics
 urlname: primary-statistics
 date: 2009-03-08
 author: Rebecca
----
+
 I&#x02bc;d like to post a few statistics from my Primary class today.
 
 * Number of children in class: 7

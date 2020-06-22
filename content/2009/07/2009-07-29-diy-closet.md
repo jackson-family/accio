@@ -1,10 +1,8 @@
----
 title: DIY Closet
-slug: diy-closet
 urlname: diy-closet
 date: 2009-07-29
 author: Rebecca
----
+
 What&#x02bc;s the best way to bond with your spouse prior to the arrival of your
 first child?
 

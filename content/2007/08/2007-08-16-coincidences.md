@@ -1,10 +1,8 @@
----
 title: Coincidences
-slug: coincidences
 urlname: coincidences
 date: 2007-08-16
 author: William
----
+
 1.  This morning as I was walking from the bus stop to work with Luis, he saw
 something on the ground and said, &ldquo;Is that a passport?&rdquo; I picked it
 up, and yes it was. I took it to work and looked up the owner in the directory,

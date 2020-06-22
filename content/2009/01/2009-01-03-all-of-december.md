@@ -1,10 +1,8 @@
----
 title: All of December, reduced to one post
-slug: all-of-december
 urlname: all-of-december
 date: 2009-01-03
 author: Rebecca
----
+
 December was not a great month for blogging. But that&#x02bc;s OK, because I was
 busy getting sick (gah) and getting ready for Christmas. Woo hoo. Here are some
 of the highlights:

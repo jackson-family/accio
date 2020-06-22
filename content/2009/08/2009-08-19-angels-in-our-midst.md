@@ -1,10 +1,8 @@
----
 title: Angels in our midst
-slug: angels-in-our-midst
 urlname: angels-in-our-midst
 date: 2009-08-19
 author: Rebecca
----
+
 This quote from [Elder Holland&#x02bc;s talk][a] has been on my mind for the
 last few weeks:
 

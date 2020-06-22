@@ -1,10 +1,8 @@
----
 title: Emily Update
-slug: emily-update
 urlname: emily-update
 date: 2009-10-18T10:00
 author: Rebecca
----
+
 Emily is doing so well. She&#x02bc;s sleeping through the night now (10 pm to 6
 am) pretty predictably. Nothing really seems to get to her, so she&#x02bc;s
 pretty happy most of the time. She had her two-month checkup on Friday, which

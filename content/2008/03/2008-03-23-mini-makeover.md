@@ -1,10 +1,8 @@
----
 title: Mini Makeover
-slug: mini-makeover
 urlname: mini-makeover
 date: 2008-03-23
 author: Rebecca
----
+
 I got my makeup done by a Smashbox makeup artist on Saturday. What do you think?
 I love Smashbox makeup. (Sorry, this is a total powder puff post, but I wanted
 everyone to see how pretty it turned out!)

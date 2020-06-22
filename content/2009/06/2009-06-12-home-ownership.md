@@ -1,10 +1,8 @@
----
 title: The Joys of Home Ownership
-slug: home-ownership
 urlname: home-ownership
 date: 2009-06-12
 author: William
----
+
 And by &ldquo;joys&rdquo;, I mean &ldquo;anxieties&rdquo;.
 
 Remember [that big hailstorm that blew through Austin][a] back in March, and

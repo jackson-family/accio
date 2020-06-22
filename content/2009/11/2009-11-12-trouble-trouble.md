@@ -1,10 +1,8 @@
----
 title: Trouble, trouble
-slug: trouble-trouble
 urlname: trouble-trouble
 date: 2009-11-12T10:00
 author: Rebecca
----
+
 Does anyone else think that this looks like a sign of trouble ahead?
 
 ![Emily][a]

@@ -1,10 +1,8 @@
----
 title: Goofing Off
-slug: goofing-off
 urlname: goofing-off
 date: 2010-01-15T12:58
 author: Rebecca
----
+
 We&#x02bc;ve taken lots of cute pictures of Emily in the last few weeks, but
 they don&#x02bc;t really fall into a neat category that is easily blog-able.
 Except, you know, &ldquo;More Cute Pictures of Emily.&rdquo; But they&#x02bc;re

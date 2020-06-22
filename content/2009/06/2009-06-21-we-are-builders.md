@@ -1,10 +1,8 @@
----
 title: We are builders
-slug: we-are-builders
 urlname: we-are-builders
 date: 2009-06-21
 author: William
----
+
 Rebecca and I spent Saturday morning and early afternoon building our new
 kitchen table. Here is a 6000+ word essay describing this adventure:
 

@@ -1,10 +1,8 @@
----
 title: Emily Rides the Train
-slug: emily-rides-the-train
 urlname: emily-rides-the-train
 date: 2012-04-24
 author: William
----
+
 On Saturday, 14 April 2012, I took Emily on her first train ride. For you folks
 not in Austin, this is a small commuter rail line that runs from Leander
 (northwest of Austin) to downtown. There is a station about 3 miles from our

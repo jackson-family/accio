@@ -1,10 +1,8 @@
----
 title: A Post-Christmas Post
-slug: a-post-christmas-post
 urlname: a-post-christmas-post
 date: 2009-12-31T09:44
 author: Rebecca
----
+
 ![Family][a]
 
 [a]: {static}/images/2009-12-25-christmas-02.jpg

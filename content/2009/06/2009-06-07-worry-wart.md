@@ -1,10 +1,8 @@
----
 title: Worry wart
-slug: worry-wart
 urlname: worry-wart
 date: 2009-06-07
 author: Rebecca
----
+
 Tuesday night, I witnessed something that most of you have experienced. We came
 home from work, and William changed into a suit and headed back to the church
 for a meeting.  It was a meeting with the Elder&#x02bc;s Quorum presidency and

@@ -1,10 +1,8 @@
----
 title: Grocery Lists
-slug: grocery-lists
 urlname: grocery-lists
 date: 2008-04-20
 author: Rebecca
----
+
 When I was in college, I learned quickly that it was dangerous to go grocery
 shopping without a list. This was especially true when I would shop at Food4Less
 in Provo. So, I like making grocery lists, and William and I usually spend a

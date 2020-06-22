@@ -1,10 +1,8 @@
----
 title: Thanksgiving Hijinks
-slug: thanksgiving-hijinks
 urlname: thanksgiving-hijinks
 date: 2009-12-08T16:22
 author: Rebecca
----
+
 I did recover pretty well from my illness, and we had a belated family
 Thanksgiving dinner. Mom and Dad wanted pictures of their grandchildren for the
 Christmas letter, so we busted out the camera and took pictures with

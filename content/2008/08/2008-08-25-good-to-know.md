@@ -1,10 +1,8 @@
----
 title: Good to know!
-slug: good-to-know
 urlname: good-to-know
 date: 2008-08-25
 author: Rebecca
----
+
 So, I read this in a grant proposal that I was just reading, and it struck me as
 a rather odd thing to say.
 

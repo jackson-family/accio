@@ -1,10 +1,8 @@
----
 title: Emily&#x02bc;s Blessing
-slug: emilys-blessing
 urlname: emilys-blessing
 date: 2009-10-12
 author: William
----
+
 We were fortunate to have a metric ton of family come to Austin for
 Emily&#x02bc;s blessing. Here we have Rebecca&#x02bc;s parents and grandmother
 with Emily, Rebecca and me:

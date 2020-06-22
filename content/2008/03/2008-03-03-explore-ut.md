@@ -1,10 +1,8 @@
----
 title: Explore UT!
-slug: explore-ut
 urlname: explore-ut
 date: 2008-03-03
 author: Rebecca
----
+
 <img src="{static}/images/2008-03-01-explore-ut-01.jpg" alt="William at Explore UT" class="img-fluid" />
 
 Last year, William went to this giant open house at UT called [Explore UT][a]

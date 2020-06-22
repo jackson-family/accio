@@ -1,10 +1,8 @@
----
 title: Ghost Town
-slug: ghost-toem
 urlname: ghost-toem
 date: 2008-02-07
 author: William
----
+
 <img src="{static}/images/2008-02-02-stagecoach-inn.jpg" alt="The sign for Stagecoach Inn" class="img-fluid" />
 
 So, you read about how our car broke last weekend? Our original plans were to

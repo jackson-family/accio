@@ -1,10 +1,8 @@
----
 title: Carrots for Emily
-slug: carrots-for-emily
 urlname: carrots-for-emily
 date: 2010-02-17T20:14
 author: Rebecca
----
+
 We got our last box of vegetables from our CSA two weeks ago and have decided
 not to continue. As much as I love the idea of getting fresh-from-the-farm
 vegetables, I just couldn&#x02bc;t handle how adventurous I had to be when using

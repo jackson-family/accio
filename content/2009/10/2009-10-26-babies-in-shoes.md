@@ -1,10 +1,8 @@
----
 title: Babies in Shoes: Yea or Nay?
-slug: babies-in-shoes-yea-or-nay
 urlname: babies-in-shoes-yea-or-nay
 date: 2009-10-26T11:00
 author: Rebecca
----
+
 You tell me. I would&#x02bc;ve voted a most lusty &ldquo;Nay!&rdquo; a few
 months ago, but then I had Emily and suddenly everything that could be condensed
 to the size of a small baby became cute. Like shoes. Emily usually wears socks

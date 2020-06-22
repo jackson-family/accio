@@ -1,10 +1,8 @@
----
 title: This Is Why It Is a Bad Idea to Go Geocaching at Night
-slug: geocaching-at-night
 urlname: geocaching-at-night
 date: 2011-04-16
 author: William
----
+
 Emily and I went out for more geocaches this morning.
 
 _Side note: my spell checker tried to correct &ldquo;geocaches&rdquo; to

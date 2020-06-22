@@ -1,10 +1,8 @@
----
 title: Mrs. Sparkle
-slug: mrs-sparkle
 urlname: mrs-sparkle
 date: 2008-11-02
 author: Rebecca
----
+
 We&#x02bc;re going on a cruise. I think we&#x02bc;ve established that fact. To
 Italy, Greece, and Turkey, in case you didn&#x02bc;t know. We leave in 9 days.
 It&#x02bc;s going to be amazing. Anyway.

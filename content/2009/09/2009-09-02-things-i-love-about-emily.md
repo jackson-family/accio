@@ -1,10 +1,8 @@
----
 title: Things I Love About Emily
-slug: things-i-love-about-emily
 urlname: things-i-love-about-emily
 date: 2009-09-02
 author: Rebecca
----
+
 ![Emily]({static}/images/2009-08-24-emily.jpg)
 
 Emily just passed the three-week mark on Monday. Time flies! I&#x02bc;m settling

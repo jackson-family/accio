@@ -1,10 +1,8 @@
----
 title: Mary Nelson, 1920&ndash;2009
-slug: mary-nelson-1920-2009
 urlname: mary-nelson-1920-2009
 date: 2009-10-18T11:00
 author: Rebecca
----
+
 ![Family photo][a]
 
 [a]: {static}/images/2008-12-25-christmas.jpg

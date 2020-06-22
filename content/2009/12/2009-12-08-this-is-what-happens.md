@@ -1,10 +1,8 @@
----
 title: This is what happens when Dad changes Emily
-slug: this-is-what-happens-when-dad-changes-emily
 urlname: this-is-what-happens-when-dad-changes-emily
 date: 2009-12-08T16:07
 author: Rebecca
----
+
 ![Emily][a]
 
 

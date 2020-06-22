@@ -1,10 +1,8 @@
----
 title: Four Weeks!
-slug: four-weeks
 urlname: four-weeks
 date: 2009-09-08
 author: Rebecca
----
+
 Emily was four weeks old yesterday and doesn'&#x02bc;t seem any worse for the
 wear. In fact, I think she&#x02bc;s getting cuter now that she&#x02bc;s starting
 to gain weight properly.

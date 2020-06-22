@@ -1,10 +1,8 @@
----
 title: Four Months!
-slug: four-months
 urlname: four-months
 date: 2009-12-10T08:43
 author: Rebecca
----
+
 Emily is four months old today! She celebrated it by sleeping until 8 and having
 a warm bottle when she woke up. It&#x02bc;s going to be a good day for her.
 

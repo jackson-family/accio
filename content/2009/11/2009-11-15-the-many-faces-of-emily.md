@@ -1,10 +1,8 @@
----
 title: The Many Faces of Emily
-slug: the-many-faces-of-emily
 urlname: the-many-faces-of-emily
 date: 2009-11-15T15:21
 author: Rebecca
----
+
 Emily was 3 months old last Tuesday. I can&#x02bc;t believe how fast the time
 has gone by, but I&#x02bc;m enjoying my cute baby girl. Her smile and laugh are
 coming out in full force and she&#x02bc;s starting to get better at rolling

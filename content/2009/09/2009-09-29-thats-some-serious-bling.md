@@ -1,10 +1,8 @@
----
 title: That&#x02bc;s some serious bling
-slug: thats-some-serious-bling
 urlname: thats-some-serious-bling
 date: 2009-09-29
 author: Rebecca
----
+
 My two friends gave me (Emily, actually) five headbands to coordinate with her
 many outfits. Up until now, I&#x02bc;ve just taken her out bare-headed and hoped
 that she would be recognized as a girl by virtue of wearing a pink outfit, like

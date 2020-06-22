@@ -1,10 +1,8 @@
----
 title: Sometimes, working for the state is not worth the hassle
-slug: working-for-the-state
 urlname: working-for-the-state
 date: 2009-01-11
 author: Rebecca
----
+
 (Warning: angry rant about my job ahead. I mostly needed to vent, so it
 won&#x02bc;t hurt my feelings if you don&#x02bc;t read this.)
 

@@ -1,10 +1,8 @@
----
 title: Not Digital
-slug: not-digital
 urlname: not-digital
 date: 2008-01-20
 author: William
----
+
 Our nephew John (the son of the brother of Rebecca) is three years old and loves
 to ask questions. He also understands fairly well how most technology is
 supposed to work. The first time he came to visit our apartment, he had me take

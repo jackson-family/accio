@@ -1,10 +1,8 @@
----
 title: Mind your manners
-slug: mind-your-manners
 urlname: mind-your-manners
 date: 2010-04-05T09:57
 author: Rebecca
----
+
 Emily has learned a new trick which you can see below.
 
 <video controls preload="metadata"><source src="{static}/images/2010-04-01-emily-01.mp4"></video>

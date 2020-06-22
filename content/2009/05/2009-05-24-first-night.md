@@ -1,10 +1,8 @@
----
 title: First night and morning at the house
-slug: first-night
 urlname: first-night
 date: 2009-05-24
 author: William
----
+
 Last night was our first night at the house. It&#x02bc;s about time! We have
 owned the house for almost a month now, and we hadn&#x02bc;t spent the night in
 it until last night. We are patient people.

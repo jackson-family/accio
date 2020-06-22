@@ -1,10 +1,8 @@
----
 title: Keep Calm and Carry On
-slug: keep-calm-and-carry-on
 urlname: keep-calm-and-carry-on
 date: 2011-10-25
 author: William
----
+
 At the outbreak of the Second World War, the British government produced a
 series of posters intended to raise morale in the event of an invasion or other
 wartime disaster. This is one of those posters:

@@ -1,10 +1,8 @@
----
 title: Grandmother&#x02bc;s Birthday
-slug: grandmothers-birthday
 urlname: grandmothers-birthday
 date: 2009-01-18
 author: Rebecca
----
+
 My grandmother turned 85 in December, so my aunt Kay decided that she needed a
 birthday celebration befitting 85 well-lived years. She arranged for an organ
 recital at the First United Methodist Church in New Braunfels to be performed by

@@ -1,10 +1,8 @@
----
 title: Getting dressed
-slug: getting-dressed
 urlname: getting-dressed
 date: 2011-03-24
 author: Rebecca
----
+
 We have an independent dresser on our hands these days. Last night, Emily picked
 out this onesie and this set of shorts to wear for her PJs. (The pajama pickings
 are always a little slim on the day before laundry day.) Awesome, right?

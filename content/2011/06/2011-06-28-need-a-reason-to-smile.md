@@ -1,10 +1,8 @@
----
 title: Need a reason to smile?
-slug: need-a-reason-to-smile
 urlname: need-a-reason-to-smile
 date: 2011-06-28
 author: Rebecca
----
+
 Here you go. One cutie pie coming up!
 
 Waiting in her perfect lookout spot for the garbage trucks to come rumbling by:

@@ -1,10 +1,8 @@
----
 title: Feeling Scrabbly
-slug: feeling-scrabbly
 urlname: feeling-scrabbly
 date: 2007-08-22
 author: Rebecca
----
+
 Those of you who know my history with William Jackson will know that he&#x02bc;s
 introduced me to all kinds of interesting websites that I, safely tucked away in
 my very un-web-savvy world, would never have otherwise discovered. One of those

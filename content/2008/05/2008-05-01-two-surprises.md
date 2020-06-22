@@ -1,10 +1,8 @@
----
 title: Two Surprises
-slug: two-surprises
 urlname: two-surprises
 date: 2008-05-01
 author: Rebecca
----
+
 Today, when I got home from work, this is what I found outside of our apartment.
 No explanation attached, just a piece of heavy equipment parked in my usual
 parking space.

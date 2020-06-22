@@ -1,10 +1,8 @@
----
 title: Pumpkin Patch
-slug: pumpkin-patch
 urlname: pumpkin-patch
 date: 2008-10-12
 author: Rebecca
----
+
 Yesterday, William and I went to a pumpkin patch. There&#x02bc;s a farm in
 Marble Falls that we really like, Sweet Berry Farm, where we&#x02bc;ve gone to
 pick berries before. It&#x02bc;s a pretty drive, and it&#x02bc;s so fun to come

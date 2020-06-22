@@ -1,10 +1,8 @@
----
 title: 12 Days of Halloween
-slug: 12-days-of-halloween
 urlname: 12-days-of-halloween
 date: 2011-11-01
 author: Rebecca
----
+
 <img src="{static}/images/2011-10-21-pumpkin-patch.jpg" alt="Pumpkin patch" class="img-fluid" />
 
 We opted to keep our Halloween celebrations (of what?? It really is such a weird

@@ -1,10 +1,8 @@
----
 title: Start the day right
-slug: start-the-day-right
 urlname: start-the-day-right
 date: 2008-03-02
 author: William
----
+
 One of my favorite parts of the day is breakfast. Usually, every weekday
 morning, after Rebecca and I have gotten dressed for work, we pray together then
 sit down to a bowl of cereal and a glass of orange juice. Recently we have been

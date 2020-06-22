@@ -1,10 +1,8 @@
----
 title: Let me explain
-slug: let-me-explain
 urlname: let-me-explain
 date: 2009-09-17
 author: Rebecca
----
+
 The previous post is just to show a video of Emily being cute, but we
 didn&#x02bc;t explain that well. She&#x02bc;s not doing anything especially
 exciting because she is 5 weeks old yet and hasn&#x02bc;t even learned how to

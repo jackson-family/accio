@@ -1,10 +1,8 @@
----
 title: Easter Readings
-slug: easter-readings
 urlname: easter-readings
 date: 2009-04-05
 author: Rebecca
----
+
 At BYU, I worked for two years as a teaching assistant for Eric Huntsman, who
 was one of my all-time favorite professors. I also took his classes in Latin and
 Greek and Roman history. He has since moved over to teach at BYU&#x02bc;s

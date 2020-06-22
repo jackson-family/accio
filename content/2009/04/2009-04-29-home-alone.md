@@ -1,10 +1,8 @@
----
 title: Home Alone
-slug: home-alone
 urlname: home-alone
 date: 2009-04-29
 author: Rebecca
----
+
 First of all, William is in Las Vegas all week. He&#x02bc;s there for
 &ldquo;work,&rdquo; though he told me that last night he had dinner at a place
 called Stripburger, so I can only imagine how hard they are working. He comes

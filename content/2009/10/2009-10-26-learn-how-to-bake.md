@@ -1,10 +1,8 @@
----
 title: In which Mom and I learn how to bake
-slug: in-which-mom-and-i-learn-how-to-bake
 urlname: in-which-mom-and-i-learn-how-to-bake
 date: 2009-10-26T12:00
 author: Rebecca
----
+
 On Saturday, Mom and I went to San Antonio for a cooking demonstration sponsored
 by [King Arthur Flour Company][a]. (I love these people. They have fool-proof
 recipes, and their blog has so much good information for baking all kinds of

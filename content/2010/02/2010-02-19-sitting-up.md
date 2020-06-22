@@ -1,10 +1,8 @@
----
 title: Sitting up
-slug: sitting-up
 urlname: sitting-up
 date: 2010-02-19T09:09
 author: Rebecca
----
+
 ![Emily][a]
 
 [a]: {static}/images/2010-02-02-emily-01.jpg

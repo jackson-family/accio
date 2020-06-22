@@ -1,10 +1,8 @@
----
 title: 6 months!
-slug: six-months
 urlname: six-months
 date: 2008-05-24
 author: Rebecca
----
+
 Wait, 6 months?  William and I have been married 6 months already? As Ellen said
 last week, &ldquo;It feels like you&#x02bc;ve been married forever!&rdquo; And
 it does, but in the good &ldquo;I feel more secure, happy, optimistic and

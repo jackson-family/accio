@@ -1,10 +1,8 @@
----
 title: Molly Even More on the Move
-slug: molly-even-more-on-move
 urlname: molly-even-more-on-move
 date: 2012-10-23
 author: William
----
+
 Molly absolutely cannot wait to walk. She sees Emily doing it and I&#x02bc;m
 sure she&#x02bc;s super-jealous.
 

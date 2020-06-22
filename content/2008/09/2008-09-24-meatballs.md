@@ -1,10 +1,8 @@
----
 title: You Can Put Meatballs on the List of Foods I Will Never Buy from the Store Again
-slug: meatballs
 urlname: meatballs
 date: 2008-09-24
 author: William
----
+
 This recipe is based on the recipe for [Baked Meatballs][a] on
 [The Crepes of Wrath][b], one of Rebecca&#x02bc;s favorite food blogs.
 

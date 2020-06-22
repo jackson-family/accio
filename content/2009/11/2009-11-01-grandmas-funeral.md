@@ -1,10 +1,8 @@
----
 title: Grandma&#x02bc;s Funeral
-slug: grandmas-funeral
 urlname: grandmas-funeral
 date: 2009-11-01
 author: Rebecca
----
+
 This weekend, we went on a marathon road trip to Hammond, Louisiana, and back in
 36 hours. I was slightly dreading the trip because we were (a) going to a
 funeral of a beloved family member, (b) traveling with a 2-month old, and (c)

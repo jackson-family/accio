@@ -1,10 +1,8 @@
----
 title: Rebecca gets a new hobby
-slug: rebecca-gets-a-new-hobby
 urlname: rebecca-gets-a-new-hobby
 date: 2009-04-18
 author: Rebecca
----
+
 I haven&#x02bc;t had a real hobby since &hellip; well, now that I think about
 it, I don&#x02bc;t think I&#x02bc;ve ever had a serious hobby, unless you count
 playing with Barbies and that stopped when I was &hellip; never mind. Anyway.

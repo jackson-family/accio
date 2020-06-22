@@ -1,10 +1,8 @@
----
 title: Good books and a TV show.
-slug: good-books-and-a-tv-show
 urlname: good-books-and-a-tv-show
 date: 2009-11-15T15:06
 author: Rebecca
----
+
 I&#x02bc;ve been reading a lot more books now that I&#x02bc;m home all day with
 Emily. Some are good, and a handful are not.
 

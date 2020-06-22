@@ -1,10 +1,8 @@
----
 title: A conversation between me and you
-slug: a-conversation-between-me-and-you
 urlname: a-conversation-between-me-and-you
 date: 2009-03-30
 author: Rebecca
----
+
 For all of you who don&#x02bc;t live close enough to us for me to talk to you in
 person, here&#x02bc;s a conversation that we should have.
 

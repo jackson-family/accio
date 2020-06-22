@@ -1,10 +1,8 @@
----
 title: Once you go blackberry, you never go backberry
-slug: blackberry
 urlname: blackberry
 date: 2008-05-24
 author: William
----
+
 It is no secret that Rebecca and I like picking berries together. In March of
 2007, we went to [Sweet Berry Farm][a] in Marble Falls, Texas (west of Austin)
 to pick strawberries. We had such a wonderful time (I did, at least) that I

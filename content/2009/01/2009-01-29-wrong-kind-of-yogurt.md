@@ -1,10 +1,8 @@
----
 title: Wrong kind of yogurt, guys
-slug: wrong-kind-of-yogurt
 urlname: wrong-kind-of-yogurt
 date: 2009-01-29
 author: William
----
+
 I just opened up a cup of piña colada yogurt for lunch, and I found a strawberry
 in it.
 
