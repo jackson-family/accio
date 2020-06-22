@@ -16,8 +16,4 @@ If there is something John loves more than watching *Star Wars* at the moment,
 it is acting along while he is watching *Star Wars*. To wit, here is an awesome
 video:
 
-<div class="e51bb0f5 position-relative">
-	<iframe src="https://player.vimeo.com/video/1249511?byline=0&portrait=0" class="bf9b6481 position-absolute" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-<script src="https://player.vimeo.com/api/player.js"></script>
+<video controls preload="metadata"><source src="{static}/images/2008-06-28-star-wars.mp4"></video>

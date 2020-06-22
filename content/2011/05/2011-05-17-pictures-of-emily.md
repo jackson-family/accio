@@ -11,8 +11,4 @@ thinks of these pictures.
 
 You can let me know if you think it is funny.
 
-<div class="c7ec6da9 position-relative">
-	<iframe src="https://player.vimeo.com/video/23884098?byline=0&portrait=0" class="bf9b6481 position-absolute" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-<script src="https://player.vimeo.com/api/player.js"></script>
+<video controls preload="metadata"><source src="{static}/images/2011-05-17-emily.mp4"></video>
