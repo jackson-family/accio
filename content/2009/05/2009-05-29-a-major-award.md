@@ -1,10 +1,8 @@
----
 title: A major award
-slug: a-major-award
 urlname: a-major-award
 date: 2009-05-29
 author: Rebecca
----
+
 There&#x02bc;s a fun new food blog called [Foodie Giveaway][a]. Once or twice a
 week, readers have the opportunity to win food-related products, like cookbooks
 or seasoning mixes. It&#x02bc;s ridiculously easy to enter the giveaways &mdash;

@@ -1,10 +1,8 @@
----
 title: Photography Lesson
-slug: photography-lesson
 urlname: photography-lesson
 date: 2011-03-26
 author: William
----
+
 Among other things, Rebecca gave me a pass to go on a photography field trip for
 my birthday. I signed up for this morning&#x02bc;s session. Nine students and
 one instructor met at a coffee shop in east Austin with our point-and-shoot

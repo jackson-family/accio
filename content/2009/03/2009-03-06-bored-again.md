@@ -1,10 +1,8 @@
----
 title: Bored Again
-slug: bored-again
 urlname: bored-again
 date: 2009-03-06
 author: Rebecca
----
+
 It&#x02bc;s Friday afternoon, and I&#x02bc;m trapped at work without anything to
 do. I am blogging at work. And I could be doing this at home instead of in my
 cubicle, but that&#x02bc;s just not how things go. Even if there&#x02bc;s not an

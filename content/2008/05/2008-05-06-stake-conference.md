@@ -1,10 +1,8 @@
----
 title: Stake Conference
-slug: stake-conference
 urlname: stake-conference
 date: 2008-05-06
 author: Rebecca
----
+
 William and I had the choice opportunity of attending the stake conference of
 the San Antonio East Stake where a new stake was formed, the Kyle Texas Stake.
 This is a remarkable time for the members of the Church in this area, and the

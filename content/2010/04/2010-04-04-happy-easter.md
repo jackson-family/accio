@@ -1,10 +1,8 @@
----
 title: Happy Easter!
-slug: happy-easter
 urlname: happy-easter
 date: 2010-04-04T09:56
 author: Rebecca
----
+
 Happy Easter to all! We&#x02bc;re having a good Easter so far, with hot cross
 buns for breakfast and a little Easter egg hunt around our house. Emily&#x02bc;s
 getting into the spirit of the day, too.

@@ -1,10 +1,8 @@
----
 title: Emily is awesome
-slug: emily-is-awesome
 urlname: emily-is-awesome
 date: 2009-08-15
 author: William
----
+
 The last few days have been an exciting beginning of a grand adventure. Rebecca
 and I are operating on little sleep, but we are ably assisted by
 Rebecca&#x02bc;s mother Ann and sister Carrie. We don&#x02bc;t know what we will

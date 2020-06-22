@@ -1,10 +1,8 @@
----
 title: 6-Month Photo Shoot
-slug: 6-month-photo-shoot
 urlname: 6-month-photo-shoot
 date: 2010-03-06T16:45
 author: Rebecca
----
+
 Remember how I&#x02bc;m jealous of my friends who have fancy cameras that take
 awesome pictures of their kids? Well, my friend Tiffany actually shared her
 camera with me so that I could have some cute pictures of Emily before her teeth

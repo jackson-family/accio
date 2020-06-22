@@ -1,10 +1,8 @@
----
 title: How to lose weight over Thanksgiving
-slug: how-to-lose-weight-over-thanksgiving
 urlname: how-to-lose-weight-over-thanksgiving
 date: 2009-11-28T17:03
 author: Rebecca
----
+
 ![For Better or For Worse][a]
 
 [a]: {static}/images/2009-11-16-fborfw.gif

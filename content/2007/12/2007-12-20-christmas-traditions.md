@@ -1,10 +1,8 @@
----
 title: Christmas Traditions
-slug: christmas-traditions
 urlname: christmas-traditions
 date: 2007-12-20
 author: Rebecca
----
+
 Two weeks ago in Relief Society, we had a lesson about Christmas traditions and
 how people could make their holidays more meaningful by keeping Christmas
 traditions for their families. That has made me think quite a bit about what

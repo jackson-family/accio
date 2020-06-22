@@ -1,10 +1,8 @@
----
 title: Setting the table
-slug: setting-the-table
 urlname: setting-the-table
 date: 2011-03-03
 author: Rebecca
----
+
 Last night, Emily busied herself while I was making dinner. I was a bit
 preoccupied and didn&#x02bc;t notice what she was up to until about halfway
 through the project. But this is the final result, and I think it is

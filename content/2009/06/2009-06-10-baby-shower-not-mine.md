@@ -1,10 +1,8 @@
----
 title: Baby Shower (Not mine &hellip;)
-slug: baby-shower-not-mine
 urlname: baby-shower-not-mine
 date: 2009-06-10
 author: Rebecca
----
+
 I volunteered a few months ago to throw a baby shower for one of my friends in
 the ward. I was her visiting teacher at the time, and I thought it would be fun
 to throw a party. So, I found myself last Saturday morning in my fancy schmancy

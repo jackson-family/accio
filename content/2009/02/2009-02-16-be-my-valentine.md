@@ -1,10 +1,8 @@
----
 title: Be my Valentine?
-slug: be-my-valentine
 urlname: be-my-valentine
 date: 2009-02-16
 author: Rebecca
----
+
 Valentine&#x02bc;s Day has been one of those obligatory holidays for me. I think
 it&#x02bc;s great that there&#x02bc;s a day to celebrate love, but I promise you
 that I don&#x02bc;t need a fluffy white teddy bear and a heart-shaped box of

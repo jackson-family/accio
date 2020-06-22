@@ -1,10 +1,8 @@
----
 title: You&#x02bc;re pregnant?
-slug: youre-pregnant
 urlname: youre-pregnant
 date: 2009-05-24
 author: Rebecca
----
+
 I think most of you know that I am expecting a baby girl on August 4 (or
 thereabouts). But I am still, yes, still getting people coming up to me at
 church or at work to say, &ldquo;Are you pregnant? I had no idea!&rdquo; And

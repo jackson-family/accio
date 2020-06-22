@@ -1,10 +1,8 @@
----
 title: My Pretty Girl
-slug: my-pretty-girl
 urlname: my-pretty-girl
 date: 2009-08-16
 author: Rebecca
----
+
 One week ago, I was at home waiting patiently for my 10-minutes-apart
 contractions to either speed up and/or get stronger, and William was at stake
 priesthood meeting. What an interesting week we have had since then!

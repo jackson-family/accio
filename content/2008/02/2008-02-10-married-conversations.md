@@ -1,10 +1,8 @@
----
 title: Married Conversation
-slug: married-conversations
 urlname: married-conversations
 date: 2008-02-10
 author: Rebecca
----
+
 On Friday night, William and I were in Borders trying to use our $50 worth of
 gift cards. (That&#x02bc;s not really the point of this story, but we did come
 home with *Fellowship of the Ring* on DVD.) William was showing me this

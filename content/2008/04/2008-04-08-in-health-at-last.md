@@ -1,10 +1,8 @@
----
 title: In health at last
-slug: in-health-at-last
 urlname: in-health-at-last
 date: 2008-04-08
 author: Rebecca
----
+
 We are getting better! William&#x02bc;s medicine seems to have worked wonders,
 since his cough was mostly gone by Saturday afternoon. We were both well enough
 to take in General Conference on Sunday in New Braunfels. But I stayed home from

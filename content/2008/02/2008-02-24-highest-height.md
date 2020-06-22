@@ -1,10 +1,8 @@
----
 title: Up to the sort of highest height
-slug: up-to-the-sort-of-highest-height
 urlname: up-to-the-sort-of-highest-height
 date: 2008-02-24
 author: Rebecca
----
+
 Yesterday was a beautiful spring day &mdash; warm, breezy, and sunny. William
 was testing out his new dragonfly robot. We had gotten it for Valentine&#x02bc;s
 Day from my mom.

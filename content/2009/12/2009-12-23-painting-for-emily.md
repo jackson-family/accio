@@ -1,10 +1,8 @@
----
 title: Painting for Emily
-slug: painting-for-emily
 urlname: painting-for-emily
 date: 2009-12-23T09:20
 author: Rebecca
----
+
 Emily&#x02bc;s bedroom is pretty boring. The walls are plain white, her crib has
 a brown bumper and pink sheets that don&#x02bc;t match anything, and she
 doesn&#x02bc;t have any cute bookshelves or toy baskets. I just wasn&#x02bc;t

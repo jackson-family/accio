@@ -1,10 +1,8 @@
----
 title: A more in-depth description of my graduation
-slug: graduation
 urlname: graduation
 date: 2008-5-19
 author: William
----
+
 I realized Saturday that I am a &ldquo;get it out and get out of the way&rdquo;
 type of blogger. I think. Two pictures, five sentences and one fragment, and you
 have a post that anyone&#x02bc;s baby can digest. Unfortunately, I left out a

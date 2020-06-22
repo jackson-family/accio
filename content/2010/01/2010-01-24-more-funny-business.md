@@ -1,10 +1,8 @@
----
 title: More funny business &hellip;
-slug: more-funny-business
 urlname: more-funny-business
 date: 2010-01-24T16:13
 author: Rebecca
----
+
 ![Emily][a]
 
 [a]: {static}/images/2010-01-17-emily-01.jpg

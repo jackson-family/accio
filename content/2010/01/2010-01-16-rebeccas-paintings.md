@@ -1,10 +1,8 @@
----
 title: Some of Rebecca&#x02bc;s Paintings
-slug: rebeccas-paintings
 urlname: rebeccas-paintings
 date: 2010-01-16
 author: William
----
+
 Rebecca is very modest about her painting. These are two that she did that so
 far have only made it to our refrigerator door. I think they deserve better.
 

@@ -1,10 +1,8 @@
----
 title: Happy Father&#x02bc;s Day
-slug: happy-fathers-day
 urlname: happy-fathers-day
 date: 2010-06-20
 author: William
----
+
 <img src="{static}/images/2010-06-20-em-slide.jpg" alt="Emily on the slide" class="img-fluid">
 
 Today is my first Father&#x02bc;s Day as a father. Emily recently discovered and

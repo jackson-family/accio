@@ -1,10 +1,8 @@
----
 title: Old habits
-slug: old-habits
 urlname: old-habits
 date: 2010-04-01
 author: William
----
+
 When I turned two years old I received a [Glo Worm][a] as a gift. I just learned
 today that the Glo Worm was first released the same year I was born, making it a
 fitting gift indeed.

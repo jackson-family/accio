@@ -1,10 +1,8 @@
----
 title: Heisman Hijinks
-slug: heisman-hijinks
 urlname: heisman-hijinks
 date: 2008-02-15
 author: Rebecca
----
+
 <img src="{static}/images/2008-02-15-heisman-trophy.jpg" alt="Heisman Trophy" class="img-fluid" />
 
 Early this year, I was chatting with my old roommate Elizabeth who was working

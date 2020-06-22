@@ -1,10 +1,8 @@
----
 title: Halloween
-slug: halloween
 urlname: halloween
 date: 2008-10-31
 author: Rebecca
----
+
 <img src="{static}/images/2008-10-31-pumpkin-02.jpg" class="img-fluid">
 
 This is not a &ldquo;Look how cute my kid&#x02bc;s costume is at the Ward Trunk

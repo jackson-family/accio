@@ -1,10 +1,8 @@
----
 title: High School Musical 3
-slug: high-school-musical-3
 urlname: high-school-musical-3
 date: 2008-11-10
 author: Rebecca
----
+
 I have 15 minutes left of work before my vacation officially begins. So,
 I&#x02bc;ll fill the time up with a blog post about my latest obsession, the
 _High School Musical_ series. You say, &ldquo;But Rebecca, aren&#x02bc;t you

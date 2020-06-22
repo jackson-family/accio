@@ -1,10 +1,8 @@
----
 title: Garden Week 1
-slug: garden-week-1
 urlname: garden-week-1
 date: 2010-04-27T11:15
 author: Rebecca
----
+
 Our house came with a beautifully maintained garden box, and I tried in vain,
 midst record-breaking heat, a multi-year drought, and late pregnancy girth, to
 keep it going last summer. The only things that grew without much intervention

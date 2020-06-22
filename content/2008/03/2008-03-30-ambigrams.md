@@ -1,10 +1,8 @@
----
 title: Ambigrams
-slug: ambigrams
 urlname: ambigrams
 date: 2008-03-30
 author: William
----
+
 Having recently finished reading *Angels & Demons* by Dan Brown, I am officially
 intrigued by by ambigrams. What is an ambigram, you ask? The best way to explain
 it is with an illustration.

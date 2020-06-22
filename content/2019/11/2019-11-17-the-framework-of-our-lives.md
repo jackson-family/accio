@@ -1,10 +1,8 @@
----
 title: The Framework of Our Lives
-slug: the-framework-of-our-lives
 urlname: the-framework-of-our-lives
 date: 2019-11-17
 author: William
----
+
 *This is the transcript of a talk I gave in church on Sunday, November 17,
 2019.*
 

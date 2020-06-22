@@ -1,10 +1,8 @@
----
 title: It's our vacation!
-slug: its-our-vacation
 urlname: its-our-vacation
 date: 2008-11-23
 author: Rebecca
----
+
 Internet is ridiculously expensive on this ship, so this will be a short blog
 post to let all of our faithful and curious readers know that we&#x02bc;re doing
 well and enjoying almost every minute of our trip. We&#x02bc;ve met so many

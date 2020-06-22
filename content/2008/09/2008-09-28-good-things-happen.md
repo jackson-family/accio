@@ -1,10 +1,8 @@
----
 title: Good Things Happen
-slug: good-things-happen
 urlname: good-things-happen
 date: 2008-09-28
 author: William
----
+
 Rebecca and I love to work in the kitchen together. We have been cooking buddies
 since before we were engaged. We love to try new things, or throw together old
 favorites. But recently, Rebecca has learned something interesting:

@@ -1,10 +1,8 @@
----
 title: Carrie&#x02bc;s Birthday
-slug: carries-birthday
 urlname: carries-birthday
 date: 2008-03-03
 author: Rebecca
----
+
 (Last post from me today, I promise.) Today is my sister Carrie&#x02bc;s
 25<sup>th</sup> birthday, and I wanted to wish her the happiest of birthdays
 today. Here are some things that everyone should know about Carrie.

@@ -1,10 +1,8 @@
----
 title: Christmas in Waco
-slug: christmas-in-waco
 urlname: christmas-in-waco
 date: 2007-12-27
 author: Rebecca
----
+
 William and I were lucky in that we got to celebrate Christmas twice this year
 &mdash; once in Waco, and once in New Braunfels. Each is worthy of a separate
 blog entry, I think.

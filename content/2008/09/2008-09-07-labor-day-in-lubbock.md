@@ -1,10 +1,8 @@
----
 title: Labor Day in Lubbock
-slug: labor-day-in-lubbock
 urlname: labor-day-in-lubbock
 date: 2008-09-07
 author: Rebecca
----
+
 At last, I&#x02bc;m sitting down to post my account of our trip to Lubbock for
 Labor Day. We got to see Lorraine and Jack, David and Chelsea, Ben and Kaylyn,
 and Jared and Meredith. Clearly we got our money&#x02bc;s worth out of the trip!

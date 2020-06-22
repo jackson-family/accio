@@ -1,10 +1,8 @@
----
 title: April Birthdays
-slug: april-birthdays
 urlname: april-birthdays
 date: 2008-04-16
 author: Rebecca
----
+
 There are a few special people who have birthdays this month. First is my
 amazing grandma, Mary Nelson. This is a picture of us in Utah last summer.
 Isn&#x02bc;t she a cutie? We&#x02bc;re so lucky that she lives close to us so

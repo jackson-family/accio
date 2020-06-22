@@ -1,10 +1,8 @@
----
 title: Getting around
-slug: getting-around
 urlname: getting-around
 date: 2010-04-29T20:02
 author: Rebecca
----
+
 I realize that I&#x02bc;ve slightly neglected this blog and haven&#x02bc;t
 really documented Emily&#x02bc;s latest achievements. But you should know that
 she now has two sharp bottom teeth and can crawl across the room. I don&#x02bc;t

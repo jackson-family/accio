@@ -1,10 +1,8 @@
----
 title: All Hail Breaks Loose
-slug: all-hail-breaks-loose
 urlname: all-hail-breaks-loose
 date: 2009-04-18
 author: Rebecca
----
+
 (Yes, I&#x02bc;ve been saving that title for weeks. Just wanted to find time to
 write this blog, but how could I not write it when I already had such a clever
 title?)

@@ -1,10 +1,8 @@
----
 title: Not a boring weather post
-slug: not-a-boring-weather-post
 urlname: not-a-boring-weather-post
 date: 2010-02-25
 author: Rebecca
----
+
 I&#x02bc;m not one that feels the need to talk about the weather, since
 it&#x02bc;s usually pretty boring, especially here in Texas. However, this week
 we had weather that definitely wasn&#x02bc;t boring, so I feel like I can share

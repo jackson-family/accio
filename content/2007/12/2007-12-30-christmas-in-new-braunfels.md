@@ -1,10 +1,8 @@
----
 title: Christmas in New Braunfels
-slug: christmas-in-new-braunfels
 urlname: christmas-in-new-braunfels
 date: 2007-12-30
 author: Rebecca
----
+
 I&#x02bc;m a bit behind, but I still wanted to write about some of the fun
 things that we did for Christmas in New Braunfels. Here are some highlights.
 

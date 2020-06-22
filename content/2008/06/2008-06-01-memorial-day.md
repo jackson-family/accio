@@ -1,10 +1,8 @@
----
 title: Memorial Day
-slug: memorial-day
 urlname: memorial-day
 date: 2008-06-01
 author: Rebecca
----
+
 I&#x02bc;m a little late in posting about Memorial Day, but it was a wonderful
 day! First of all, we didn&#x02bc;t have to go to work, and at least for me,
 that&#x02bc;s a huge relief. (I think William still likes his job, so I

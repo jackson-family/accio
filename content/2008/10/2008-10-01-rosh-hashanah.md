@@ -1,10 +1,8 @@
----
 title: Rosh Hashanah
-slug: rosh-hashanah
 urlname: rosh-hashanah
 date: 2008-10-01
 author: Rebecca
----
+
 I&#x02bc;m home alone tonight while William takes care of those wiggly kids that
 are pretending to be Boy Scouts. (Can 11-year old boys really be Boy Scouts and
 sharpen knives and start fires and other highly dangerous tasks?)

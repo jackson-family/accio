@@ -1,10 +1,8 @@
----
 title: Molly&#x02bc;s Newborn Pictures
-slug: mollys-newborn-pictures
 urlname: mollys-newborn-pictures
 date: 2012-02-26
 author: Rebecca
----
+
 My sister-in-law Monica has a fancy camera that has a fast enough shutter-speed
 to capture wiggly children and babies. So, I asked her to do newborn pictures of
 Molly. Of course, by the time that we could find a day that worked for both of

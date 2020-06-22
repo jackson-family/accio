@@ -1,10 +1,8 @@
----
 title: Getting into Trouble
-slug: getting-into-trouble
 urlname: getting-into-trouble
 date: 2010-05-10T19:56
 author: Rebecca
----
+
 ![Emily][a]
 
 [a]: {static}/images/2010-05-07-emily-01.jpg

@@ -1,10 +1,8 @@
----
 title: Mark&#x02bc;s Birthday!
-slug: marks-birthday
 urlname: marks-birthday
 date: 2008-03-04
 author: Rebecca
----
+
 Today is my brother Mark&#x02bc;s 28<sup>th</sup> birthday. Having just
 completed Year 28 myself, I can tell him that 28 is a pretty exciting age.
 

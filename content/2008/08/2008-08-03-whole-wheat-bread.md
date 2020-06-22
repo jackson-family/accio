@@ -1,10 +1,8 @@
----
 title: Classic 100% Whole Wheat Bread
-slug: whole-wheat-bread
 urlname: whole-wheat-bread
 date: 2008-08-03
 author: William
----
+
 <img src="{static}/images/2008-08-02-whole-wheat-bread.jpg" alt="Whole Wheat Bread" class="img-fluid" />
 
 Another attempt at bread. This time we used 100% whole wheat flour. We made it

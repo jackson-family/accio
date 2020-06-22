@@ -1,10 +1,8 @@
----
 title: Showered with Love
-slug: showered-with-love
 urlname: showered-with-love
 date: 2009-07-19
 author: Rebecca
----
+
 I&#x02bc;m three weeks away from having a baby in the house. Seriously,
 what&#x02bc;s up with that? Anyway, I had two baby showers several weeks ago,
 one with my friends and family and another at work. They were both loads of fun,

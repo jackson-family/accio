@@ -1,10 +1,8 @@
----
 title: Two good books
-slug: two-good-books-01
 urlname: two-good-books
 date: 2008-08-20
 author: Rebecca
----
+
 I don&#x02bc;t really have much to say here, except to apologize for my recent
 blog silence. I&#x02bc;ve been reading some good books, and those tend to draw
 me away from the computer. But that&#x02bc;s a good thing, right?

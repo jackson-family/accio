@@ -1,10 +1,8 @@
----
 title: Riding the train
-slug: riding-the-train
 urlname: riding-the-train
 date: 2010-03-05T09:31
 author: Rebecca
----
+
 Oh, goodness, I&#x02bc;m doing terribly on my New Year&#x02bc;s resolution to
 write two blog posts a week. Good thing I cleaned out my camera this morning and
 found a bunch of cute things to post. Here&#x02bc;s the first.

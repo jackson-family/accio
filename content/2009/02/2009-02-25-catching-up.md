@@ -1,10 +1,8 @@
----
 title: Catching Up
-slug: catching-up
 urlname: catching-up
 date: 2009-02-25
 author: Rebecca
----
+
 For all of you who faithfully and at some inconvenience sign into Blogger
 regularly to read our blog, because we&#x02bc;re too paranoid to just open it up
 for the whole world to see, my apologies for the lack of interesting posts. But

@@ -1,10 +1,8 @@
----
 title: LiveStrong 5K
-slug: livestrong-5k
 urlname: livestrong-5k
 date: 2008-10-26
 author: Rebecca
----
+
 <img src="{static}/images/2008-10-25-5k-01.jpg" class="img-fluid">
 
 <img src="{static}/images/2008-10-25-5k-02.jpg" class="img-fluid">

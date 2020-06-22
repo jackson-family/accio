@@ -1,10 +1,8 @@
----
 title: A Keeper of a Guy
-slug: a-keeper-of-a-guy
 urlname: a-keeper-of-a-guy
 date: 2009-03-20
 author: Rebecca
----
+
 Tuesday was William&#x02bc;s 27<sup>th</sup> birthday. It was a quiet but happy
 celebration. We had Key lime cheesecake with friends, and he received a red long
 sleeved t-shirt and a purple oxford cloth button down shirt from yours truly. He

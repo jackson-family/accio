@@ -1,10 +1,8 @@
----
 title: Let&#x02bc;s talk about how awesome my wife is.
-slug: awesome-wife
 urlname: awesome-wife
 date: 2008-02-15
 author: William
----
+
 I truly have a wonderful wife. Rebecca makes me so happy.
 
 Yesterday (i.e. Valentine&#x02bc;s Day) I didn&#x02bc;t get home until 19:30 on

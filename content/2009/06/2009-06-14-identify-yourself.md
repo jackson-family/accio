@@ -1,10 +1,8 @@
----
 title: Identify Yourself
-slug: identify-yourself
 urlname: identify-yourself
 date: 2009-06-14
 author: Rebecca
----
+
 The hairy tall plant has spoken. Here&#x02bc;s what she decided to be as a
 grown-up.
 
