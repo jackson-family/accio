@@ -38,6 +38,7 @@ PATH = 'content'
 RELATIVE_URLS = False
 SITENAME = 'Accio Jacksons!'
 SITESUBTITLE = 'An 11-inch holly blog with a phoenix feather core'
+SLUGIFY_SOURCE = 'basename'
 STATIC_CHECK_IF_MODIFIED = True
 STATIC_PATHS = ['extra']
 TAG_SAVE_AS = ''

@@ -1,6 +1,5 @@
 ---
 title: Coincidences
-slug: coincidences
 urlname: coincidences
 date: 2007-08-16
 author: William

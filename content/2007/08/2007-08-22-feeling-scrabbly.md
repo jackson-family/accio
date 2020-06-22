@@ -1,6 +1,5 @@
 ---
 title: Feeling Scrabbly
-slug: feeling-scrabbly
 urlname: feeling-scrabbly
 date: 2007-08-22
 author: Rebecca

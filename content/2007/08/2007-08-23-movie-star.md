@@ -1,6 +1,5 @@
 ---
 title: I&#x02bc;m a Movie Star!
-slug: movie-star
 urlname: movie-star
 date: 2007-08-23
 author: William
