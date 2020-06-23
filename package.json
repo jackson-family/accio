@@ -1,0 +1,7 @@
+{
+  "name": "accio",
+  "version": "1.0.0",
+  "dependencies": {
+    "netlify-plugin-out-of-minutes": "1.1.0"
+  }
+}
