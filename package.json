@@ -1,6 +1,10 @@
 {
   "name": "accio",
   "version": "1.0.0",
+  "description": "Source content for https://accio.subtlecoolness.com",
+  "repository": "github:jackson-family/accio",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "netlify-plugin-out-of-minutes": "1.1.0"
   }
