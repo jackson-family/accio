@@ -3,6 +3,7 @@ command = "pelican"
 publish = "output"
 
 [build.environment]
+NODE_VERSION = "12.18.1"
 PIP_DISABLE_PIP_VERSION_CHECK = "yes"
 
 [[headers]]
