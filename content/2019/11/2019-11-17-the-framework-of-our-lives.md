@@ -105,7 +105,7 @@ baptism], I would ask if all is done?&rdquo; He then answers his own question:
 &ldquo;Behold, I say unto you, Nay&rdquo;.
 
 We have made a covenant and become disciples of Jesus Christ, but all is not
-done. As Nephi says, we must press forward with a steadfastness in Christ".
+done. As Nephi says, we &ldquo;must press forward with a steadfastness in Christ&rdquo;.
 
 What does &ldquo;a steadfastness in Christ&rdquo; look like?
 
