@@ -1,8 +1,6 @@
-version: '3'
-
 services:
   dev:
-    image: williamjackson/pelican:4.2.0
+    image: williamjackson/pelican:4.7.2
     command:
       - --autoreload
       - --listen
@@ -10,7 +8,7 @@ services:
       - 8000:8000
 
   clean:
-    image: williamjackson/pelican:4.2.0
+    image: williamjackson/pelican:4.7.2
     entrypoint:
       - /bin/rm
     command:
