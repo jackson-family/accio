@@ -1,6 +1,6 @@
 title: Post Template
 urlname: the-title
-date: 2018-11-13
+date: 2018-11-13T18:00
 author: William
 
 Post content here.
