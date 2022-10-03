@@ -1,6 +1,6 @@
 title: Seattle Days 1-2
 urlname: seattle-part-1
-date: 2010-09-10T21:23
+date: 2010-09-28T21:23
 author: Rebecca
 
 Last week, William and I spent four days in Seattle. We left on Monday and came
