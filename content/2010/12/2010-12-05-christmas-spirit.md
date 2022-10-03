@@ -98,9 +98,3 @@ it looks like he has a light saber going through his head.
 
 We&#x02bc;ll definitely be going back to this for as long as it&#x02bc;s held.
 It&#x02bc;s a great way to start off the Christmas season here in Austin!
-
-Apostrophe: &#x02bc;
-
-<img src="{static}/images/2009-06-20-table-1.jpg" alt="Alt text" class="img-fluid">
-
-[other-post]: {filename}/200x-whatever.md
