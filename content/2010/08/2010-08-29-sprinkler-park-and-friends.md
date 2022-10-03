@@ -69,7 +69,7 @@ Jillian&#x02bc;s banana.
 
 [g]: {static}/images/2010-08-24-sprinkler-park-07.jpg
 
-Emily is still cool. Jillian and Aly have their own little thing going on. 
-illian is hogging all of the snacks and not sharing with *anyone*.
+Emily is still cool. Jillian and Aly have their own little thing going on.
+Jillian is hogging all of the snacks and not sharing with *anyone*.
 
 Thanks to all the girls for a fun morning!
