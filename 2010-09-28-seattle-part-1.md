@@ -190,6 +190,6 @@ we were all friends again.
 
 ![William and Rebecca at the top of the Space Needle][ac]
 
-[ac]: 2010-09-21-seattle-25.jpg
+[ac]: {static}/images/2010-09-21-seattle-25.jpg
 
 And that&#x02bc;s just the first part of our trip!
