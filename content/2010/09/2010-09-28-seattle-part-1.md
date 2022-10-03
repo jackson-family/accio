@@ -39,7 +39,8 @@ through Seattle. We started with a [food tour of the Pike Place Market][c].
 
 [e]: {static}/images/2010-09-21-seattle-02.jpg
 
-![William stand on the street with a large sign in the background that reads &ldquo;Public Market&rdquo;][f]
+![William stand on the street with a large sign in the background that reads
+&ldquo;Public Market&rdquo;][f]
 
 [f]: {static}/images/2010-09-21-seattle-03.jpg
 
@@ -110,7 +111,8 @@ found more cool stuff.
 [p]: {static}/images/2010-09-21-seattle-13.jpg
 
 
-![Rebecca with a large red modern art sculpture and the Space Needle in the background][q]
+![Rebecca with a large red modern art sculpture and the Space Needle in the
+background][q]
 
 [q]: {static}/images/2010-09-21-seattle-14.jpg
 
