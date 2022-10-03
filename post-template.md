@@ -7,6 +7,8 @@ Post content here.
 
 Apostrophe: &#x02bc;
 
-<img src="{static}/images/2009-06-20-table-1.jpg" alt="Alt text" class="img-fluid">
+![Image alt text][img]
+[img]: {static}/images/2009-06-20-table-1.jpg
 
+[Link to another post][other-post]
 [other-post]: {filename}/200x-whatever.md
