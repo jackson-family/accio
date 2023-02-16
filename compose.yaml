@@ -1,10 +1,5 @@
 services:
   build:
-#    command:
-#      - --debug
-    environment:
-      CONTEXT: production
-      URL: https://accio.subtlecoolness.com
     image: ghcr.io/williamjacksn/pelican:4.8.0
     init: true
     volumes:

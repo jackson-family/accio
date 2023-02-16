@@ -1,5 +1,5 @@
 .idea
 cache
-docker-compose.override.yaml
+compose.override.yaml
 output
 __pycache__
