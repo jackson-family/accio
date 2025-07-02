@@ -2,6 +2,9 @@ import gen
 
 
 github_pages = {
+    "env": {
+        "description": "This workflow was generated from ci/gen-github-workflows.py"
+    },
     "name": "Build and deploy site",
     "on": {"push": {"branches": ["master"]}, "workflow_dispatch": {}},
     "permissions": {"contents": "read", "pages": "write", "id-token": "write"},

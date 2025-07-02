@@ -3,6 +3,9 @@
     "cancel-in-progress": true,
     "group": "github-pages"
   },
+  "env": {
+    "description": "This workflow was generated from ci/gen-github-workflows.py"
+  },
   "jobs": {
     "build": {
       "name": "Build site",
