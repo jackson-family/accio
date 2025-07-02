@@ -14,7 +14,7 @@ github_pages = {
             "name": "Build site",
             "runs-on": "ubuntu-latest",
             "steps": [
-                {"name": "Check out repository", "uses": "actions/checkout@v3"},
+                {"name": "Check out repository", "uses": "actions/checkout@v4"},
                 {"name": "Configure Pages", "uses": "actions/configure-pages@v5"},
                 {"name": "Build site", "run": "sh ci/build.sh"},
                 {
