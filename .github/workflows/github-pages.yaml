@@ -4,19 +4,28 @@
     "group": "github-pages"
   },
   "env": {
-    "description": "This workflow was generated from ci/gen-github-workflows.py"
+    "description": "This workflow (.github/workflows/github-pages.yaml) was generated from ci/gen.py"
   },
   "jobs": {
-    "build": {
-      "name": "Build site",
+    "deploy": {
+      "environment": {
+        "name": "github-pages",
+        "url": "${{ steps.deployment.outputs.page_url }}"
+      },
+      "name": "Deploy site",
+      "permissions": {
+        "contents": "read",
+        "id-token": "write",
+        "pages": "write"
+      },
       "runs-on": "ubuntu-latest",
       "steps": [
         {
           "name": "Check out repository",
-          "uses": "actions/checkout@v4"
+          "uses": "actions/checkout@v5"
         },
         {
-          "name": "Configure Pages",
+          "name": "Configure GitHub Pages",
           "uses": "actions/configure-pages@v5"
         },
         {
@@ -29,18 +38,7 @@
           "with": {
             "path": "output"
           }
-        }
-      ]
-    },
-    "deploy": {
-      "environment": {
-        "name": "github-pages",
-        "url": "${{ steps.deployment.outputs.page_url }}"
-      },
-      "name": "Deploy site",
-      "needs": "build",
-      "runs-on": "ubuntu-latest",
-      "steps": [
+        },
         {
           "id": "deployment",
           "name": "Deploy to GitHub Pages",
@@ -49,7 +47,7 @@
       ]
     }
   },
-  "name": "Build and deploy site",
+  "name": "Deploy site",
   "on": {
     "push": {
       "branches": [
@@ -57,10 +55,5 @@
       ]
     },
     "workflow_dispatch": {}
-  },
-  "permissions": {
-    "contents": "read",
-    "id-token": "write",
-    "pages": "write"
   }
 }
