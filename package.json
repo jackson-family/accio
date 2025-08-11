@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "4.1.3"
+  },
+  "description": "This file (package.json) was generated from ci/gen.py",
+  "license": "UNLICENSED",
+  "name": "accio.subtlecoolness.com",
+  "private": true,
+  "version": "1.0.0"
+}

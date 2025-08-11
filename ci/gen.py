@@ -24,8 +24,21 @@ def gen_dependabot():
                 "directory": "/",
                 "schedule": {"interval": "daily"},
             }
-            for e in ["github-actions", "uv"]
+            for e in ["github-actions", "npm", "uv"]
         ],
+    }
+    gen(content, target)
+
+
+def gen_package_json():
+    target = "package.json"
+    content = {
+        "dependencies": {"bootstrap": "4.1.3"},
+        "description": f"This file ({target}) was generated from {THIS_FILE}",
+        "license": "UNLICENSED",
+        "name": "accio.subtlecoolness.com",
+        "private": True,
+        "version": "1.0.0",
     }
     gen(content, target)
 
@@ -78,6 +91,7 @@ def gen_publish_workflow():
 
 def main():
     gen_dependabot()
+    gen_package_json()
     gen_publish_workflow()
 
 
