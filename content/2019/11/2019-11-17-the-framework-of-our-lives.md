@@ -6,7 +6,7 @@ author: William
 *This is the transcript of a talk I gave in church on Sunday, November 17,
 2019.*
 
-<audio controls src="{static}/extra/2019-11-17-the-framework-of-our-lives.mp3"></audio>
+<audio controls src="{static}/images/2019-11-17-the-framework-of-our-lives.mp3"></audio>
 
 The phrase &ldquo;concluding speaker&rdquo; can mean a lot of things to a lot of
 people. Sometimes it means I have to be flexible and write a talk that I can

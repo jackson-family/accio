@@ -1,41 +1,46 @@
-ARCHIVES_SAVE_AS = ""
-ARTICLE_EXCLUDES = ["extra"]
+SITENAME = "Accio Jacksons!"
+SITESUBTITLE = "An 11-inch holly blog with a phoenix feather core"
+AUTHOR = "Rebecca and William Jackson"
+
+# WARNING Feeds generated without SITEURL set properly may not be valid
+FEED_DOMAIN = "https://accio.subtlecoolness.com"
+SITEURL = FEED_DOMAIN
+
+# WARNING No timezone information specified in the settings. Assuming your timezone is UTC for feed generation.
+TIMEZONE = "America/Chicago"
+
+# Default path is working directory, so change to "content" directory
+PATH = "content"
+
+# Article urls
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{urlname}.html"
 ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{urlname}"
-AUTHOR = "Rebecca and William Jackson"
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+
+# Set the theme and some customer variables used in the theme
+THEME = "themes/accio"
+DEBUG_LAYOUT = False
+
+# I don't want to remember to delete the output directory before every build
+DELETE_OUTPUT_DIRECTORY = True
+
+# Some files need to land in special locations
+EXTRA_PATH_METADATA = {"images/gitignore.txt": {"path": ".gitignore"}}
+
+# I don't want the default archive, author, category, and tag pages
+ARCHIVES_SAVE_AS = ""
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
-CATEGORY_FEED_ATOM = None
 CATEGORY_SAVE_AS = ""
-CHECK_MODIFIED_METHOD = "md5"
-CONTENT_CACHING_LAYER = "reader"
-DEBUG_LAYOUT = False
-DEFAULT_DATE_FORMAT = "%Y-%m-%d"
-DEFAULT_LANG = "en"
-DEFAULT_PAGINATION = False
-DELETE_OUTPUT_DIRECTORY = True
-DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = False
-EXTRA_PATH_METADATA = {
-    "extra/gitignore.txt": {"path": ".gitignore"},
-    "extra/googleb417364cc8d4ecab.html": {"path": "googleb417364cc8d4ecab.html"},
-    "extra/robots.txt": {"path": "robots.txt"},
-}
-FEED_ALL_ATOM = "feeds/all.atom.xml"
-FEED_DOMAIN = "https://accio.subtlecoolness.com"
-PATH = "content"
-RELATIVE_URLS = False
-SITENAME = "Accio Jacksons!"
-SITESUBTITLE = "An 11-inch holly blog with a phoenix feather core"
-SITEURL = FEED_DOMAIN
-SLUGIFY_SOURCE = "basename"
-STATIC_CHECK_IF_MODIFIED = True
-STATIC_PATHS = ["extra"]
 TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
-THEME = "themes/accio"
-TIMEZONE = "America/Chicago"
+
+# Disable some Atom and RSS feeds
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+
+DEFAULT_DATE_FORMAT = "%Y-%m-%d"
+FEED_ALL_ATOM = "feeds/all.atom.xml"
+SLUGIFY_SOURCE = "basename"
