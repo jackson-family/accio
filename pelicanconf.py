@@ -1,3 +1,10 @@
+import json
+import pathlib
+
+package_json = json.loads(pathlib.Path("package.json").read_text())
+BOOTSTRAP_VERSION = package_json.get("dependencies").get("bootstrap")
+JQUERY_VERSION = package_json.get("dependencies").get("jquery")
+
 SITENAME = "Accio Jacksons!"
 SITESUBTITLE = "An 11-inch holly blog with a phoenix feather core"
 AUTHOR = "Rebecca and William Jackson"
