@@ -13,8 +13,8 @@ TIMEZONE = "America/Chicago"
 PATH = "content"
 
 # Article urls
-ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{urlname}.html"
-ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{urlname}"
+ARTICLE_SAVE_AS = "{date:%Y/%m/%d}/{urlname}.html"
+ARTICLE_URL = "{date:%Y/%m/%d}/{urlname}"
 
 # Set the theme and some customer variables used in the theme
 THEME = "themes/accio"
