@@ -1,1 +1,64 @@
-{% extends "base.html" %}
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@{{ BOOTSTRAP_VERSION }}/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/accio.css">
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="row mt-3">
+        <div class="col-12 col-md-10 col-xl-8">
+            {% block header_content %}
+                <h1><a href="/">{{ SITENAME }}</a></h1>
+                <p class="lead">{{ SITESUBTITLE }}</p>
+                <hr>
+            {% endblock %}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-md-10 col-xl-8">
+            {% block main_content %}
+                <h2>Articles</h2>
+                <ul class="list-unstyled">
+                    {% for a in articles %}
+                        <li><a href="/{{ a.url }}">{{ a.title }}</a> <small class="text-muted">{{ a.locale_date }}</small></li>
+                    {% endfor %}
+                </ul>
+            {% endblock %}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-md-10 col-xl-8">
+            <hr>
+            <p></p>
+        </div>
+    </div>
+
+    {% if DEBUG_LAYOUT %}
+    <div class="row">
+        <div class="col-12">
+            <p class="d-block d-sm-none">xs</p>
+            <p class="d-none d-sm-block d-md-none">sm</p>
+            <p class="d-none d-md-block d-lg-none">md</p>
+            <p class="d-none d-lg-block d-xl-none">lg</p>
+            <p class="d-none d-xl-block">xl</p>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+<script src="https://code.jquery.com/jquery-{{ JQUERY_VERSION }}.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@{{ BOOTSTRAP_VERSION }}/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
