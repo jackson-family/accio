@@ -33,7 +33,7 @@ def gen_dependabot():
 def gen_package_json():
     target = "package.json"
     content = {
-        "dependencies": {"bootstrap": "5.3.7"},
+        "dependencies": {"bootstrap": "5.3.8"},
         "description": f"This file ({target}) was generated from {THIS_FILE}",
         "license": "UNLICENSED",
         "name": "accio.subtlecoolness.com",
