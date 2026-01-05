@@ -1,10 +1,9 @@
 {
+  "name": "accio.subtlecoolness.com",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "bootstrap": "5.3.8"
-  },
-  "description": "This file (package.json) was generated from ci/gen.py",
-  "license": "UNLICENSED",
-  "name": "accio.subtlecoolness.com",
-  "private": true,
-  "version": "1.0.0"
+  }
 }
