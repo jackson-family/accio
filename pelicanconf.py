@@ -12,7 +12,8 @@ AUTHOR = "Rebecca and William Jackson"
 FEED_DOMAIN = "https://accio.subtlecoolness.com"
 SITEURL = FEED_DOMAIN
 
-# WARNING No timezone information specified in the settings. Assuming your timezone is UTC for feed generation.
+# WARNING No timezone information specified in the settings. Assuming your timezone is
+# UTC for feed generation.
 TIMEZONE = "America/Chicago"
 
 # Default path is working directory, so change to "content" directory
