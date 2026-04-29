@@ -22,6 +22,8 @@ weekend in New Braunfels. We had them on spaghetti.
 * &half; cup bread crumbs (with Italian seasoning if you want)
 * Parmesan, for sprinkling
 
+-----
+
 1. Preheat the oven to 400 &deg;F. In a big bowl, combine the ground beef,
    ground pork, &half; cup Parmesan, egg, Italian seasoning, garlic powder,
    salt, red pepper flakes, and &frac14; cup bread crumbs. Mix all the
