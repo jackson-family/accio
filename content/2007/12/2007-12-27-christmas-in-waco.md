@@ -21,7 +21,7 @@ like William had promised) and chocolate candy.
 As a family, we went to see a matinee showing of *National Treasure 2*. I
 enjoyed it quite a bit, but I will warn those of you who haven&#x02bc;t seen it
 that you should not try to think too hard about the movie&#x02bc;s plot. (I
-looked for my friend Janae, who was an [extra][a] in the movie, but I
+looked for my friend Janae, who was an extra in the movie, but I
 didn&#x02bc;t see her or the weird Russian spy that she met on the set.) When we
 came out of the theater, we discovered that a cold front had blown in, and the
 temperature had dropped at least 20 degrees.
@@ -48,5 +48,3 @@ bread. Now I understand why William&#x02bc;s face lights up when he talks about
 Christmas at home!
 
 I feel like an honest to goodness Jackson!
-
-[a]: https://supersonicjan.blogspot.com/2007/07/nt2.html
