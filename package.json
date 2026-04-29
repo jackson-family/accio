@@ -1,9 +1,0 @@
-{
-  "name": "accio.subtlecoolness.com",
-  "version": "1.0.0",
-  "license": "UNLICENSED",
-  "private": true,
-  "dependencies": {
-    "bootstrap": "5.3.8"
-  }
-}

@@ -1,9 +1,3 @@
-import json
-import pathlib
-
-package_json = json.loads(pathlib.Path("package.json").read_text())
-BOOTSTRAP_VERSION = package_json.get("dependencies").get("bootstrap")
-
 SITENAME = "Accio Jacksons!"
 SITESUBTITLE = "An 11-inch holly blog with a phoenix feather core"
 AUTHOR = "Rebecca and William Jackson"
@@ -23,9 +17,8 @@ PATH = "content"
 ARTICLE_SAVE_AS = "{date:%Y/%m/%d}/{urlname}.html"
 ARTICLE_URL = "{date:%Y/%m/%d}/{urlname}"
 
-# Set the theme and some customer variables used in the theme
+# Set the theme
 THEME = "themes/accio"
-DEBUG_LAYOUT = False
 
 # I don't want to remember to delete the output directory before every build
 DELETE_OUTPUT_DIRECTORY = True

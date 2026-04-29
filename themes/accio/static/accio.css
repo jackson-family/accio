@@ -1,8 +1,69 @@
-.list-style-upper-alpha {
-	list-style-type: upper-alpha;
+:root {
+    --text: #222;
+    --muted: #666;
+    --accent: #6a1b9a;
+    --rule: #e5e5e5;
+    --bg: #fff;
 }
 
-img, video {
-	max-width: 100%;
-	height: auto;
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 16px; }
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
 }
+
+header, main {
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+header {
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 1rem;
+}
+
+h1 { font-size: 2rem; margin: 0.5rem 0 0.25rem; }
+h1 a { color: inherit; text-decoration: none; }
+h2 { font-size: 1.5rem; margin-top: 1.5rem; }
+
+.subtitle {
+    color: var(--muted);
+    font-style: italic;
+    margin: 0 0 0.5rem;
+}
+
+.byline {
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+a { color: var(--accent); }
+a:hover { text-decoration: none; }
+
+.article-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.article-list li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.article-list time {
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+}
+
+.list-style-upper-alpha { list-style-type: upper-alpha; }
+img, video { max-width: 100%; height: auto; }
