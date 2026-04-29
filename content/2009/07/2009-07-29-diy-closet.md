@@ -55,9 +55,7 @@ measuring all the parts several times, so everything went up quite smoothly. And
 now we have lots of hanging space, lots of shoe racks, and just a very few
 shelves to use as we see fit.
 
-<a href="{static}/images/2009-07-28-closet-remodel.jpg">
-	![]({static}/images/2009-07-28-closet-remodel.jpg)
-</a>
+![Collage of Rebecca and William working on the closet remodel]({static}/images/2009-07-28-closet-remodel.jpg)
 
 (I put that belly shot in there because I know some of you are curious to see
 how round I&#x02bc;ve become. Nothing draws attention to my belly more than

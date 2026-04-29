@@ -26,7 +26,7 @@ when she was all cleaned up. I was so glad that she wasn&#x02bc;t a weird
 looking newborn. Well, she does look a little surprised here, but at least her
 head isn&#x02bc;t all smashed or scratched up.
 
-![]({static}/images/2009-08-10-emily-01.jpg)
+![Baby Emily]({static}/images/2009-08-10-emily-01.jpg)
 
 We were at the hospital until Wednesday afternoon, and they took really good
 care of me. The nurses were all so kind and patient, and my doctor and
@@ -37,19 +37,19 @@ cream whenever I wanted.
 I really like this picture of William and Emily. Can you tell that he&#x02bc;s
 excited to be a dad?
 
-![]({static}/images/2009-08-10-emily-02.jpg)
+![William holding Emily]({static}/images/2009-08-10-emily-02.jpg)
 
 Probably the best news that we got in the hospital was that Emily passed the
 newborn hearing screening test. What a relief that was for me! But look how cute
 she looks with the head phones on.
 
-![]({static}/images/2009-08-12-emily-01.jpg)
+![Emily taking a hearing test]({static}/images/2009-08-12-emily-01.jpg)
 
 Here she is in her first outfit that didn&#x02bc;t consist of hospital-issued
 shirts. Of course, it&#x02bc;s way too big for her, but she still looks cute.
 And that look on her face is one of my favorites.
 
-![]({static}/images/2009-08-12-emily-02.jpg)
+![Emily]({static}/images/2009-08-12-emily-02.jpg)
 
 Since we&#x02bc;ve been home, our schedule has consisted mainly of eating,
 sleeping, feeding Emily, and taking showers as time allows. Mom and Carrie

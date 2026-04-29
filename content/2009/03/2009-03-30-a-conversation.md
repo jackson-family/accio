@@ -79,9 +79,9 @@ You: You&#x02bc;re so lucky. So, do you have any pictures of her?
 
 Me: Yes, look here:
 
-![]({static}/images/2009-03-25-ultrasound-01.jpg)
+![Ultrasound image of baby]({static}/images/2009-03-25-ultrasound-01.jpg)
 
-![]({static}/images/2009-03-25-ultrasound-02.jpg)
+![Ultrasound image of baby]({static}/images/2009-03-25-ultrasound-02.jpg)
 
 You: Wow, that 3-D picture is amazing! I didn&#x02bc;t know they could do that
 these days. Ooh, that other picture of her face is kind of freaky.

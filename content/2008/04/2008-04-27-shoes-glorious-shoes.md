@@ -6,45 +6,33 @@ author: Rebecca
 For those of you who are wondering how successful our stop at TJ Maxx was, I
 present the following photos.
 
-<figure>
-	<img src="{static}/images/2008-04-27-shoes-01.jpg" alt="Shoes">
-	<figcaption>
-		These are my sensible &ldquo;I need some comfy shoes that I can put on
-		in a hurry without looking like I got dressed in a hurry&rdquo; shoes.
-		Very comfy!
-	</figcaption>
-</figure>
+These are my sensible &ldquo;I need some comfy shoes that I can put on
+in a hurry without looking like I got dressed in a hurry&rdquo; shoes.
+Very comfy!
 
-<figure>
-	<img src="{static}/images/2008-04-27-shoes-02.jpg" alt="Shoes">
-	<figcaption>
-		These are where things started getting exciting. I don&#x02bc;t know
-		where I&#x02bc;m going to wear these shoes, but they were too cute to
-		pass up. These are my &ldquo;I need some comfy shoes that I can put on
-		in a hurry that aren&#x02bc;t brown sandals&rdquo; shoes.
-	</figcaption>
-</figure>
+![Shoes]({static}/images/2008-04-27-shoes-01.jpg)
 
-<figure>
-	<img src="{static}/images/2008-04-27-shoes-03.jpg" alt="Shoes">
-	<figcaption>
-		And finally, we have these incredible gold shoes. I don&#x02bc;t know
-		what to say about them, except that I fell in love with these shoes.
-		Well, as much in love as one can fall with a pair of shoes. I cannot
-		wait to wear these. These will be my &ldquo;Yes, I really am wearing
-		gold high heels in public just because I can&rdquo; shoes.
-	</figcaption>
-</figure>
+These are where things started getting exciting. I don&#x02bc;t know
+where I&#x02bc;m going to wear these shoes, but they were too cute to
+pass up. These are my &ldquo;I need some comfy shoes that I can put on
+in a hurry that aren&#x02bc;t brown sandals&rdquo; shoes.
 
-<figure>
-	<img src="{static}/images/2008-04-27-swimsuit.jpg" alt="Swimsuit">
-	<figcaption>
-		And I found a swimsuit. It was $14, it doesn&#x02bc;t plunge down to my
-		belly button, and the little skirt on the bottom covers up just about
-		everything around my waist and hips that I want to hide. Who
-		would&#x02bc;ve guessed that such a gem could be found at TJ Maxx, of
-		all places? Now, I&#x02bc;m actually excited to go swimming!
-	</figcaption>
-</figure>
+![Shoes]({static}/images/2008-04-27-shoes-02.jpg)
+
+And finally, we have these incredible gold shoes. I don&#x02bc;t know
+what to say about them, except that I fell in love with these shoes.
+Well, as much in love as one can fall with a pair of shoes. I cannot
+wait to wear these. These will be my &ldquo;Yes, I really am wearing
+gold high heels in public just because I can&rdquo; shoes.
+
+![Shoes]({static}/images/2008-04-27-shoes-03.jpg)
+
+And I found a swimsuit. It was $14, it doesn&#x02bc;t plunge down to my
+belly button, and the little skirt on the bottom covers up just about
+everything around my waist and hips that I want to hide. Who
+would&#x02bc;ve guessed that such a gem could be found at TJ Maxx, of
+all places? Now, I&#x02bc;m actually excited to go swimming!
+
+![Swimsuit]({static}/images/2008-04-27-swimsuit.jpg)
 
 If only I could wear my new swimsuit and my gold shoes to the pool &hellip;

@@ -38,7 +38,7 @@ palette and mixing the heck out of it, or how when I&#x02bc;m at work, I think
 about things that I could be painting. But I won&#x02bc;t. I&#x02bc;ll just put
 a picture of my most recent creation here.
 
-![]({static}/images/2009-04-15-painting-01.jpg)
+![Watercolor painting by Rebecca]({static}/images/2009-04-15-painting-01.jpg)
 
 This is based on the print of one of my favorite skirts that no longer fits me.
 (But it will fit again, hopefully around mid-September. Please?)

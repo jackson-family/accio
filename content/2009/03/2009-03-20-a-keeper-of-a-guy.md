@@ -87,4 +87,4 @@ keeping him forever.
 
 And as it turns out, I did end up keeping him forever, t-shirt and all.
 
-![]({static}/images/2007-03-17-keeper.jpg)
+![William holding up a t-shirt]({static}/images/2007-03-17-keeper.jpg)

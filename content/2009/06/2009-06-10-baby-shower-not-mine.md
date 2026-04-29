@@ -11,7 +11,7 @@ convection oven/microwave cooking up a storm. Somehow, in all of the excitement
 of cooking a huge pile of food in my kitchen, I didn&#x02bc;t take any better
 pictures of the food than this one. But trust me, it was all delicious.
 
-![]({static}/images/2009-06-06-baby-shower-food.jpg)
+![Refreshments]({static}/images/2009-06-06-baby-shower-food.jpg)
 
 Here are the recipes that I made:
 
@@ -37,7 +37,11 @@ ridiculous, and the honoree went home with a great big pile of little boy gifts.
 Mission accomplished.
 
 [a]: https://www.wholefoodsmarket.com/recipes/buttermilk-rolls
+
 [b]: https://www.wholefoodsmarket.com/recipes/sonoma-chicken-salad
+
 [c]: https://smittenkitchen.com/2009/05/broccoli-slaw/
+
 [d]: https://www.simplyrecipes.com/recipes/simple_cooked_tomato_salsa/
+
 [e]: https://noblepig.com/2009/02/my-boys-wanted-it/

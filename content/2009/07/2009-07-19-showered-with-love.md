@@ -11,7 +11,7 @@ understand.
 
 ### Baby Shower 1
 
-![]({static}/images/2009-06-27-baby-shower-01.jpg)
+![Cupcakes on a table]({static}/images/2009-06-27-baby-shower-01.jpg)
 
 My friend Michelle offered to throw me a shower first, and then a bunch of other
 people offered to throw me one. I just told them to call Michelle and offer to
@@ -25,7 +25,7 @@ more awkward and incompetent than she is already feeling.) Here are some of the
 OK pictures. There were more pictures, but I look really dorky when I&#x02bc;m
 excited, apparently.
 
-![]({static}/images/2009-06-27-baby-shower-02.jpg)
+![Rebecca holding a small t-shirt]({static}/images/2009-06-27-baby-shower-02.jpg)
 
 This is what my mom gave me. Everyone in my family has a tie-dye t-shirt for
 emergency situations. That way, if we get separated, you can go around and say,
@@ -33,12 +33,12 @@ emergency situations. That way, if we get separated, you can go around and say,
 people will remember the shirts and help them locate us. It works in theory, at
 least.
 
-![]({static}/images/2009-06-27-baby-shower-03.jpg)
+![Rebecca holding baby clothes]({static}/images/2009-06-27-baby-shower-03.jpg)
 
 Here I am with one of many of her outfits. Though, I think this might be PJs
 instead of a real outfit.
 
-![]({static}/images/2009-06-27-baby-shower-04.jpg)
+![Rebecca and Shiloh wearing matching tops]({static}/images/2009-06-27-baby-shower-04.jpg)
 
 And this picture makes me laugh because my friend Shiloh is due a week before I
 am, and we ended up wearing the same maternity top that day. I think someone
@@ -47,29 +47,29 @@ and I&#x02bc;m going to miss wearing it.\
 
 ### Baby Shower 2
 
-![]({static}/images/2009-07-02-baby-shower-01.jpg)
+![A cake]({static}/images/2009-07-02-baby-shower-01.jpg)
 
 Here&#x02bc;s the cake. We were eating this for the next 4 days and still threw
 away like a quarter of it.
 
-![]({static}/images/2009-07-02-baby-shower-02.jpg)
+![A toy stuffed bear]({static}/images/2009-07-02-baby-shower-02.jpg)
 
 The decorations here were so cute! Those rosebuds were actually baby socks, so
 now I have about two dozen teeny socks in different colors. Way more useful than
 a bunch of dead flowers.
 
-![]({static}/images/2009-07-02-baby-shower-03.jpg)
+![Rebecca at a baby shower]({static}/images/2009-07-02-baby-shower-03.jpg)
 
 Here&#x02bc;s a belly shot of me with my cake.
 
-![]({static}/images/2009-07-02-baby-shower-04.jpg)
+![Rebecca holding a large wrapped gift]({static}/images/2009-07-02-baby-shower-04.jpg)
 
 William came to this shower with me, and all the ladies got to fuss over him.
 Later, one of them asked me if he was European, because he is so &ldquo;exotic
 looking.&rdquo; And they were kind of sad that he didn&#x02bc;t wear his Trilby
 hat.
 
-![]({static}/images/2009-07-02-baby-shower-05.jpg)
+![William holding a gift]({static}/images/2009-07-02-baby-shower-05.jpg)
 
 Here&#x02bc;s one of the cute outfits that we got. Looks a little small on
 William but should be darling on our baby.

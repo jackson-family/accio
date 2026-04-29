@@ -17,7 +17,7 @@ fragility of their product. And then one day we came home from work and found a
 giant box waiting for us. It was from the pita company, and this is what it had
 inside:
 
-![]({static}/images/2008-09-04-pita-chips.jpg)
+![Bags of crunchy pita chips]({static}/images/2008-09-04-pita-chips.jpg)
 
 ### 2
 
@@ -26,7 +26,7 @@ sandwiches from all those years of eating them as a kid, and (b) we don&#x02bc;t
 always have enough leftovers to feed us both. I figure if I&#x02bc;m going to
 eat convenience food, it should at least be somewhat healthy, right? I had one a
 few weeks ago, and some of the chicken had gristle in it. And it had two little
-snips of red pepper in it, hardly the confetti-colored concotion depicted on the
+snips of red pepper in it, hardly the confetti-colored concoction depicted on the
 front of the package. So, I filled out a form on the Lean Cuisine site letting
 them know about these shortcomings, and yesterday, I received coupons for two
 Lean Cuisines and more.

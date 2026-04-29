@@ -34,15 +34,15 @@ Grandmother should enjoy reading through it again and again.
 And here are a few pictures. Here&#x02bc;s Grandmother holding up her scrapbook.
 The little girl on the cover is her at a very young age.
 
-![]({static}/images/2009-01-11-grandmother-birthday-01.jpg)
+![Grandmother holder her scrapbook]({static}/images/2009-01-11-grandmother-birthday-01.jpg)
 
 Here&#x02bc;s Grandmother with her four children: Jim, Terry (my dad), Carol,
 and Kay.
 
-![]({static}/images/2009-01-11-grandmother-birthday-02.jpg)
+![Grandmother with her children]({static}/images/2009-01-11-grandmother-birthday-02.jpg)
 
 And here&#x02bc;s a picture of me and William with Grandmother.
 
-![]({static}/images/2009-01-11-grandmother-birthday-03.jpg)
+![Grandmother with Rebecca and William]({static}/images/2009-01-11-grandmother-birthday-03.jpg)
 
 We love you so much!

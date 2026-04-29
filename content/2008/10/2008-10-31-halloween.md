@@ -3,7 +3,7 @@ urlname: halloween
 date: 2008-10-31
 author: Rebecca
 
-![]({static}/images/2008-10-31-pumpkin-02.jpg)
+![Rebecca carving a pumpkin]({static}/images/2008-10-31-pumpkin-02.jpg)
 
 This is not a &ldquo;Look how cute my kid&#x02bc;s costume is at the Ward Trunk
 or Treat&rdquo; post. No kids, so no cute costumes. Maybe someday &hellip;
@@ -23,5 +23,7 @@ came by. So, now we&#x02bc;re kind of in the same situation as many of you: too
 much candy in the house, and not enough people to eat it. Happy Halloween!
 
 [a]: http://www.rhodesbread.com/recipes/print_recipe/1983
+
 [b]: https://www.kingarthurflour.com/blog/2008/10/27/cast-a-spell-with-these-cookies-magic-in-the-middles
+
 [c]: https://web.archive.org/web/20111210234035/http://www.perrysplate.com/2008/10/toasted-pumpkin-seeds.html

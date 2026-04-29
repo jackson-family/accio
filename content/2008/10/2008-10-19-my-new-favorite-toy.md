@@ -23,7 +23,7 @@ it lasts a long time. A much better return on investment of time, in my opinion.
 
 Well, now I&#x02bc;m going to have to make an apple pie. What?
 
-![]({static}/images/2008-10-03-apple-machine-01.jpg)
+![Rebecca with a surprised face]({static}/images/2008-10-03-apple-machine-01.jpg)
 
 This is why. A few weeks ago, William and I found ourselves in Marshall&#x02bc;s
 exploring the shelves in the back of the store where they have all of the fun,
@@ -36,17 +36,17 @@ slice/core/peel.
 And it *did*! Looky, looky. First you pop the apple on the machine. And then you
 turn the handle.
 
-![]({static}/images/2008-10-03-apple-machine-02.jpg)
+![Apple peeling machine]({static}/images/2008-10-03-apple-machine-02.jpg)
 
-![]({static}/images/2008-10-03-apple-machine-03.jpg)
+![Apple peeling machine]({static}/images/2008-10-03-apple-machine-03.jpg)
 
-![]({static}/images/2008-10-03-apple-machine-04.jpg)
+![Rebecca operating the apple peeling machine]({static}/images/2008-10-03-apple-machine-04.jpg)
 
-![]({static}/images/2008-10-03-apple-machine-05.jpg)
+![Apple peeling machine]({static}/images/2008-10-03-apple-machine-05.jpg)
 
 And it peels and cores and slices that apple in about 10 seconds. Amazing! And
 if you like apple peel, this is what you end up with.
 
-![]({static}/images/2008-10-03-apple-machine-06.jpg)
+![Rebecca holding a long apple peel]({static}/images/2008-10-03-apple-machine-06.jpg)
 
 How do you like them apples?

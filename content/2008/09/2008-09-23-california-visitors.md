@@ -27,58 +27,58 @@ much fun. I should probably let the pictures do most of the talking.
 The kids loved being in the huge back yard. I don&#x02bc;t know if Marea had
 ever seen that much land in her life.
 
-![]({static}/images/2008-09-20-family-01.jpg)
+![Kids playing in the yard]({static}/images/2008-09-20-family-01.jpg)
 
-![]({static}/images/2008-09-20-family-02.jpg)
+![Kids playing in the yard]({static}/images/2008-09-20-family-02.jpg)
 
-![]({static}/images/2008-09-20-family-03.jpg)
+![Kids playing in the yard]({static}/images/2008-09-20-family-03.jpg)
 
-![]({static}/images/2008-09-20-family-04.jpg)
+![Kids playing in the yard]({static}/images/2008-09-20-family-04.jpg)
 
 And here&#x02bc;s Monica chasing Jacob, who&#x02bc;s tearing after something
 very interesting.
 
-![]({static}/images/2008-09-20-family-05.jpg)
+![Kids playing in the yard]({static}/images/2008-09-20-family-05.jpg)
 
 This picture makes me laugh because the boys totally know that they are not
 supposed to climb up there, and yet they make a beeline for that corner seat
 every time!
 
-![]({static}/images/2008-09-20-family-06.jpg)
+![Boys climbing on a window sill]({static}/images/2008-09-20-family-06.jpg)
 
 I don&#x02bc;t know what&#x02bc;s up with my face here, but little John took
 this picture.
 
-![]({static}/images/2008-09-20-family-07.jpg)
+![Mark and Rebecca]({static}/images/2008-09-20-family-07.jpg)
 
 And here I am with my brother Mark and my cousin John.
 
-![]({static}/images/2008-09-20-family-08.jpg)
+![Mark and Rebecca with cousin John]({static}/images/2008-09-20-family-08.jpg)
 
 We played Kings on the Corners with Grandma. And she won. Big surprise &mdash;
 look at her game face. She has it *on*.
 
-![]({static}/images/2008-09-20-family-09.jpg)
+![Grandma playing a card game]({static}/images/2008-09-20-family-09.jpg)
 
 Martine had a birthday cake!
 
-![]({static}/images/2008-09-21-family-01.jpg)
+![Martine with a birthday cake]({static}/images/2008-09-21-family-01.jpg)
 
 Such a cute little family, John, Bianca, and Marea.
 
-![]({static}/images/2008-09-21-family-02.jpg)
+![John, Bianca, and Marea]({static}/images/2008-09-21-family-02.jpg)
 
 And here&#x02bc;s Grandmother with her favorite great-granddaughter.
 
-![]({static}/images/2008-09-20-family-10.jpg)
+![Grandmother and Marea]({static}/images/2008-09-20-family-10.jpg)
 
 We finally managed to get our hands on Marea. Look at that red hair!
 
-![]({static}/images/2008-09-22-family-01.jpg)
+![Willim and Rebecca with Marea]({static}/images/2008-09-22-family-01.jpg)
 
 And here we got almost everyone into the picture, except for Martine who was
 taking the pictures.
 
-![]({static}/images/2008-09-22-family-02.jpg)
+![Group photo of the whole family]({static}/images/2008-09-22-family-02.jpg)
 
 Thanks to all for such a fun and happy weekend!

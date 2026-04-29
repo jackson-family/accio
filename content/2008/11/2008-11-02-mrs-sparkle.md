@@ -14,6 +14,6 @@ We&#x02bc;re not fancy people.
 
 Until now.
 
-![]({static}/images/2008-11-01-sparkly.jpg)
+![Rebecca wearing a sparkly red top]({static}/images/2008-11-01-sparkly.jpg)
 
 I am going to be sparkly, and it&#x02bc;s wonderful.
