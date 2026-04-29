@@ -44,4 +44,4 @@ too. We replaced two cups of white flour with whole wheat.
 I don&#x02bc;t have a photograph of the bread because all three loaves were
 given away or eaten before I had a chance to take a photo.
 
-[a]: http://zilker.org/
+[a]: https://zilker.org/

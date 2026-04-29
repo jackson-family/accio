@@ -11,7 +11,7 @@ confidently because I took his New Testament class during my last semester of
 graduate school, and it was easily my favorite class. Seeing an [article][a] of
 his in the April _Ensign_ reminded me of something.
 
-[a]: https://www.churchofjesuschrist.org/study/ensign/2009/04/reflections-on-the-saviors-last-week
+[a]: https://www.churchofjesuschrist.org/study/ensign/2009/04/reflections-on-the-saviors-last-week?lang=eng
 
 A few years ago, he emailed me a set of scripture readings that were appropriate
 for Easter. It&#x02bc;s readings from the four gospels and the Book of Mormon

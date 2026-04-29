@@ -29,4 +29,5 @@ With Ann&#x02bc;s well-wishes, we succeeded in the end and Rebecca got her
 bottle of water and I got my pink lemonade.
 
 [a]: https://sweetberryfarm.com/index.html
-[b]: https://www.google.com/maps/d/viewer?hl=en&mid=1JLIfpMi7wNWIJAAzKXxSUiVMhHY&ll=30.60980197432596%2C-98.30508199999997&z=17
+
+[b]: https://sweetberryfarm.com/mazes.html

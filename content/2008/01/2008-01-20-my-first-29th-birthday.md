@@ -34,7 +34,7 @@ new mattress pad; new socks to replace my old hole-y ones; a bracelet that I
 think Aunt Kay made; and new DVDs of *Order of the Phoenix*, *Clue*, and Season
 One of *The Simpsons*.
 
-[b]: http://superchinaaustin.com/
+[b]: https://www.superchinatx.com/
 
 In the evening, we went to our stake play, which was called *Joseph Smith
 &mdash; Lover of the Cause of Christ*. I admit that I was skeptical of the

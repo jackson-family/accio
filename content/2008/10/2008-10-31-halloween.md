@@ -22,8 +22,8 @@ something amazing.) I even went out and bought four bags of candy, but no kids
 came by. So, now we&#x02bc;re kind of in the same situation as many of you: too
 much candy in the house, and not enough people to eat it. Happy Halloween!
 
-[a]: http://www.rhodesbread.com/recipes/print_recipe/1983
+[a]: https://web.archive.org/web/20151022023855/https://www.rhodesbread.com/recipes/view/yummy-mummy-dogs
 
-[b]: https://www.kingarthurflour.com/blog/2008/10/27/cast-a-spell-with-these-cookies-magic-in-the-middles
+[b]: https://www.kingarthurbaking.com/blog/2008/10/27/cast-a-spell-with-these-cookies-magic-in-the-middles
 
 [c]: https://web.archive.org/web/20111210234035/http://www.perrysplate.com/2008/10/toasted-pumpkin-seeds.html

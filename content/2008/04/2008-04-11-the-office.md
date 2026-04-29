@@ -11,4 +11,4 @@ Oh, and I took a personality quiz to find out which *Office* character
 I&#x02bc;m most like, and I got Pam. Whew. What if I&#x02bc;d turned out to be
 most like Creed?
 
-[a]: https://mentalfloss.com/article/19679/quiz-rerun-office-us-edition
+[a]: https://web.archive.org/web/20230529191341/https://www.mentalfloss.com/article/19679/quiz-rerun-office-us-edition

@@ -33,4 +33,4 @@ judgment:
 
 Anyway, lists are fun.
 
-[a]: http://www.grocerylists.org/
+[a]: https://grocerylists.org/

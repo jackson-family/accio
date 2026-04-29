@@ -27,7 +27,7 @@ everything except the outlined shape. I had so much fun doing this one that I
 thought I could make it work as paintings for Emily&#x02bc;s room. The shapes I
 chose were sun, moon, and stars, so maybe this is her first astronomy lesson.
 
-[a]: https://abbeypaints.com/
+[a]: https://web.archive.org/web/20240319215548/https://abbeypaints.com/
 
 I also wanted to have a way for Emily to keep the paintings later in case she
 didn&#x02bc;t want to hang them on her wall forever. I didn&#x02bc;t want to

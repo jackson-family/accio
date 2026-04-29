@@ -14,7 +14,7 @@ to enter. And then you don&#x02bc;t win anything, but you start getting a bunch
 of emails from the company when all you wanted was to get a $2 off coupon for a
 tub of heart-healthy margarine.
 
-[a]: https://foodiegiveaway.blogspot.com/
+[a]: https://web.archive.org/web/20190907072900/https://foodiegiveaway.blogspot.com/
 
 So, I was excited about Foodie Giveaway, since they have some pretty nice things
 on there. And the blog just started last month, so I imagine that the giveaways

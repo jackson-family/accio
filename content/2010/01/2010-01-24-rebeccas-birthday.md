@@ -30,6 +30,6 @@ what I&#x02bc;m going to cook in it. Any suggestions?
 We had our friends Paul and Erin over for a dinner with deep dish pizza, Greek
 salad, and [this amazing peanut butter pie][d] that William made. So, so good!
 
-[d]: https://thepioneerwoman.com/cooking/another-pie/
+[d]: https://www.thepioneerwoman.com/food-cooking/recipes/a11761/another-pie/
 
 It was a good birthday!

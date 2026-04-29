@@ -29,12 +29,12 @@ So, to begin, Laodicea is an ancient city that is in present-day Turkey. It was
 one of the [&ldquo;seven churches which are in Asia&rdquo;][a] to which the book
 of Revelation in the New Testament was addressed.
 
-[a]: https://www.churchofjesuschrist.org/study/scriptures/nt/rev/1.11#p11
+[a]: https://www.churchofjesuschrist.org/study/scriptures/nt/rev/1?lang=eng&id=11#p11
 
 To members of the church in Laodicea, the Lord revealed [the following
 rebuke][b]:
 
-[b]: https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3.15-16#p15
+[b]: https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=eng&id=15-16#p15
 
 > I know thy works, that thou art neither cold nor hot: I would thou wert
 > cold or hot. So then because thou art lukewarm, and neither cold nor
@@ -69,7 +69,7 @@ language, especially invoking the sacred name of God in casual conversation. But
 let us consider these words closely, and perhaps we may find deeper meaning in
 the commandment.
 
-[c]: https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.7#p7
+[c]: https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=7#p7
 
 First, remember that the Book of Mormon prophet [Nephi taught][e] that when you
 are baptized, you are &ldquo;witnessing unto the Father that ye are willing to
@@ -78,9 +78,9 @@ each week renew that covenant and are reminded by [the sacramental prayer][d]
 that they &ldquo;witness unto &hellip; God &hellip; that they are willing to
 take upon them the name of [his] Son&rdquo;, Jesus Christ.
 
-[d]: https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.77#p77
+[d]: https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=77#p77
 
-[e]: https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31.13#p13
+[e]: https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=13#p13
 
 Clearly, taking upon us the name of the Lord is a good thing. We are commanded
 to do it, and, as members of the Church of Jesus Christ of Latter-day Saints, we
@@ -110,7 +110,7 @@ In General Conference last month, Elder Terence M. Vinson of the Presidency of
 the Seventy [said][f], &ldquo;We can feel enduring joy when our Savior and His
 gospel become the framework around which we build our lives.&rdquo;
 
-[f]: https://www.churchofjesuschrist.org/study/general-conference/2019/10/12vinson
+[f]: https://www.churchofjesuschrist.org/study/general-conference/2019/10/12vinson?lang=eng
 
 I&#x02bc;ve never built a home, but I understand that when you build a home, you
 begin with a solid foundation and a framework. After that comes the furnishings
@@ -131,7 +131,7 @@ President Nelson, [has said][g] that &ldquo;in coming days, it will not be
 possible to survive spiritually without the guiding, directing, comforting, and
 constant influence of the Holy Ghost.&rdquo;
 
-[g]: https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives
+[g]: https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng
 
 I will repeat again the words of Elder Vinson: &ldquo;We can feel enduring joy
 when our Savior and His gospel become the framework around which we build our
@@ -153,7 +153,7 @@ and Jesus Christ and His gospel, we can feel joy regardless of what is happening
 &mdash; or not happening &mdash; in our lives. Joy comes from and because of
 Him. He is the source of all joy.&rdquo;
 
-[h]: https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival
+[h]: https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng
 
 While joy is often associated with feelings of happiness, they are not the same
 thing. Joy comes when we know our efforts to keep our covenants and be true

@@ -6,7 +6,7 @@ author: Rebecca
 This quote from [Elder Holland&#x02bc;s talk][a] has been on my mind for the
 last few weeks:
 
-[a]: https://www.churchofjesuschrist.org/study/general-conference/2008/10/the-ministry-of-angels
+[a]: https://www.churchofjesuschrist.org/study/general-conference/2008/10/the-ministry-of-angels?lang=eng
 
 > From the beginning down through the dispensations, God has used angels as His
 > emissaries in conveying love and concern for His children &hellip;

@@ -37,5 +37,7 @@ attempt to acknowledge our Jewish cousins and their fine traditions. Happy New
 Year!
 
 [a]: https://web.archive.org/web/20080920040145/http://www.kingarthurflour.com/shop/RecipeTheme?theme=C1459
-[b]: http://www.whfoods.com/genpage.php?dbid=33&tname=recipe
-[c]: https://www.kingarthurflour.com/recipes/classic-challah-recipe
+
+[b]: https://web.archive.org/web/20240613224641/http://www.whfoods.com/genpage.php?dbid=33&tname=recipe
+
+[c]: https://www.kingarthurbaking.com/recipes/classic-challah-recipe

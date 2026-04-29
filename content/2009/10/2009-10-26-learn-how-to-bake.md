@@ -10,7 +10,7 @@ breads.) I&#x02bc;ve had it on my calendar for a few months and had really been
 looking forward to seeing it. The demonstration was on &ldquo;Sweet Yeasted
 Breads.&rdquo;
 
-[a]: https://www.kingarthurflour.com/
+[a]: https://www.kingarthurbaking.com/
 
 Except for two little kids there, I was easily the youngest person in
 attendance. Does that mean that people my age aren&#x02bc;t that keen on baking?

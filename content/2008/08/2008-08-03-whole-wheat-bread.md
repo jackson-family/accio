@@ -19,4 +19,4 @@ personal experience.
 
 The full recipe is [on the King Arthur Flour website][a].
 
-[a]: https://www.kingarthurflour.com/recipes/classic-100-whole-wheat-bread-recipe
+[a]: https://www.kingarthurbaking.com/recipes/classic-100-whole-wheat-bread-recipe

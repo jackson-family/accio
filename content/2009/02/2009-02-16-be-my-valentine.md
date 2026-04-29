@@ -27,7 +27,7 @@ chilling the dough before rolling it out. *Yay*, because who wants to wait at
 least one more hour for a cookie?) We had a good time, and by the end of the
 night, here&#x02bc;s what we ended up with.
 
-[a]: https://www.wilton.com/roll-out-cookie-dough/WLRECIP-31.html
+[a]: https://wilton.com/chocolate-roll-out-cookies/wlrecip-89/
 
 ![Cookies]({static}/images/2009-02-11-cookies-01.jpg)
 

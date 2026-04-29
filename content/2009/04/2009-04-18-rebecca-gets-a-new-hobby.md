@@ -12,7 +12,7 @@ Does anyone remember [President Uchtdorf&#x02bc;s talk from the Relief Society
 meeting][a]? I&#x02bc;ve had that rattling around in my head since he gave that
 talk.
 
-[a]: https://www.churchofjesuschrist.org/study/general-conference/2008/10/happiness-your-heritage
+[a]: https://www.churchofjesuschrist.org/study/general-conference/2008/10/happiness-your-heritage?lang=eng
 
 > The desire to create is one of the deepest yearnings of the human soul.
 > No matter our talents, education, backgrounds, or abilities, we each have an

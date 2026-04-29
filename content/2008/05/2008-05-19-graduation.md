@@ -28,7 +28,7 @@ regalia, and I knew I needed to be at the Erwin Center between 07:00 and 07:15,
 but that was it. And the Erwin Center is big, so we were lucky we found the
 graduates&#x02bc; entrance on our first pass.
 
-[a]: https://uterwincenter.com/index.aspx
+[a]: https://en.wikipedia.org/wiki/Frank_Erwin_Center
 
 So the first official-looking person directed me towards the registration table.
 I got in the line marked by an alphabetical range in which &ldquo;Jackson&rdquo;

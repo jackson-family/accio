@@ -32,4 +32,4 @@ measure.
 
 My wife is amazing.
 
-[a]: https://www.bucadibeppo.com/
+[a]: https://dineatbuca.com/

@@ -7,7 +7,7 @@ Molly Ellen Jackson was born on December 14 at 2:22 pm. William did a great job
 of summing up the day she was born so I&#x02bc;ll just use his words.
 
 > This morning I accompanied Rebecca to her regular weekly checkup. At the
-> end of the checkup, her doctor had her sit for a [Fetal Non-Stress Test][a].
+> end of the checkup, her doctor had her sit for a [Fetal Nonstress Test][a].
 > The doctor was not happy with the results, so he sent
 > us upstairs to the ultrasound folks for a closer look.
 >
@@ -30,7 +30,7 @@ of summing up the day she was born so I&#x02bc;ll just use his words.
 > ability to spot trouble early. We know the Lord is watching over us. There
 > is probably no way Molly would have survived a vaginal delivery.
 
-[a]: http://americanpregnancy.org/prenatal-testing/non-stress-test/
+[a]: https://en.wikipedia.org/wiki/Nonstress_test
 
 So, there you have it. We&#x02bc;re so happy that she&#x02bc;s here, and in fine
 form to boot. I try not to think too hard about what would&#x02bc;ve happened if

@@ -14,7 +14,9 @@ getting into the spirit of the day, too.
 ![Emily][c]
 
 [a]: {static}/images/2010-04-04-emily-01.jpg
+
 [b]: {static}/images/2010-04-04-emily-02.jpg
+
 [c]: {static}/images/2010-04-04-emily-03.jpg
 
 If you&#x02bc;re worried about her eating too many Easter treats, her egg was
@@ -29,4 +31,4 @@ And here she is in her cute Easter dress that Mom bought for her.
 
 Most important, [this video][e] reminds me of the importance of Easter. Enjoy!
 
-[e]: https://youtu.be/xlc5RvmWN4s
+[e]: https://www.youtube.com/watch?v=xlc5RvmWN4s

@@ -51,8 +51,12 @@ But these were no tears of sadness. My mother followed that one clear call
 echoing out from the boundless deep, and she has turned again home. I know she
 has now seen her Pilot face to face, as we all will one day.
 
-[a]: http://www.npr.org/2012/04/25/151339990/celebrating-poem-in-your-pocket-day
-[b]: https://www.poets.org/national-poetry-month/home
-[c]: https://www.poets.org/national-poetry-month/poem-your-pocket-day
+[a]: https://www.npr.org/2012/04/25/151339990/celebrating-poem-in-your-pocket-day
+
+[b]: https://poets.org/national-poetry-month-30th-anniversary
+
+[c]: https://poets.org/national-poetry-month/poem-your-pocket-day
+
 [d]: https://www.goodreads.com/book/show/9794437-crossed
+
 [e]: https://en.wikisource.org/wiki/Demeter_and_other_poems/Crossing_the_Bar

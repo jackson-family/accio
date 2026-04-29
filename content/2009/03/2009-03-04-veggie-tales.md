@@ -12,11 +12,11 @@ output of the farm. I believe that CSA is starting to take off across the
 country, given a renewed interest in locally grown, organic foods. (Funny,
 isn&#x02bc;t that what everyone ate 100 years ago?)
 
-[a]: https://www.nal.usda.gov/afsic/community-supported-agriculture
+[a]: https://www.nal.usda.gov/farms-and-agricultural-production-systems/community-supported-agriculture
 
 My friend seemed to enjoy her weekly vegetable bounty from the CSA, so I put our
 names on the waiting list. Hey, this is Austin &mdash; organic, locally grown is
-*hot*. I figured that this would be a good way to to try out new vegetables
+*hot*. I figured that this would be a good way to try out new vegetables
 while supporting what seems to be a very worthy cause. And we waited patiently
 for our turn to join the CSA. About a month ago, I got an email letting me know
 that there was a spot in [Johnson&#x02bc;s Backyard Garden][b] for us.

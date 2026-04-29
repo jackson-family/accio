@@ -12,4 +12,4 @@ leave my building. My biggest fear was that I would not make it to my dentist
 appointment this afternoon. But, everything cleared up and the university closed
 and I got my teeth cleaned after all.
 
-[a]: http://www.cnn.com/2010/CRIME/09/28/texas.university.shooting/
+[a]: https://www.cbsnews.com/news/student-opens-fire-at-ut-austin-kills-self/

@@ -35,7 +35,7 @@ out well!
 
 ![Caricature of William]({static}/images/2008-03-01-explore-ut-04.jpg)
 
-Then we headed back to to the Union to claim our glow bowling game. I have a
+Then we headed back to the Union to claim our glow bowling game. I have a
 long-standing fascination with blacklights. I just think they are really, really
 cool. So, of course bowling under blacklights is also really, really cool. Here
 are some fun pictures. I left the flash off to capture the full effect of the
@@ -49,5 +49,6 @@ blacklights. And someday, just maybe I&#x02bc;ll break 100 on a bowling game.
 
 It was a good day!
 
-[a]: https://exploreut.utexas.edu/
+[a]: https://web.archive.org/web/20250618235252/https://exploreut.utexas.edu/
+
 [b]: https://www.hrc.utexas.edu/
