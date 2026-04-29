@@ -5,14 +5,16 @@ author: Rebecca
 
 This morning, our department got the following email from our admin Jill.
 
-<blockquote class="blockquote pl-3 border-lest">
-	<p>Good Morning,</p>
-	<p>From here forward, or for example, if we were to have a fire drill this
-	morning, please make sure that you congregate in the park area where Tammie
-	Monroe is holding a white sign saying &ldquo;4th Floor&rdquo;.</p>
-	<p>In this way, we can account for everyone quickly and efficiently.</p>
-	<p>Thanks,<br>Jill</p>
-</blockquote>
+> Good Morning,
+>
+> From here forward, or for example, if we were to have a fire drill this
+> morning, please make sure that you congregate in the park area where Tammie
+> Monroe is holding a white sign saying &ldquo;4th Floor&rdquo;.
+>
+> In this way, we can account for everyone quickly and efficiently.
+>
+> Thanks,  
+> Jill
 
 So, I guess she was trying to warn us that we&#x02bc;d be having a fire drill
 this morning. Subtle, huh? I don&#x02bc;t know what the point of a fire drill is

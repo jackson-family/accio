@@ -14,11 +14,9 @@ talk.
 
 [a]: https://www.churchofjesuschrist.org/study/general-conference/2008/10/happiness-your-heritage
 
-<blockquote class="blockquote pl-3 border-left">
-    <p>The desire to create is one of the deepest yearnings of the human soul.
-    No matter our talents, education, backgrounds, or abilities, we each have an
-    inherent wish to create something that did not exist before.</p>
-</blockquote>
+> The desire to create is one of the deepest yearnings of the human soul.
+> No matter our talents, education, backgrounds, or abilities, we each have an
+> inherent wish to create something that did not exist before.
 
 Well. Hard to argue with that, except how was I going to tap into that
 potential? I decided to take a watercolor class through the University of

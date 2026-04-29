@@ -21,11 +21,9 @@ And do you know what she did?
 A few weeks ago Rebecca and I ate out at [Buca di Beppo][a] and we had, among
 other things, something called &ldquo;Chicken Saltimbocca&rdquo; described thus:
 
-<blockquote class="blockquote pl-3 border-left">
-	<p>Chicken Saltimbocca: Juicy sautéed chicken breasts, layered with fresh
-	sage and prosciutto, and topped with artichoke hearts, capers and our
-	delicate lemon butter sauce.</p>
-</blockquote>
+> Chicken Saltimbocca: Juicy sautéed chicken breasts, layered with fresh
+> sage and prosciutto, and topped with artichoke hearts, capers and our
+> delicate lemon butter sauce.
 
 Well, I loved it so much and for Valentine&#x02bc;s Day Rebecca recreated this
 meal for us! And it was so much more delicious than I remembered it being. And

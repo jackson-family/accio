@@ -6,32 +6,31 @@ author: Rebecca
 Molly Ellen Jackson was born on December 14 at 2:22 pm. William did a great job
 of summing up the day she was born so I&#x02bc;ll just use his words.
 
-<blockquote class="blockquote pl-3 border-left">
-    <p>This morning I accompanied Rebecca to her regular weekly checkup. At the
-    end of the checkup, her doctor had her sit for a
-    <a href="http://americanpregnancy.org/prenatal-testing/non-stress-test/">Fetal
-    Non-Stress Test</a>. The doctor was not happy with the results, so he sent
-    us upstairs to the ultrasound folks for a closer look.</p>
+> This morning I accompanied Rebecca to her regular weekly checkup. At the
+> end of the checkup, her doctor had her sit for a [Fetal Non-Stress Test][a].
+> The doctor was not happy with the results, so he sent
+> us upstairs to the ultrasound folks for a closer look.
+>
+> The ultrasound technician spent 30 minutes looking for certain kinds of
+> movement, which she did not see. The baby&#x02bc;s heart was beating just
+> fine, but she was just a little too good at being as still as can be. Back
+> at the doctor&#x02bc;s office with those results, we learned about our
+> options and then went right over to the hospital to be induced.
+>
+> After we got settled in the delivery room, I ducked out for two hours to
+> make sure Emily was taken care of. I got back to the hospital just as
+> Rebecca&#x02bc;s doctor was coming in to check on her again. During those
+> two hours there was still not enough activity, so the doctor ordered a
+> C-section (at about 2:00 this afternoon). At 2:22 Molly came out with the
+> umbilical cord wrapped around her neck three times and her legs twice more.
+> Once she was free of the cord, she gave a beautiful cry. She and Rebecca are
+> sleeping quite peacefully right now.
+>
+> We are grateful for the care Rebecca&#x02bc;s doctor showed and his
+> ability to spot trouble early. We know the Lord is watching over us. There
+> is probably no way Molly would have survived a vaginal delivery.
 
-    <p>The ultrasound technician spent 30 minutes looking for certain kinds of
-    movement, which she did not see. The baby&#x02bc;s heart was beating just
-    fine, but she was just a little too good at being as still as can be. Back
-    at the doctor&#x02bc;s office with those results, we learned about our
-    options and then went right over to the hospital to be induced.</p>
-
-    <p>After we got settled in the delivery room, I ducked out for two hours to
-    make sure Emily was taken care of. I got back to the hospital just as
-    Rebecca&#x02bc;s doctor was coming in to check on her again. During those
-    two hours there was still not enough activity, so the doctor ordered a
-    C-section (at about 2:00 this afternoon). At 2:22 Molly came out with the
-    umbilical cord wrapped around her neck three times and her legs twice more.
-    Once she was free of the cord, she gave a beautiful cry. She and Rebecca are
-    sleeping quite peacefully right now.</p>
-
-    <p>We are grateful for the care Rebecca&#x02bc;s doctor showed and his
-    ability to spot trouble early. We know the Lord is watching over us. There
-    is probably no way Molly would have survived a vaginal delivery.</p>
-</blockquote>
+[a]: http://americanpregnancy.org/prenatal-testing/non-stress-test/
 
 So, there you have it. We&#x02bc;re so happy that she&#x02bc;s here, and in fine
 form to boot. I try not to think too hard about what would&#x02bc;ve happened if

@@ -36,13 +36,9 @@ rebuke][b]:
 
 [b]: https://www.churchofjesuschrist.org/study/scriptures/nt/rev/3.15-16#p15
 
-<blockquote class="blockquote pl-3 border-left">
-    <p>
-        I know thy works, that thou art neither cold nor hot: I would thou wert
-        cold or hot. So then because thou art lukewarm, and neither cold nor
-        hot, I will spue thee out of my mouth.
-    </p>
-</blockquote>
+> I know thy works, that thou art neither cold nor hot: I would thou wert
+> cold or hot. So then because thou art lukewarm, and neither cold nor
+> hot, I will spue thee out of my mouth.
 
 Some modern translations say &ldquo;I will vomit thee out of my mouth&rdquo;,
 which is a little bit more colorful.
@@ -83,6 +79,7 @@ that they &ldquo;witness unto &hellip; God &hellip; that they are willing to
 take upon them the name of [his] Son&rdquo;, Jesus Christ.
 
 [d]: https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.77#p77
+
 [e]: https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31.13#p13
 
 Clearly, taking upon us the name of the Lord is a good thing. We are commanded
@@ -142,14 +139,10 @@ lives.&rdquo;
 
 Elder Vinson explains more about this promise of enduring joy. He said,
 
-<blockquote class="blockquote pl-3 border-left">
-    <p>
-        Giving our all doesn&#x02bc;t mean that we will be continually enveloped
-        in blessings or always have success. But it does mean that we will have
-        joy. Joy is not fleeting pleasure or even temporary happiness. Joy is
-        enduring and is founded on our efforts being accepted by the Lord.
-    </p>
-</blockquote>
+> Giving our all doesn&#x02bc;t mean that we will be continually enveloped
+> in blessings or always have success. But it does mean that we will have
+> joy. Joy is not fleeting pleasure or even temporary happiness. Joy is
+> enduring and is founded on our efforts being accepted by the Lord.
 
 President Nelson has often spoken of joy. [He said][h], &ldquo;the joy we feel
 has little to do with the circumstances of our lives and everything to do with
@@ -177,14 +170,10 @@ gospel. Let us not take upon us the name of the Lord in vain. Let the gospel be
 the framework of our lives, not just the decoration. In Elder Vinson&#x02bc;s
 talk, he concluded:
 
-<blockquote class="blockquote pl-3 border-left">
-    <p>
-        There is no treasure, nor any hobby, nor any status, nor any social
-        media, nor any video games, nor any sport, nor any association with a
-        celebrity, nor anything on earth that is more precious than eternal
-        life.
-    </p>
-</blockquote>
+> There is no treasure, nor any hobby, nor any status, nor any social
+> media, nor any video games, nor any sport, nor any association with a
+> celebrity, nor anything on earth that is more precious than eternal
+> life.
 
 Our Savior was absolutely committed in His atoning sacrifice for us. So, let us
 be absolutely committed in our discipleship to Him.

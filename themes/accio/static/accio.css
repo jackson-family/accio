@@ -65,5 +65,14 @@ a:hover { text-decoration: none; }
     font-variant-numeric: tabular-nums;
 }
 
+blockquote {
+    margin: 1rem 0;
+    padding: 0 0 0 1rem;
+    border-left: 4px solid var(--rule);
+    color: var(--muted);
+}
+blockquote > :first-child { margin-top: 0; }
+blockquote > :last-child { margin-bottom: 0; }
+
 .list-style-upper-alpha { list-style-type: upper-alpha; }
 img, video { max-width: 100%; height: auto; }
