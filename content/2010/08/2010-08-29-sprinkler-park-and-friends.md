@@ -15,7 +15,7 @@ another day.)
 The sprinkler park is pretty much the best place ever to turn an almost-walker
 loose for a bit. We&#x02bc;ve been twice now, and Emily comes home exhausted
 because she plays so hard. She crawls and splashes and plugs up the jets and
-gets squirted in the face and <strike>steals toys from</strike> shares toys with
+gets squirted in the face and <s>steals toys from</s> shares toys with
 the other kids. It&#x02bc;s a great time.
 
 ![Emily at the sprinkler park][a]

@@ -11,4 +11,6 @@ thinks of these pictures.
 
 You can let me know if you think it is funny.
 
-<video controls preload="metadata"><source src="{static}/images/2011-05-17-emily.mp4"></video>
+<video controls preload="metadata">
+    <source src="{static}/images/2011-05-17-emily.mp4">
+</video>

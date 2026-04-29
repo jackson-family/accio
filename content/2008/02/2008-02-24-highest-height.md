@@ -17,7 +17,9 @@ perfect day to take it for a spin outside. You can see for yourself how it went.
 I like how fast William is running. He was also yelling, &ldquo;Come back! Come
 back!&rdquo;
 
-<video controls preload="metadata"><source src="{static}/images/2008-02-23-dragonfly.mp4"></video>
+<video controls preload="metadata">
+    <source src="{static}/images/2008-02-23-dragonfly.mp4">
+</video>
 
 I then made the off-hand comment that it would be a perfect day to fly a kite.
 And the look on William&#x02bc;s face told me that I&#x02bc;d just come up with
@@ -59,4 +61,6 @@ little.
 Here&#x02bc;s a video. I felt like a little kid again with my kite, and
 I&#x02bc;m sure that we&#x02bc;ll be going out there again.
 
-<video controls preload="metadata"><source src="{static}/images/2008-02-23-kite.mp4"></video>
+<video controls preload="metadata">
+    <source src="{static}/images/2008-02-23-kite.mp4">
+</video>

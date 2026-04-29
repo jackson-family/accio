@@ -23,4 +23,6 @@ look back and laugh about that silly thing Emily did that frustrated us so.
 
 But until then, take a step back, take a deep breath, keep calm and carry on.
 
-<video controls preload="metadata"><source src="{static}/images/2011-10-24-keep-calm-and-carry-on.mp4"></video>
+<video controls preload="metadata">
+    <source src="{static}/images/2011-10-24-keep-calm-and-carry-on.mp4">
+</video>

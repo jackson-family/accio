@@ -15,4 +15,6 @@ bum-bumped all the way down hands-free, beaming the whole way. And now her life
 is pretty much complete because she can sneak anywhere in the house without us
 knowing about it. It&#x02bc;s positively thrilling.
 
-<video controls preload="metadata"><source src="{static}/images/2010-08-15-emily-stairs.mp4"></video>
+<video controls preload="metadata">
+    <source src="{static}/images/2010-08-15-emily-stairs.mp4">
+</video>

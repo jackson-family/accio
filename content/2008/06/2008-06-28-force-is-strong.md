@@ -16,4 +16,6 @@ If there is something John loves more than watching *Star Wars* at the moment,
 it is acting along while he is watching *Star Wars*. To wit, here is an awesome
 video:
 
-<video controls preload="metadata"><source src="{static}/images/2008-06-28-star-wars.mp4"></video>
+<video controls preload="metadata">
+    <source src="{static}/images/2008-06-28-star-wars.mp4">
+</video>

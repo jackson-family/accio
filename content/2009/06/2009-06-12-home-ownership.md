@@ -8,7 +8,7 @@ And by &ldquo;joys&rdquo;, I mean &ldquo;anxieties&rdquo;.
 Remember [that big hailstorm that blew through Austin][a] back in March, and
 cracked the windshield on our car? First of all, we still have the dents in the
 roof of the car. We have an appointment to get them fixed on the
-23<sup>*d*</sup> of this month. Body shops around town have been exceptionally
+23<sup>rd</sup> of this month. Body shops around town have been exceptionally
 busy since the storm.
 
 [a]: {filename}/2009/04/2009-04-18-all-hail-breaks-loose.md

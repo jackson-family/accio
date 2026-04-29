@@ -7,9 +7,9 @@ What&#x02bc;s the best way to bond with your spouse prior to the arrival of your
 first child?
 
 <ol class="list-style-upper-alpha">
-<li>Take a romantic babymoon, complete with a spa package.</li>
-<li>Treat yourselves to a dinner at a fancy restaurant and order dessert.</li>
-<li>Remodel your master closet.</li>
+    <li>Take a romantic babymoon, complete with a spa package.</li>
+    <li>Treat yourselves to a dinner at a fancy restaurant and order dessert.</li>
+    <li>Remodel your master closet.</li>
 </ol>
 
 Clearly the answer is **C**. Yes, this is what we decided. Now, lest you think
