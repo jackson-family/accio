@@ -29,9 +29,9 @@ night, here&#x02bc;s what we ended up with.
 
 [a]: https://www.wilton.com/roll-out-cookie-dough/WLRECIP-31.html
 
-<img src="{static}/images/2009-02-11-cookies-01.jpg" class="img-fluid">
+![]({static}/images/2009-02-11-cookies-01.jpg)
 
-<img src="{static}/images/2009-02-11-cookies-02.jpg" class="img-fluid">
+![]({static}/images/2009-02-11-cookies-02.jpg)
 
 On Saturday, William and I made Valentines. Target has these kits for $5 that
 come with everything: blank cards, bows, rhinestones (so classy), stickers, and
@@ -43,8 +43,8 @@ face done entirely in rhinestones, with the pink heart rhinestones for eyes. I
 couldn&#x02bc;t stop laughing at it. (Sorry, no pictures here. But trust me, it
 was really, really funny.)
 
-<img src="{static}/images/2009-02-14-cards.01.jpg" class="img-fluid">
+![]({static}/images/2009-02-14-cards.01.jpg)
 
-<img src="{static}/images/2009-02-14-cards.02.jpg" class="img-fluid">
+![]({static}/images/2009-02-14-cards.02.jpg)
 
 Now, about that fancy home-cooked dinner &hellip;

@@ -6,7 +6,7 @@ author: William
 &ldquo;Rebecca and I signed several dozen documents Thursday morning, and now we
 own a house.&rdquo;
 
-<img src="{static}/images/2009-04-23-new-house.jpg" alt="Our new house" class="img-fluid">
+![Our new house]({static}/images/2009-04-23-new-house.jpg)
 
 While this is only the beginning of a beautiful, heartwarming story of life,
 love, friendship, faith, and the house where all that takes place, this is also

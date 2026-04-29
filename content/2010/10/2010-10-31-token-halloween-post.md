@@ -24,4 +24,4 @@ pretty grinchy about Halloween.
 
 But in case you were wondering, here&#x02bc;s what we looked like.
 
-<img src="{static}/images/2010-10-30-halloween.jpg" alt="Halloween costumes" class="img-fluid">
+![Halloween costumes]({static}/images/2010-10-30-halloween.jpg)

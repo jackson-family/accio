@@ -3,7 +3,7 @@ urlname: happy-fathers-day
 date: 2010-06-20
 author: William
 
-<img src="{static}/images/2010-06-20-em-slide.jpg" alt="Emily on the slide" class="img-fluid">
+![Emily on the slide]({static}/images/2010-06-20-em-slide.jpg)
 
 Today is my first Father&#x02bc;s Day as a father. Emily recently discovered and
 fell in love with our slide. Well, I told her it was *her* slide, because

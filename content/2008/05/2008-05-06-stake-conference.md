@@ -102,4 +102,4 @@ a gospel-centered home. And throughout the weekend, I was able to see just how
 much the members of the San Antonio East Stake love and sustain my parents.
 I&#x02bc;m glad that other people get to see how awesome they are!
 
-<img src="{static}/images/2008-05-04-kyle-stake-presidency.jpg" alt="Kyle Texas Stake Presidency" class="img-fluid">
+![Kyle Texas Stake Presidency]({static}/images/2008-05-04-kyle-stake-presidency.jpg)

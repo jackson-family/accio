@@ -3,7 +3,7 @@ urlname: ghost-toem
 date: 2008-02-07
 author: William
 
-<img src="{static}/images/2008-02-02-stagecoach-inn.jpg" alt="The sign for Stagecoach Inn" class="img-fluid" />
+![The sign for Stagecoach Inn]({static}/images/2008-02-02-stagecoach-inn.jpg)
 
 So, you read about how our car broke last weekend? Our original plans were to
 spend the weekend in Waco and Dallas with my parents. And that didn&#x02bc;t
@@ -64,7 +64,7 @@ hard to tell where the dark green floral-print curtains ended and where the
 matching, dark green floral print wallpaper began. Rebecca and I were easily the
 youngest people in the room. By about thirty years.
 
-<img src="{static}/images/2008-02-02-hush-puppies.jpg" alt="Hush puppies" class="img-fluid" />
+![Hush puppies]({static}/images/2008-02-02-hush-puppies.jpg)
 
 Someone brought us hush puppies, but not the spherical kind; these were shaped
 like fat cigars. Or hot dogs. Or small cobs of corn. They were tasty. Then our
@@ -84,7 +84,7 @@ word, too: [aspic][b].
 So we got dinner after all, even though we were making our contingency plans on
 the spot. It was a fun evening.
 
-<img src="{static}/images/2008-02-02-stagecoach-inn-outside.jpg" alt="William and Rebecca outside Stagecoach Inn" class="img-fluid" />
+![William and Rebecca outside Stagecoach Inn]({static}/images/2008-02-02-stagecoach-inn-outside.jpg)
 
 [a]: https://web.archive.org/web/20071009193545/http://www.saladomansion.com/
 [b]: https://en.wikipedia.org/wiki/Aspic

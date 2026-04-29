@@ -3,7 +3,7 @@ urlname: 12-days-of-halloween
 date: 2011-11-01
 author: Rebecca
 
-<img src="{static}/images/2011-10-21-pumpkin-patch.jpg" alt="Pumpkin patch" class="img-fluid" />
+![Pumpkin patch]({static}/images/2011-10-21-pumpkin-patch.jpg)
 
 We opted to keep our Halloween celebrations (of what?? It really is such a weird
 holiday.) fairly manageable, with one trip to a pumpkin patch, one
@@ -15,7 +15,7 @@ Emily&#x02bc;s cute Halloween shirt was dirty (you can&#x02bc;t go
 trick-or-treating in civilian clothes without looking like a really big
 moocher).
 
-<img src="{static}/images/2011-10-24-queen-emily-and-pumpkin-carving.jpg" alt="Queen Emily and pumpkin carving" class="img-fluid" />
+![Queen Emily and pumpkin carving]({static}/images/2011-10-24-queen-emily-and-pumpkin-carving.jpg)
 
 It would seem that Emily is more like me than expected. At the pumpkin patch,
 she was more interested in looking at all the pretty flowers than in picking out
@@ -26,7 +26,7 @@ cleaned out the pumpkin and William carved it, while Emily ran around the
 backyard. Of course, she still talks about &ldquo;my pumpkin,&rdquo; so I guess
 she&#x02bc;s okay with taking all the credit.
 
-<img src="{static}/images/2011-10-29-halloween.jpg" alt="Halloween" class="img-fluid" />
+![Halloween]({static}/images/2011-10-29-halloween.jpg)
 
 We went trick-or-treating at a retirement home for weekly playgroup. There were
 plenty of kids running around trying to score as much candy as they could get.

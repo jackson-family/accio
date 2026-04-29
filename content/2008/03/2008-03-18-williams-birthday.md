@@ -10,9 +10,9 @@ presents. William was really, really happy.
 I gave him the complete *Chronicles of Narnia* (and finally used our Deseret
 Book gift card from the wedding.)
 
-<img src="{static}/images/2008-03-17-william-01.jpg" alt="William on his birthday" class="img-fluid">
+![William on his birthday]({static}/images/2008-03-17-william-01.jpg)
 
 Here are some of the cards that he got from friends and family. Happy Birthday,
 indeed!
 
-<img src="{static}/images/2008-03-17-william-02.jpg" alt="William on his birthday" class="img-fluid">
+![William on his birthday]({static}/images/2008-03-17-william-02.jpg)

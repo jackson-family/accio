@@ -3,9 +3,9 @@ urlname: livestrong-5k
 date: 2008-10-26
 author: Rebecca
 
-<img src="{static}/images/2008-10-25-5k-01.jpg" class="img-fluid">
+![]({static}/images/2008-10-25-5k-01.jpg)
 
-<img src="{static}/images/2008-10-25-5k-02.jpg" class="img-fluid">
+![]({static}/images/2008-10-25-5k-02.jpg)
 
 Yesterday, William and I ran our first 5K! A few months ago, a friend of ours
 sent out an email announcing that she was running in the LiveStrong
@@ -28,9 +28,9 @@ husband came to cheer us on and take pictures. We headed down to the Capitol
 around 7 and found hundreds of other runners who all looked like they knew a lot
 more about running than we did.
 
-<img src="{static}/images/2008-10-25-5k-03.jpg" class="img-fluid">
+![]({static}/images/2008-10-25-5k-03.jpg)
 
-<img src="{static}/images/2008-10-25-5k-04.jpg" class="img-fluid">
+![]({static}/images/2008-10-25-5k-04.jpg)
 
 Honestly, when you see people who are jogging uphill as their *warm-up*, you
 know you&#x02bc;re in a completely different league. Anyway, we ran the race,
@@ -41,7 +41,7 @@ his hand just before we crossed the finish line, mostly because I wanted us to
 be able to show that we were in this together. We even finished in a respectable
 time, 31:28.
 
-<img src="{static}/images/2008-10-25-5k-05.jpg" class="img-fluid">
+![]({static}/images/2008-10-25-5k-05.jpg)
 
 This picture is of the finish line, and it made me laugh because on the right
 side is the chute for regular runners and the left side is the chute for cancer
@@ -68,4 +68,4 @@ couldn&#x02bc;t help but think that we were really running as a symbolic show of
 support for those who couldn&#x02bc;t run. It was intensely moving. And
 here&#x02bc;s who I ran for.
 
-<img src="{static}/images/2008-10-25-5k-06.jpg" class="img-fluid">
+![]({static}/images/2008-10-25-5k-06.jpg)

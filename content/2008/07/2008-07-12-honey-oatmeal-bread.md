@@ -3,7 +3,7 @@ urlname: honey-oatmeal-bread
 date: 2008-07-12
 author: William
 
-<img src="{static}/images/2008-07-10-honey-oatmeal-bread-01.jpg" alt="Honey-Oatmeal Bread" class="img-fluid" />
+![Honey-Oatmeal Bread]({static}/images/2008-07-10-honey-oatmeal-bread-01.jpg)
 
 Here is the recipe we followed to make our Honey-Oatmeal Bread. This is from
 *The Ultimate Southern Living Cookbook*.

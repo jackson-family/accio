@@ -22,9 +22,9 @@ is what I saw: golf-ball sized hail coming down by the hundreds. GOLF-BALL. Have
 you ever seen a golf-ball? They may look small, but bullets are small, too, and
 pretty deadly. My point is that golf-ball sized hail is bad news.
 
-<img src="{static}/images/2009-03-25-hail-01.jpg" alt="Hail" class="img-fluid">
+![Hail]({static}/images/2009-03-25-hail-01.jpg)
 
-<img src="{static}/images/2009-03-25-hail-02.jpg" alt="Hail" class="img-fluid">
+![Hail]({static}/images/2009-03-25-hail-02.jpg)
 
 I thought, &ldquo;Oh, man. Our car is just a sitting target!&rdquo; But like I
 was going to step out in the hailstorm to look at the car, and I certainly
@@ -42,7 +42,7 @@ wasn&#x02bc;t making polite conversation. So, then we went and looked at our
 windshield, and sure enough, there was a nice size crack on the passenger side
 of the windshield. Sigh.
 
-<img src="{static}/images/2009-03-25-hail-03.jpg" alt="Hail" class="img-fluid">
+![Hail]({static}/images/2009-03-25-hail-03.jpg)
 
 We filed a claim online, and $378 and three weeks later, we have a brand new
 windshield on our car. There was also some body damage &mdash; two dings on the

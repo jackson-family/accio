@@ -13,7 +13,7 @@ in the past, and I decided to try again.
 
 Today Emily and I found it!
 
-<img src="{static}/images/2011-02-26-em-geocache.jpg" alt="Emily and the geocache" class="img-fluid">
+![Emily and the geocache]({static}/images/2011-02-26-em-geocache.jpg)
 
 We decided to take a walk down to the duck pond to try for another cache. We
 were feeling lucky! Also, Emily really wanted to &ldquo;See ducks!&rdquo; She

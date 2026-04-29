@@ -22,7 +22,7 @@ soon. She looked so small and so grown up at the same time. When I picked her
 up, she smiled and came to me, but it was all very dignified. No running down
 the hall or clinging. 
 
-<img src="{static}/images/2012-09-06-emily.jpg" alt="Emily&#x02bc;s first day at preschool" class="img-fluid">
+![Emily&#x02bc;s first day at preschool]({static}/images/2012-09-06-emily.jpg)
 
 And what did I do? It was pretty exciting. I put away a ton of laundry, made
 cornbread and banana bread, played with Molly, and ate lunch by myself. I could

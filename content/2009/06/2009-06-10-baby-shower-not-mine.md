@@ -11,7 +11,7 @@ convection oven/microwave cooking up a storm. Somehow, in all of the excitement
 of cooking a huge pile of food in my kitchen, I didn&#x02bc;t take any better
 pictures of the food than this one. But trust me, it was all delicious.
 
-<img src="{static}/images/2009-06-06-baby-shower-food.jpg" class="img-fluid">
+![]({static}/images/2009-06-06-baby-shower-food.jpg)
 
 Here are the recipes that I made:
 

@@ -23,13 +23,13 @@ Then today, we stumbled upon [this oddly addictive website][a] that displays old
 grocery lists that, I can only assume, were retrieved from the trash or
 submitted by readers. I&#x02bc;d like to meet the person who made this list:
 
-<img src="{static}/images/2008-04-20-grocery-list-01.jpg" alt="Grocery list" class="img-fluid">
+![Grocery list]({static}/images/2008-04-20-grocery-list-01.jpg)
 
 At least I&#x02bc;m not that obsessive about my lists. And this list looks like
 it was written by a wife who sent her husband to the store, against her better
 judgment:
 
-<img src="{static}/images/2008-04-20-grocery-list-02.jpg" alt="Grocery list" class="img-fluid">
+![Grocery list]({static}/images/2008-04-20-grocery-list-02.jpg)
 
 Anyway, lists are fun.
 

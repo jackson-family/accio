@@ -5,7 +5,7 @@ author: William
 
 ### Step 1: Find someone who will give you a television for free.
 
-<img src="{static}/images/2011-01-02-new-television.jpg" alt="New television!" class="img-fluid">
+![New television!]({static}/images/2011-01-02-new-television.jpg)
 
 You&#x02bc;re done!
 

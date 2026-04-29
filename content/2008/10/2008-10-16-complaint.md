@@ -17,7 +17,7 @@ fragility of their product. And then one day we came home from work and found a
 giant box waiting for us. It was from the pita company, and this is what it had
 inside:
 
-<img src="{static}/images/2008-09-04-pita-chips.jpg" class="img-fluid">
+![]({static}/images/2008-09-04-pita-chips.jpg)
 
 ### 2
 

@@ -33,12 +33,12 @@ so after dinner, we tried out my new-found canasta skills with Larry and Ellen.
 A good time was had by all, but I&#x02bc;ll say that none of us has a very good
 poker face when it comes to card games.
 
-<img src="{static}/images/2008-03-15-waco-01.jpg" alt="William and his birthday cake" class="img-fluid">
+![William and his birthday cake]({static}/images/2008-03-15-waco-01.jpg)
 
-<img src="{static}/images/2008-03-15-waco-02.jpg" alt="William at the Dr. Pepper museum" class="img-fluid">
+![William at the Dr. Pepper museum]({static}/images/2008-03-15-waco-02.jpg)
 
-<img src="{static}/images/2008-03-15-waco-03.jpg" alt="William and Rebecca at the Dr. Pepper museum" class="img-fluid">
+![William and Rebecca at the Dr. Pepper museum]({static}/images/2008-03-15-waco-03.jpg)
 
-<img src="{static}/images/2008-03-15-waco-04.jpg" alt="William and Rebecca at the Dr. Pepper museum" class="img-fluid">
+![William and Rebecca at the Dr. Pepper museum]({static}/images/2008-03-15-waco-04.jpg)
 
 [a]: https://drpeppermuseum.com/

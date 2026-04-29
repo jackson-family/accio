@@ -56,7 +56,7 @@ now we have lots of hanging space, lots of shoe racks, and just a very few
 shelves to use as we see fit.
 
 <a href="{static}/images/2009-07-28-closet-remodel.jpg">
-	<img src="{static}/images/2009-07-28-closet-remodel.jpg" class="img-fluid">
+	![]({static}/images/2009-07-28-closet-remodel.jpg)
 </a>
 
 (I put that belly shot in there because I know some of you are curious to see

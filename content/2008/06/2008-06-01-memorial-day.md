@@ -28,21 +28,21 @@ Evening. Such a nice, easy day!
 
 Here are some pictures for the curious.
 
-<img src="{static}/images/2008-05-26-william-in-pool.jpg" alt="William in the pool" class="img-fluid">
+![William in the pool]({static}/images/2008-05-26-william-in-pool.jpg)
 
 See how excited William is to be in the freezing cold pool?
 
-<img src="{static}/images/2008-05-26-mark-matthew-pool.jpg" alt="Mark and Matthew in the pool" class="img-fluid">
+![Mark and Matthew in the pool]({static}/images/2008-05-26-mark-matthew-pool.jpg)
 
 I just noticed that Matthew&#x02bc;s feet are wildly thrashing in this pictures.
 This is the kind of thing that only brothers can do to each other.
 
-<img src="{static}/images/2008-05-26-ellen-rebecca-pool.jpg" alt="Ellen and Rebecca in the pool" class="img-fluid">
+![Ellen and Rebecca in the pool]({static}/images/2008-05-26-ellen-rebecca-pool.jpg)
 
 I think I can justify putting a picture of me in my swimsuit online because
 it&#x02bc;s mostly a head shot. Man, that hot tub felt good once William figured
 out how to turn on the jets.
 
-<img src="{static}/images/2008-05-26-larry-mark.jpg" alt="Larry and Mark" class="img-fluid">
+![Larry and Mark]({static}/images/2008-05-26-larry-mark.jpg)
 
 Hmm. I think Mark had too much cobbler.

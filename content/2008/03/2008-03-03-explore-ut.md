@@ -3,14 +3,14 @@ urlname: explore-ut
 date: 2008-03-03
 author: Rebecca
 
-<img src="{static}/images/2008-03-01-explore-ut-01.jpg" alt="William at Explore UT" class="img-fluid" />
+![William at Explore UT]({static}/images/2008-03-01-explore-ut-01.jpg)
 
 Last year, William went to this giant open house at UT called [Explore UT][a]
 and came back with a glowing report of how much fun it had been. This year,
 William decided that I needed to see this amazing event for myself. After the
 CROP Walk, we headed over to UT for an afternoon of Exploring UT.
 
-<img src="{static}/images/2008-03-01-explore-ut-02.jpg" alt="Rebecca at Explore UT" class="img-fluid" />
+![Rebecca at Explore UT]({static}/images/2008-03-01-explore-ut-02.jpg)
 
 Our first stop was at the Passport Table, where we received booklets that were
 to be stamped at the different stations. The only place that we visited that
@@ -31,9 +31,9 @@ Here are the caricatures. The danger in having your caricature drawn is that you
 find out which of your facial features are most prominent. But I think ours came
 out well!
 
-<img src="{static}/images/2008-03-01-explore-ut-03.jpg" alt="Caricature of Rebecca" class="img-fluid" />
+![Caricature of Rebecca]({static}/images/2008-03-01-explore-ut-03.jpg)
 
-<img src="{static}/images/2008-03-01-explore-ut-04.jpg" alt="Caricature of William" class="img-fluid" />
+![Caricature of William]({static}/images/2008-03-01-explore-ut-04.jpg)
 
 Then we headed back to to the Union to claim our glow bowling game. I have a
 long-standing fascination with blacklights. I just think they are really, really
@@ -41,11 +41,11 @@ cool. So, of course bowling under blacklights is also really, really cool. Here
 are some fun pictures. I left the flash off to capture the full effect of the
 blacklights. And someday, just maybe I&#x02bc;ll break 100 on a bowling game.
 
-<img src="{static}/images/2008-03-01-explore-ut-05.jpg" alt="William bowling" class="img-fluid" />
+![William bowling]({static}/images/2008-03-01-explore-ut-05.jpg)
 
-<img src="{static}/images/2008-03-01-explore-ut-06.jpg" alt="Rebecca bowling" class="img-fluid" />
+![Rebecca bowling]({static}/images/2008-03-01-explore-ut-06.jpg)
 
-<img src="{static}/images/2008-03-01-explore-ut-07.jpg" alt="Bowling final score" class="img-fluid" />
+![Bowling final score]({static}/images/2008-03-01-explore-ut-07.jpg)
 
 It was a good day!
 

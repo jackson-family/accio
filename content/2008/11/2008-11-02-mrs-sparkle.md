@@ -14,6 +14,6 @@ We&#x02bc;re not fancy people.
 
 Until now.
 
-<img src="{static}/images/2008-11-01-sparkly.jpg" class="img-fluid">
+![]({static}/images/2008-11-01-sparkly.jpg)
 
 I am going to be sparkly, and it&#x02bc;s wonderful.

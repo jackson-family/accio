@@ -8,7 +8,7 @@ preoccupied and didn&#x02bc;t notice what she was up to until about halfway
 through the project. But this is the final result, and I think it is
 heart-breakingly precious.
 
-<img src="{static}/images/2011-03-02-table.jpg" alt="Dinner table" class="img-fluid rounded">
+![Dinner table]({static}/images/2011-03-02-table.jpg)
 
 A few answers to questions that you might have.
 

@@ -7,17 +7,17 @@ We were fortunate to have a metric ton of family come to Austin for
 Emily&#x02bc;s blessing. Here we have Rebecca&#x02bc;s parents and grandmother
 with Emily, Rebecca and me:
 
-<img src="{static}/images/2009-10-12-em-blessing-allens.jpg" alt="William, Rebecca, Ann, Emily, Terry, and Bobbie" class="img-fluid">
+![William, Rebecca, Ann, Emily, Terry, and Bobbie]({static}/images/2009-10-12-em-blessing-allens.jpg)
 
 And here we have a very proud grandfather and a very sleepy Emily:
 
-<img src="{static}/images/2009-10-12-em-blessing-terry.jpg" alt="Terry and Emily" class="img-fluid">
+![Terry and Emily]({static}/images/2009-10-12-em-blessing-terry.jpg)
 
 The Allens had to get out of town after church, but all the Jacksons (and
 Woodsworths and Starks and Motts) came to our home for lunch. Here&#x02bc;s the
 entire crowd:
 
-<img src="{static}/images/2009-10-12-em-blessing-jacksons.jpg" alt="All the Jacksons!" class="img-fluid">
+![All the Jacksons!]({static}/images/2009-10-12-em-blessing-jacksons.jpg)
 
 Unfortunately, Emily fell asleep on the way home from church and stayed asleep
 until just about everyone was gone, so she didn&#x02bc;t make it into the

@@ -21,9 +21,9 @@ mostly wrong. Well, it is kind of scary even up close because everything needs a
 paint job, but the rides are fun for toddlers. Emily was able to try out pretty
 much every mode of transportation that day.
 
-<figure class="figure">
-	<img src="{static}/images/2011-03-31-kiddie-acres-01.jpg" alt="Emily" class="figure-img img-fluid rounded">
-	<figcaption class="figure-caption">
+<figure>
+	<img src="{static}/images/2011-03-31-kiddie-acres-01.jpg" alt="Emily">
+	<figcaption>
 		1. Carousel (Emily had gotten her first black eye just the day before by
 		tripping and bumping her head on the snack cup she was carrying. It
 		looks worse than it was, but it&#x02bc;s taken a surprisingly long time
@@ -32,32 +32,32 @@ much every mode of transportation that day.
 	</figcaption>
 </figure>
 
-<figure class="figure">
-	<img src="{static}/images/2011-03-31-kiddie-acres-02.jpg" alt="Emily and Ryan" class="figure-img img-fluid rounded">
-	<figcaption class="figure-caption">2. Boat</figcaption>
+<figure>
+	<img src="{static}/images/2011-03-31-kiddie-acres-02.jpg" alt="Emily and Ryan">
+	<figcaption>2. Boat</figcaption>
 </figure>
 
-<figure class="figure">
-	<img src="{static}/images/2011-03-31-kiddie-acres-03.jpg" alt="Emily" class="figure-img img-fluid rounded">
-	<figcaption class="figure-caption">3. Airplane (this was her favorite, by far)</figcaption>
+<figure>
+	<img src="{static}/images/2011-03-31-kiddie-acres-03.jpg" alt="Emily">
+	<figcaption>3. Airplane (this was her favorite, by far)</figcaption>
 </figure>
 
-<figure class="figure">
-	<img src="{static}/images/2011-03-31-kiddie-acres-04.jpg" alt="Emily and Rebecca" class="figure-img img-fluid rounded">
-	<figcaption class="figure-caption">4. Train</figcaption>
+<figure>
+	<img src="{static}/images/2011-03-31-kiddie-acres-04.jpg" alt="Emily and Rebecca">
+	<figcaption>4. Train</figcaption>
 </figure>
 
-<figure class="figure">
-	<img src="{static}/images/2011-03-31-kiddie-acres-05.jpg" alt="Emily and Ryan" class="figure-img img-fluid rounded">
-	<figcaption class="figure-caption">5. Car</figcaption>
+<figure>
+	<img src="{static}/images/2011-03-31-kiddie-acres-05.jpg" alt="Emily and Ryan">
+	<figcaption>5. Car</figcaption>
 </figure>
 
-<figure class="figure">
-	<img src="{static}/images/2011-03-31-kiddie-acres-06.jpg" alt="Emily and Rebecca" class="figure-img img-fluid rounded">
-	<figcaption class="figure-caption">6. Ferris wheel (is that an acceptable mode of transport?)</figcaption>
+<figure>
+	<img src="{static}/images/2011-03-31-kiddie-acres-06.jpg" alt="Emily and Rebecca">
+	<figcaption>6. Ferris wheel (is that an acceptable mode of transport?)</figcaption>
 </figure>
 
-<img src="{static}/images/2011-03-31-kiddie-acres-07.jpg" alt="Emily and Ryan" class="img-fluid rounded">
+![Emily and Ryan]({static}/images/2011-03-31-kiddie-acres-07.jpg)
 
 And this last picture, I&#x02bc;m throwing it in because it&#x02bc;s classic
 Ryan telling Emily what to do. He&#x02bc;s 7.5 months older than her and gets

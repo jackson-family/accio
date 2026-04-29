@@ -9,7 +9,7 @@ of embarrassing because she will be nine months old next week. She is no longer
 a newborn. In fact, she is so much more than a newborn because now she can do
 this.
 
-<img src="{static}/images/2012-09-06-molly-stairs.jpg" alt="Molly charging up the stairs for the first time" class="img-fluid">
+![Molly charging up the stairs for the first time]({static}/images/2012-09-06-molly-stairs.jpg)
 
 Yep, that&#x02bc;s her charging up the stairs for the first time ever. And in
 true Molly fashion, there was no hesitation. Once the idea was in her head, she
@@ -20,8 +20,8 @@ Yesterday, Molly decided to spice things up a little with her exersaucer. The
 view must be more interesting from the bottom. She crawled right in all by
 herself and had a good time playing in her little hideout.
 
-<img src="{static}/images/2012-09-05-molly-under-saucer-1.jpg" alt="Molly under saucer 1" class="img-fluid">
+![Molly under saucer 1]({static}/images/2012-09-05-molly-under-saucer-1.jpg)
 
-<img src="{static}/images/2012-09-05-molly-under-saucer-2.jpg" alt="Molly under saucer 2" class="img-fluid">
+![Molly under saucer 2]({static}/images/2012-09-05-molly-under-saucer-2.jpg)
 
 That&#x02bc;s my Jolly Molly for you!

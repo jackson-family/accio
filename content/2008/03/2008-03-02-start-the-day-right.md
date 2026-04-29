@@ -8,7 +8,7 @@ morning, after Rebecca and I have gotten dressed for work, we pray together then
 sit down to a bowl of cereal and a glass of orange juice. Recently we have been
 chewing our way through a big box of Honey Nut Cheerios we bought at Costco.
 
-<img src="{static}/images/2008-02-29-breakfast.jpg" alt="Breakfast" class="img-fluid" />
+![Breakfast]({static}/images/2008-02-29-breakfast.jpg)
 
 This is also the time we read scriptures together. We take turns reading five
 verses each. So we each alternate between a few minutes of reading and a few

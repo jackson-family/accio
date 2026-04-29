@@ -6,14 +6,14 @@ author: Rebecca
 As part of William&#x02bc;s birthday celebration in March, we took Emily to see
 the San Antonio Temple.
 
-<img src="{static}/images/2011-03-19-temple-01.jpg" alt="Emily at the temple" class="img-fluid" />
+![Emily at the temple]({static}/images/2011-03-19-temple-01.jpg)
 
 We had a nice visit, and hopefully she stopped running around just long enough
 to actually look at the temple.
 
-<img src="{static}/images/2011-03-19-temple-02.jpg" alt="Emily and Rebecca at the temple" class="img-fluid" />
+![Emily and Rebecca at the temple]({static}/images/2011-03-19-temple-02.jpg)
 
-<img src="{static}/images/2011-03-19-temple-03.jpg" alt="Emily and Rebecca at the temple" class="img-fluid" />
+![Emily and Rebecca at the temple]({static}/images/2011-03-19-temple-03.jpg)
 
 At least now she knows that if a building has Moroni on it, it&#x02bc;s a
 temple. Good start, right?

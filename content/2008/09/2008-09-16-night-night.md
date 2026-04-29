@@ -40,7 +40,7 @@ also ordered a mattress cover, just in case any bugs decided to try to come
 back. Our mattress is only 10 months old, so I really didn&#x02bc;t want to
 chuck it. So, we have been sleeping in our living room, like this.
 
-<img src="{static}/images/2008-09-16-mattress.jpg" alt="William sleeping in the living room" class="img-fluid">
+![William sleeping in the living room]({static}/images/2008-09-16-mattress.jpg)
 
 But yesterday, our mattress cover arrived, so we will be moving back into our
 bedroom. Hooray!

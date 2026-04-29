@@ -12,4 +12,4 @@ work and toss it in the trash. But the coloring page from last week&#x02bc;s
 nursery struck me as terribly funny and surprisingly aggressive for a 21-month
 old.
 
-<img src="{static}/images/2011-05-30-nursery-scribbles.jpg" alt="Nursery scribbles" class="img-fluid" />
+![Nursery scribbles]({static}/images/2011-05-30-nursery-scribbles.jpg)

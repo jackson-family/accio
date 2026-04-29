@@ -15,7 +15,7 @@ I don&#x02bc;t want this to turn into a mommy blog, at least just yet, but I
 suppose that I should put at least one pregnancy picture here for the record.
 What do you think?
 
-<img src="{static}/images/2009-05-18-30-weeks.jpg" class="img-fluid">
+![]({static}/images/2009-05-18-30-weeks.jpg)
 
 I should also note that I really, really like this shirt, which my friend Liz
 lent me. I can&#x02bc;t promise that she will get it back &hellip;

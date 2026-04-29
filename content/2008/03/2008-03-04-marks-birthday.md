@@ -22,8 +22,8 @@ These are some things that you may wish to know about Mark.
 
 Anyway, here&#x02bc;s a birthday wish to him from us.
 
-<img src="{static}/images/2008-03-04-marks-birthday-01.jpg" alt="HAPPY" class="img-fluid" />
+![HAPPY]({static}/images/2008-03-04-marks-birthday-01.jpg)
 
-<img src="{static}/images/2008-03-04-marks-birthday-02.jpg" alt="BIRTHDAY" class="img-fluid" />
+![BIRTHDAY]({static}/images/2008-03-04-marks-birthday-02.jpg)
 
-<img src="{static}/images/2008-03-04-marks-birthday-03.jpg" alt="MARK" class="img-fluid" />
+![MARK]({static}/images/2008-03-04-marks-birthday-03.jpg)

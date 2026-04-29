@@ -87,4 +87,4 @@ keeping him forever.
 
 And as it turns out, I did end up keeping him forever, t-shirt and all.
 
-<img src="{static}/images/2007-03-17-keeper.jpg" class="img-fluid">
+![]({static}/images/2007-03-17-keeper.jpg)

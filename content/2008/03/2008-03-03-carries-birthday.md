@@ -16,6 +16,6 @@ today. Here are some things that everyone should know about Carrie.
 
 Happy Birthday, Carrie!
 
-<img src="{static}/images/2007-01-02-rebecca-carrie.jpg" alt="Rebecca and Carrie" class="img-fluid" />
+![Rebecca and Carrie]({static}/images/2007-01-02-rebecca-carrie.jpg)
 
 [a]: https://missberrie.blogspot.com/

@@ -12,11 +12,11 @@ geographical locations of certain Texas cities, and punch a hole in a card with
 the hole puncher at each point. If one found every city, one got a free drink
 when one came out.
 
-<img src="{static}/images/2008-10-11-hayfield-maze-01.jpg" alt="William entering the hayfield maze" class="img-fluid" />
+![William entering the hayfield maze]({static}/images/2008-10-11-hayfield-maze-01.jpg)
 
-<img src="{static}/images/2008-10-11-hayfield-maze-02.jpg" alt="Rebecca lost in the maze" class="img-fluid" />
+![Rebecca lost in the maze]({static}/images/2008-10-11-hayfield-maze-02.jpg)
 
-<img src="{static}/images/2008-10-11-hayfield-maze-03.jpg" alt="Inside the maze" class="img-fluid" />
+![Inside the maze]({static}/images/2008-10-11-hayfield-maze-03.jpg)
 
 We probably spent close to an hour searching for cities, and we came out once to
 consult the map for a few cities that we couldn&#x02bc;t find at first.

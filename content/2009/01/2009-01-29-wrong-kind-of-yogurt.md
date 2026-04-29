@@ -6,6 +6,6 @@ author: William
 I just opened up a cup of piña colada yogurt for lunch, and I found a strawberry
 in it.
 
-<img src="{static}/images/2009-01-29-yogurt.jpg" alt="Piña colada yogurt with a strawberry" class="img-fluid">
+![Piña colada yogurt with a strawberry]({static}/images/2009-01-29-yogurt.jpg)
 
 I wrote a letter to H-E-B to let them know.

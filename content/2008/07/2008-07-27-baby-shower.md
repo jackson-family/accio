@@ -39,7 +39,7 @@ and I even got a good night&#x02bc;s sleep Friday night.
 
 Here&#x02bc;s a picture of the food after we got it all set out!
 
-<img src="{static}/images/2008-07-19-baby-shower-food.jpg" alt="Baby shower food" class="img-fluid">
+![Baby shower food]({static}/images/2008-07-19-baby-shower-food.jpg)
 
 And the shower was fun. Lots of sisters from our ward came, and Katie did a
 great job with the games and keeping everything moving at a good pace. And I had

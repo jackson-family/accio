@@ -79,9 +79,9 @@ You: You&#x02bc;re so lucky. So, do you have any pictures of her?
 
 Me: Yes, look here:
 
-<img src="{static}/images/2009-03-25-ultrasound-01.jpg" class="img-fluid">
+![]({static}/images/2009-03-25-ultrasound-01.jpg)
 
-<img src="{static}/images/2009-03-25-ultrasound-02.jpg" class="img-fluid">
+![]({static}/images/2009-03-25-ultrasound-02.jpg)
 
 You: Wow, that 3-D picture is amazing! I didn&#x02bc;t know they could do that
 these days. Ooh, that other picture of her face is kind of freaky.

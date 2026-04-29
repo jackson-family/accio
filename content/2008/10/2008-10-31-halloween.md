@@ -3,7 +3,7 @@ urlname: halloween
 date: 2008-10-31
 author: Rebecca
 
-<img src="{static}/images/2008-10-31-pumpkin-02.jpg" class="img-fluid">
+![]({static}/images/2008-10-31-pumpkin-02.jpg)
 
 This is not a &ldquo;Look how cute my kid&#x02bc;s costume is at the Ward Trunk
 or Treat&rdquo; post. No kids, so no cute costumes. Maybe someday &hellip;

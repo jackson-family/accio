@@ -9,13 +9,13 @@ favorites. But recently, Rebecca has learned something interesting:
 
 Good Things Happen when you leave William alone in the kitchen.
 
-<img src="{static}/images/2008-09-28-biscuits-01.jpg" alt="Biscuits" class="img-fluid" />
+![Biscuits]({static}/images/2008-09-28-biscuits-01.jpg)
 
 I enjoy occasionally getting up early and making breakfast before Rebecca gets
 out of bed. This morning I tried my hand at Cinnamon Raisin Biscuits (from *The
 Ultimate Southern Living Cookbook*). They turned out great and Rebecca loved
 them!
 
-<img src="{static}/images/2008-09-28-biscuits-02.jpg" alt="Biscuits" class="img-fluid" />
+![Biscuits]({static}/images/2008-09-28-biscuits-02.jpg)
 
 I&#x02bc;m worried this is turning into a food blog.

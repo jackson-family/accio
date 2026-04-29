@@ -14,7 +14,7 @@ parents, Grandma, Grandmother (and believe me, there is a difference), and
 brother Mark and his family. The Salt Lick makes delicious barbecue; I
 especially like the sausage.
 
-<img src="{static}/images/2008-07-04-salt-lick.jpg" alt="Salt Lick" class="img-fluid" />
+![Salt Lick]({static}/images/2008-07-04-salt-lick.jpg)
 
 Next Rebecca and I drove to Waco to spend the balance of the weekend with my
 family. We had some delicious barbecue chicken for dinner, played dominoes and

@@ -3,7 +3,7 @@ urlname: heisman-hijinks
 date: 2008-02-15
 author: Rebecca
 
-<img src="{static}/images/2008-02-15-heisman-trophy.jpg" alt="Heisman Trophy" class="img-fluid" />
+![Heisman Trophy]({static}/images/2008-02-15-heisman-trophy.jpg)
 
 Early this year, I was chatting with my old roommate Elizabeth who was working
 feverishly on her CV as part of her application packet. It was late at night,
@@ -34,7 +34,7 @@ William also played along with the joke and decided to update Wikipedia to show
 Elizabeth as the 2004 Heisman Trophy winner. It lasted all of 8 hours before
 someone updated the entry, but it was still pretty funny.
 
-<img src="{static}/images/2008-02-15-wikipedia.png" alt="Screenshot of Wikipedia entry listing Heisman Trophy winners" class="img-fluid" />
+![Screenshot of Wikipedia entry listing Heisman Trophy winners]({static}/images/2008-02-15-wikipedia.png)
 
 The day for his talk arrived. I admit that I was also pretty excited to hear Ty
 Detmer, since I remember when he won the Heisman Trophy and Dad telling me how
@@ -67,9 +67,9 @@ when he played on the 49ers with Steve Young and all six of the LDS players on
 the team would have a little sacrament meeting on Saturday nights before their
 games.
 
-<img src="{static}/images/2008-02-15-ty-detmer.jpg" alt="Ty Detmer" class="img-fluid" />
+![Ty Detmer]({static}/images/2008-02-15-ty-detmer.jpg)
 
-<img src="{static}/images/2008-02-15-rebecca-ty-elizabeth.jpg" alt="Rebecca, Ty, and Elizabeth" class="img-fluid" />
+![Rebecca, Ty, and Elizabeth]({static}/images/2008-02-15-rebecca-ty-elizabeth.jpg)
 
 He seemed like a really nice guy and completely humble about all of his
 accomplishments. Even during the questions where people asked him, &ldquo;What

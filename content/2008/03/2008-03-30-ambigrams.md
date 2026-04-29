@@ -11,10 +11,10 @@ Here we have a photograph of me holding up a DVD of *The Princess Bride* which
 Rebecca gave me for my birthday. It clearly reads, &ldquo;The Princess
 Bride&rdquo;.
 
-<img src="{static}/images/2008-03-17-princess-bride.jpg" alt="The Princess Bride" class="img-fluid" />
+![The Princess Bride]({static}/images/2008-03-17-princess-bride.jpg)
 
 Here is the same photograph, rotated 180 degrees:
 
-<img src="{static}/images/2008-03-17-princess-bride-rotated.jpg" alt="The Princess Bride" class="img-fluid" />
+![The Princess Bride]({static}/images/2008-03-17-princess-bride-rotated.jpg)
 
 Amazing.

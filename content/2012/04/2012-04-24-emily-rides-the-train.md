@@ -31,7 +31,7 @@ platform and tried out all the benches we could find. Finally a train came by,
 but it was not going the way we wanted to go and it didn&#x02bc;t even stop at
 our station. Emily was impressed with how fast it went.
 
-<img src="{static}/images/2012-04-14-train-1.jpg" alt="Emily at the train station" class="img-fluid">
+![Emily at the train station]({static}/images/2012-04-14-train-1.jpg)
 
 We waited a little longer and our train arrived. At first it looked like Emily
 was apprehensive about getting on. She wanted me to carry her. But once we were
@@ -46,7 +46,7 @@ voice announcing stations and we practiced saying the station names.
 &ldquo;MLK Jr Station,&rdquo; I said. &ldquo;LMNOK Junjor Station,&rdquo; Emily
 repeated.
 
-<img src="{static}/images/2012-04-14-train-2.jpg" alt="Emily on the train" class="img-fluid">
+![Emily on the train]({static}/images/2012-04-14-train-2.jpg)
 
 The trip downtown took about half an hour, and by the time we got there Emily
 was ready to get off and look around. She also wanted to go to the restroom. The
@@ -60,7 +60,7 @@ meltdown and cried for about ten minutes. Emily did what she always does in that
 situation. She looked at the boy like there was something wrong with him and
 asked me, &ldquo;Is that boy sad?&rdquo;
 
-<img src="{static}/images/2012-04-14-train-3.jpg" alt="Emily on the train" class="img-fluid">
+![Emily on the train]({static}/images/2012-04-14-train-3.jpg)
 
 At one point I realized that when Emily said something like, &ldquo;When we get
 to our station, are we going to get off?&rdquo; or &ldquo;How far is it to our

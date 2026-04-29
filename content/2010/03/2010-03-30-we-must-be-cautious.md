@@ -8,4 +8,4 @@ the hood on her and Rebecca came up with the best nickname ever:
 
 ### *&ldquo;Baby-wan Kenobi&rdquo;*
 
-<img src="{static}/images/2010-03-30-baby-wan-kenobi.jpg" alt="Baby-wan Kenobi" class="img-fluid">
+![Baby-wan Kenobi]({static}/images/2010-03-30-baby-wan-kenobi.jpg)

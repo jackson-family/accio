@@ -12,4 +12,4 @@ Wait a minute &hellip; Rebecca&#x02bc;s mother &hellip; my mother &hellip; Emily
 
 Double grandmother action!
 
-<img src="{static}/images/2010-04-24-em-grandmothers.jpg" alt="Emily and her grandmothers" class="img-fluid">
+![Emily and her grandmothers]({static}/images/2010-04-24-em-grandmothers.jpg)
