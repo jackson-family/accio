@@ -32,4 +32,4 @@ measure.
 
 My wife is amazing.
 
-[a]: https://dineatbuca.com/
+[a]: https://en.wikipedia.org/wiki/Buca_di_Beppo
