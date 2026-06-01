@@ -8,6 +8,8 @@ It is no secret that Rebecca and I like picking berries together. In March of
 to pick strawberries. We had such a wonderful time (I did, at least) that I
 dubbed it &ldquo;The Perfect Day&rdquo;.
 
+[a]: https://sweetberryfarm.com/index.html
+
 Then in May of 2007, we went back to the same farm to pick blackberries. That
 was the day I told Rebecca I intended to put a ring on her finger. Quite
 memorable.
@@ -27,20 +29,19 @@ pleasant, but I will admit it was not as pretty as the drive to Marble Falls, in
 my opinion. But we got to stop in Elgin on the way back for &ldquo;[the best
 tasting sausage in the free world][b]&rdquo;.
 
+[b]: https://meyersbarbecue.com/
+
 Other things we did today:
 
-*   We shopped at the Boy Scouts of America shop because I was recently called
-    as an 11-year-old Scout Leader in my ward and I needed a new shirt and a new
-    book.
-*   I had an eye exam and we picked out new glasses for me because it has been
-    five years since my last exam and I lost my glasses a week ago. Well, I know
-    exactly where I put them: on the seat next to me on the bus. I just
-    didn&#x02bc;t pick them up again before I got off the bus.
-*   We bought beach towels because we plan to do some serious swimming (read
-    *lounging*) in our apartment complex pool this summer.
-*   We lounged in our apartment complex pool for a while.
+* We shopped at the Boy Scouts of America shop because I was recently called
+  as an 11-year-old Scout Leader in my ward and I needed a new shirt and a new
+  book.
+* I had an eye exam and we picked out new glasses for me because it has been
+  five years since my last exam and I lost my glasses a week ago. Well, I know
+  exactly where I put them: on the seat next to me on the bus. I just
+  didn&#x02bc;t pick them up again before I got off the bus.
+* We bought beach towels because we plan to do some serious swimming (read
+  *lounging*) in our apartment complex pool this summer.
+* We lounged in our apartment complex pool for a while.
 
 Today was a good day.
-
-[a]: https://sweetberryfarm.com/index.html
-[b]: https://cuetopiatexas.com/
