@@ -42,6 +42,6 @@ Mission accomplished.
 
 [c]: https://smittenkitchen.com/2009/05/broccoli-slaw/
 
-[d]: https://www.simplyrecipes.com/recipes/simple_cooked_tomato_salsa/
+[d]: https://web.archive.org/web/20250626180950/https://www.simplyrecipes.com/recipes/simple_cooked_tomato_salsa/
 
 [e]: https://noblepig.com/coconut-lemon-loaf/
