@@ -17,5 +17,6 @@ these ourselves soon.
 I made a [Coconut Dream Tart][b] at Rebecca&#x02bc;s request, and we both loved
 that, too.
 
-[a]: https://www.stltoday.com/lifestyles/food-and-cooking/recipes/article_c9d41c78-51da-5696-aeb0-1a70d258e2d6.html
+[a]: https://secretcopycatrestaurantrecipes.com/california-pizza-kitchen-avocado-egg-rolls-recipe/
+
 [b]: https://www.onceuponachef.com/recipes/coconut-cream-pie.html
