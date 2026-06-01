@@ -21,7 +21,7 @@ while supporting what seems to be a very worthy cause. And we waited patiently
 for our turn to join the CSA. About a month ago, I got an email letting me know
 that there was a spot in [Johnson&#x02bc;s Backyard Garden][b] for us.
 
-[b]: https://www.jbgorganic.com/
+[b]: https://web.archive.org/web/20090324083803/http://www.jbgorganic.com/
 
 I decided to sign up for the 4-week trial, where we would get a box of
 vegetables every other week. I like vegetables OK, but they&#x02bc;re not
@@ -33,7 +33,9 @@ than going out to the farm and picking them. The total cost for four boxes is
 $120, which I think, is still cheaper than what I would pay at the grocery store
 for a comparable amount of organic vegetables, averaging $15 a week for veggies.
 
-![Assorted vegetables]({static}/images/2009-03-04-vegetables.jpg)
+![Assorted vegetables][c]
+
+[c]: {static}/images/2009-03-04-vegetables.jpg
 
 Today, we picked up our first box after work. The picture above shows everything
 that we found in our box. It&#x02bc;s usually a surprise &mdash; you get what
@@ -58,7 +60,9 @@ well, powerfully minty. I even tasted an arugula leaf from the salad mix, and
 boy, was it good. And here is my favorite from this week&#x02bc;s selection, a
 teeny little cabbage. It&#x02bc;s absolutely perfectly sized, in my opinion.
 
-![Rebecca holding a tiny cabbage]({static}/images/2009-03-04-cabbage.jpg)
+![Rebecca holding a tiny cabbage][d]
+
+[d]: {static}/images/2009-03-04-cabbage.jpg
 
 Thus begins our experiment with organic vegetables. Aren&#x02bc;t we so hip? And
 if we find good recipes for all these veggies, we&#x02bc;ll put them on My
