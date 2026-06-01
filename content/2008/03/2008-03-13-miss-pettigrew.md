@@ -8,4 +8,4 @@ Pettigrew Lives for a Day*. We liked it! And you probably will, too, if you can
 understand the British accents. Here&#x02bc;s the [review][a] that ran in the
 New York Times. Enjoy!
 
-[a]: https://www.nytimes.com/2008/03/07/movies/07pett.html
+[a]: https://web.archive.org/web/20131221074303/https://www.nytimes.com/2008/03/07/movies/07pett.html
