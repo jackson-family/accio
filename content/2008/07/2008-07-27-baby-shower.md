@@ -45,6 +45,6 @@ And the shower was fun. Lots of sisters from our ward came, and Katie did a
 great job with the games and keeping everything moving at a good pace. And I had
 a blast making all of that food. So much fun!
 
-[a]: https://www.simplyrecipes.com/recipes/quiche_lorraine/
+[a]: https://web.archive.org/web/20250607062729/https://www.simplyrecipes.com/recipes/quiche_lorraine/
 
 [b]: https://web.archive.org/web/20231223152307/https://www.myrecipes.com/recipe/cha-cha-chicken-salad
