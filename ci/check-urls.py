@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures
+import http.client
 import os
 import pathlib
 import re
@@ -42,7 +43,15 @@ BROWSER_HEADERS = {
 class NoRedirect(urllib.request.HTTPRedirectHandler):
     """Treat redirects as terminal responses instead of following them."""
 
-    def redirect_request(self, req, fp, code, msg, headers, newurl) -> None:
+    def redirect_request(
+        self,
+        req: urllib.request.Request,
+        fp: http.client.HTTPResponse,
+        code: int,
+        msg: str,
+        headers: http.client.HTTPMessage,
+        newurl: str,
+    ) -> None:
         return None
 
 
@@ -60,7 +69,7 @@ def extract_urls(root: pathlib.Path) -> dict[str, list[tuple[str, int]]]:
     return urls
 
 
-def _open(url: str, method: str, timeout: float):
+def _open(url: str, method: str, timeout: float) -> http.client.HTTPResponse:
     req = urllib.request.Request(url, method=method, headers=BROWSER_HEADERS)  # noqa: S310
     return OPENER.open(req, timeout=timeout)
 
